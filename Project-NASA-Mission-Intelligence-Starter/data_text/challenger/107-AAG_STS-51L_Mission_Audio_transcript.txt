@@ -1,0 +1,2234 @@
+CHALLENGER STS-51L MISSION AUDIO TRANSCRIPT
+Audio File: 107-AAG_STS-51L_Mission_Audio
+Transcription Date: 2025-07-13T12:33:40.358878
+================================================================================
+
+SPEAKER-SEGMENTED TRANSCRIPT:
+----------------------------------------
+
+[28:09] spk_0: Good morning This is shuttle launch control at T minus 3 hours and holding We're about 4.5 hours away from the opening of today's launch window for Mission 51L with America's first private citizen to fly aboard the shuttle in NASA's spaceflight participation program This will be the 10th flight for the Orbiter Challenger and the 25th launch for the Space transportation system
+
+[28:33] spk_0: The nominal launch window opens at 9:37 a.m. Eastern and closes at 12:37 p.m. Eastern The weather at this time looks good We have scattered clouds at 2500 and 25,000 ft with winds out of the Northwest gusting up to 20 knots
+
+[28:51] spk_0: Landing will be scheduled for Sunday February 2nd at Kennedy Space Center at 10:11 a.m. Eastern The 51 hour crew members are commander Francis Dick Scobie pilot Michael Smith Mission specialist Judy Resnick Ellison Onizuka Ronald McNair and payload specialist Greg Jarvis along with teacher and space participant Krista McAuliffe
+
+[29:16] spk_0: The crew is sleeping at this time They are scheduled to be awakened at 5:17 a.m. The countdown is running very smoothly since it began at 10:00 a.m. Thursday at the T-minus 43 hour mark The count entered an extended hold at the 11 hour mark at 6 p.m. on Friday and remained in a hold due to unacceptable weather conditions in the area at the originally planned launch time of 9:36 a.m. Saturday
+
+[29:44] spk_0: In a final weather review attended by program managers Saturday night at 10 p.m. the management decided to postpone the launch attempt for 24 hours
+
+[29:54] spk_0: The rotating service structure was put back into place around the vehicle to provide weather protection during the inclement weather The count resumed at 8:17 p.m. Sunday and the rotating service structure was moved away from the vehicle at about that time
+
+[30:08] spk_0: Since then the shuttle's massive external tank has been filled with its flight load of half a million gallons of super cold liquid oxygen and liquid hydrogen propellants That activity began on schedule at the T minus 6 hour mark which was shortly after 1:17 a.m. Monday Propellant loading was finished at about 4:17 a.m. The external tank is now in a stable replenished mode of the tanking process
+
+[30:35] spk_0: Small amounts of liquid hydrogen and oxygen will be added to keep the tanks at the 100% mark Hydrogen will be continuously added until just 2 minutes and 57 seconds before lift off when the hydrogen tank is pressurized Liquid oxygen replenished terminates at the T minus 455 2nd mark
+
+[30:55] spk_0: All is continuing to go well at this time The countdown entered this hold at 4:17 a.m. and it will extend until 7:17 a.m. We are looking for an on-time launch of 51L at 9:37 a.m. Eastern
+
+[31:10] spk_0: At T minus 3 hours and holding this is shuttle launch control
+
+[31:17] spk_0: This is shuttle launch control The flight control office out of Houston has indicated that upper level winds are not satisfactory for a launch because of the load factors it places on the vehicle At this time however subsequent weather data from weather balloons that is being gathered will be analyzed by a computer to see if those winds are changing prior to launch time
+
+[31:40] spk_0: We're at T minus 3 hours and holding and this this hold at T minus 3 hours has become a standard part of a shuttle countdown The hold is put here in case we run into any problems during the tanking process This gives the launch team a chance to fix those problems so that the countdown can be resumed on time
+
+[31:58] spk_0: The Lockheed test director has confirmed with the external tank test conductor that we are in a stable replenish mode with the main cryogenic propellants and he has given the go for the closeout crew and the ice inspection teams to clear the roadblocks and enter the pad to begin their jobs And in just the last few minutes the launch team completed alignment of the primary and backup mileage tracking antennas
+
+[32:22] spk_0: And informed Mission Control in Houston that they can now command Challengers S-band antenna transponders to high frequency Orbital vent doors have been reconfigured to their pre-launch positions now that the external tank is essentially full
+
+[32:37] spk_0: The data processing system engineer here in the firing room has remotely configured Challenger's on board countdown timer to tick off the final hours of the countdown The external tank test conductor has informed the Lockheed test director that both oxygen and hydrogen are now in a stable replenished mode and the ice debris inspection team has been given permission to proceed to the pad to begin their examination of the tank
+
+[33:03] spk_0: The closeout crew has also been given permission to enter the pad and begin their preparations for the flight crew's arrival
+
+[33:11] spk_0: The 7 member ice debris inspection team has cleared the roadblocks set up to prevent people from entering the 3 mile blast danger area that surrounds the pad and they're now on their way into the pad
+
+[33:23] spk_0: The group is made up of engineers from several NASA field centers and contractor organizations They'll go first to the zero level of the shuttle's transportable launch platform to inspect the tank's aft dome and the shuttle's engines
+
+[33:36] spk_0: Their next stop will be the 135 ft level to get a good view of the orbiter to external tank umbilicals and then on to the 195 ft level which is the point where the crew access arm extends from the surface tower to the vehicle and affords a view of the orbiter's forward attach point to the external tank
+
+[33:55] spk_0: Their next stop will be the 215 ft level which corresponds to the very tip of the external tank From there they can see how effective the beanie cap or GO vent hood is at collecting the gaseous oxygen vapors and preventing them from forming ice on the top of the tank They'll make one last stop again at the zero level of the mobile launch platform before concluding their inspection and returning to the launch control center
+
+[34:22] spk_0: The team leader will then make a brief report back to the senior shuttle management concerning what they saw
+
+[34:28] spk_0: The closeout crew has also arrived at the pad now and are proceeding up to the white room where they'll begin getting things ready for the flight crew There are 6 people that make up the closeout crew including a pad leader an astronaut a suit technician 1 NASA quality control person and 2 mechanical technicians
+
+[34:46] spk_0: Once inside the crew module the astronauts support person will don headgear and verify the communications between the orbiter and the firing room The crew seats will be inspected and prepared for the astronauts and items not required for flight or closeout will be removed
+
+[35:03] spk_0: Drinking water supply tanks have been looked at and it's been determined that there is ample room in those tanks to accept the water being generated by the fuel cells between now and launch Otherwise excess water could be dumped out of the tanks to make room for the water generated by the fuel cells as a byproduct of their operation At T minus 3 hours and holding this is shuttle launch control
+
+[35:28] spk_0: This is shuttle launch control at T minus 3 hours in holding We're about 47 minutes away from resuming the countdown and also about 4.25 hours away from the targeted liftoff time of 9:37 a.m. Eastern NASA test director Frank Merlino has been in contact with personnel in the astronaut quarters and has given them permission to wake the 51 hour flight crew members The 51 hour astronauts Commander Dick Cobi pilot Mike Smith
+
+[35:56] spk_0: Mission specialists Ellison Onizuka Judy Resnick and Ron McNair payload specialist Greg Jarvis and teacher and space participant Krista McAuliffe have now officially started the first day of their six day mission This is one of the major milestones in the countdown
+
+[36:16] spk_0: As it signifies the launch team's confidence that the vehicle is ready for launch
+
+[36:23] spk_0: If a significant problem existed at this time the crew would be allowed to continue sleeping because flight directors have determined over the years that they do not want the astronauts to have too long a workday from wake up to the start of their first sleep period
+
+[36:38] spk_0: One other flight crew restriction is the maximum time they are allowed to remain in the cockpit strapped to their seats That cannot exceed 6 hours At T minus 3 hours and holding this is shuttle launch control
+
+[36:53] spk_0: Roger LRD
+
+[36:55] spk_0: It's
+
+[36:56] spk_0: This is shuttle launch control at T minus 3 hours and holding The 51L launch countdown is on schedule and proceeding smoothly toward a launch today at 9:37 a.m. Eastern time
+
+[37:08] spk_0: Ah weather forecasts right now ah indicate that winds are in violation of the vehicle load factor Ah we are monitoring that at this time
+
+[37:19] spk_0: The nominal launch window for today extends until 12:37 p.m. This will be the first launch from Launchpad B since it was last used during the Apollo program
+
+[37:31] spk_0: Pad B on Launch Complex 39 was originally constructed as a starting point for man's journeys to the moon The pad was built as the second of two Saturn 5 pads for the Apollo program with construction beginning in December 1964 and ending in April 1967 The center of PA B is located 8,716 ft north of Pad A and is 4.25 miles from the vehicle assembly building via the crawlerway
+
+[38:00] spk_0: There have been 5 manned launches from PADB including Apollo 10 on a Saturn 53 launches of Skylab crews using the Saturn 1B rocket
+
+[38:11] spk_0: And we're joining the crew 51L for their breakfast the traditional breakfast Alison on Azuka as you see on the screen sitting beside Judy Resnick both mission specialists on board this mission
+
+[38:25] spk_0: And we have uh that's a pilot Mike Smith
+
+[38:30] spk_0: Sitting alongside Commander Dick Scobie
+
+[38:34] spk_0: Sitting in front of the traditional cake with the emblem and mission specialist Ron McNair
+
+[38:39] spk_0: And to his left Greg Jarvis he was payload specialist sitting beside Krista McAuliffe the teacher in space participant for this mission All of them getting ready to have a bite to eat before they begin doning their spacesuits and getting ready for their walk out to the astronaut van which will bring them out to the pad
+
+[39:02] spk_0: Once again the mission crew of Mission 51L
+
+[39:07] spk_0: Obviously looking as though they're having a good time
+
+[39:11] spk_0: We're about 20 minutes away from resumption of the countdown
+
+[39:17] spk_0: Several significant countdown events have taken place over the past several hours Just prior to entering the 2 hour built-in hold at 4:17 this morning the launch team completed loading the external tank with approximately a half a million gallons of super coal propellants The external tank loading operation is now in a replenished mode which means that liquid oxygen and liquid hydrogen are being added to the tank as those propellants boil off This maintains a full propellant level in the tank for the remainder of the countdown
+
+[39:45] spk_0: About the time we entered the hold the Lockheed test director gave permission for two special teams to enter the launch pad area to complete final preparations for today's launch The ice debris inspection team has been at work for about 1 hour traveling up launchpad B's fixed service structure to inspect critical areas of the external tank
+
+[40:07] spk_0: And orbiter for ice and frost formation and also making final uh findings which they are reporting to the firing room after finishing their inspection
+
+[40:18] spk_0: The white room closeout crew has entered the crew module to make sure that the ship is ready for the flight crew's arrival and entry in about 1 hour and 50 minutes
+
+[40:30] spk_0: NASA test director Frank Molino called the astronaut crew quarters with a go for crew wake up a little while ago and that event signified the last team's confidence that we are able to proceed on to liftoff
+
+[40:42] spk_0: The countdown for the launch of Mission 51L picked up at 100 a.m. on Thursday and since that time the KFC shuttle launch team has been activating vehicle systems and preparing ground launch facilities for this 25th launch in the shuttle program This will be the 10th flight of the Orbiter Challenger
+
+[40:59] spk_0: At T minus 3 hours and holding this is shuttle launch control
+
+[41:05] spk_0: This is shuttle launch control The 51 hour flight crew will receive a final weather briefing by a satellite in their crew quarters They're scheduled to be on their way to the launch pad at 6:47 a.m. here in firing room 3 of the launch control center All continues to go well Systems engineers at their consoles are monitoring the status of shuttle flight hardware and ground support equipment
+
+[41:29] spk_0: At Launchpad 39B astronaut Sonny Carter is aboard Challenger configuring cockpit switches for the crew entry and on the launch pad structure the ice in the ice inspection team rather is proceeding with their checks for ice and frost buildup The concern about ice formation is that any significant buildup could pose a potential hazard by breaking off at lift off and damaging the shuttle's heat protection time
+
+[41:55] spk_0: This is shuttle launch and we're about 6 minutes away from resuming the countdown for Mission 51 the 25th for the Space shuttle transportation system and the 10th mission for Challenger
+
+[42:14] spk_0: The ice inspection team has completed its inspection of the tank and is preparing to leave the pad at this time
+
+[42:21] spk_0: We've had a weather briefing from the contingency TAL sites Transatlantic abort sites in Dakar and Casablanca and Dakar is reporting the weather there as terrific Visibility is 5 miles plus Winds are out of the north northeast blowing at about 16 knots and there are no restrictions in the area Casablanca is reporting good weather conditions as well
+
+[42:44] spk_0: Currently the plan here ah in view of the fact that we do have winds that are exceeding ah wind load factors on the vehicle ah the launch director has announced a contingency plan to release some weather balloons The first one would go up at L 30 and ah that balloon would be measuring the winds below the 20,000 ft level
+
+[43:10] spk_0: Currently we are
+
+[43:14] spk_0: Less than 5 minutes away from receiving the count at T minus 3 hours and holding this is shuttle launch control
+
+[43:24] spk_0: This is shuttle launch control and we are just 1 minute away from picking up the count still at T minus 3 hours in holding
+
+[43:33] spk_0: The launch window for Mission 51L opens at 9:37 a.m. and extends until 12:37
+
+[43:40] spk_0: All's continuing to go smoothly with the countdown except for some weather constraints with wind velocities
+
+[43:47] spk_0: And as soon as we resume the count we will be taking a look at the weather situation The external tank has been filled with its light load of liquid oxygen and liquid hydrogen and we're at this point tracking no technical problems
+
+[44:01] spk_0: Coming up on picking up the count in just 20 seconds
+
+[44:06] spk_0: Landing and recovery director has stated communications and started communications checks with the various personnel stationed at the KFC runway and contingency landing sites
+
+[44:16] spk_0: T minus 3 hours and counting we have picked up the count
+
+[44:22] spk_0: This is shuttle launch control
+
+[44:26] spk_0: This is shuttle launch control at 2 hours and 47 minutes and counting
+
+[44:31] spk_0: A weather briefing is underway for the benefit of the flight crew to keep them up to date with weather patterns in the vicinity of the launch pad as well as the various contingency landing sites located around the world The weather conference is carried by a satellite from Houston and beamed into the crew quarters on the 3rd floor of the operations and checkout building
+
+[44:52] spk_0: Final launch preparations continue in the firing room to put the launch processing team in its launch configuration Standby front end processors which relay computer commands sent from firing room consoles to the orbiter's onboard computers and launch critical ground support equipment have been changed to radio frequency mode which means the data is now being processed through the mA tracking station instead of going strictly by hardline from the firing room to the pad
+
+[45:19] spk_0: Coming up in just a few minutes with the crew's scheduled departure from their quarters in the ONC building the flight crew will leave their dressing quarters and come down a hallway to an elevator which will take them from the 3rd floor down to the ground floor where the astronaut van is waiting
+
+[45:35] spk_0: At T minus 2 hours 45 minutes and 49 seconds and counting this is shuttle launch control
+
+[45:43] spk_0: This is shuttle launch control at T minus 2 hours 30 minutes and 58 seconds and counting Currently we are waiting for the 5 hour flight crew to depart from the ONC building that will be coming up imminently Meantime predictions for launch time indicate some cloudiness that
+
+[46:08] spk_0: Dissip scattered clouds at 3500 and 25,000 ft levels with good visibility Winds are out of the northwest at 10 knots gusting up to 20 knots Winds aren't expected to change throughout the morning and launch managers are taking a closer look at that A contingency plan has been put into effect
+
+[46:32] spk_0: Where the weather station would release a weather balloon at 30 to check the wind velocities below 20,000 ft Currently the wind velocities are exceeding the limits for the wind load factor on the vehicle of some concern to launch managers Once again we are awaiting word that the crew will be
+
+[46:58] spk_0: Ready to depart the ONC for their trip to the launch pad
+
+[47:03] spk_0: At that time they will be leaving their dressing quarters and coming down a hallway to an elevator which will take them from the 3rd floor down to the ground floor where the astronaut van is waiting There they will be met by a cadre of media representatives who several 100 media representatives have turned out for this particular mission featuring the insumahali
+
+[47:29] spk_0: Who will be flying aboard Challenger and experience of weightlessness and spaceflight to classrooms throughout the country
+
+[47:39] spk_0: Once again currently we are waiting for the crew to uh
+
+[47:43] spk_0: Ready their departure
+
+[47:46] spk_0: And we've received word that they they have just opened the crew quarters and shortly we'll be seeing them as they make their departure
+
+[47:57] spk_0: And we see here uh Commander Dick Scoby Miss Specialist Ron McNair Krystal McAuliffe uh following uh
+
+[48:08] spk_0: Mike Smith a pilot Judy Resni Greg Jarvis
+
+[48:14] spk_0: And uh George Abbey of course
+
+[48:19] spk_0: Astronaut crew chief
+
+[48:21] spk_0: As they make their way down the elevator from the 3rd floor level and we see that there's a sign out there somebody's holding a sign have a great flight Greggo the sign says
+
+[48:36] spk_0: That meant for uh payload specialist Greg Jarvis
+
+[48:42] spk_0: Awaiting the elevator to arrive on the first level with the flight crew
+
+[48:48] spk_0: And here we are Commander Dick Kirby followed by Mission Specialist Judy Resnick Ron McNair
+
+[48:55] spk_0: specialist Craig Jarvis specialist and giving a big wave to all media
+
+[49:04] spk_0: Followed by
+
+[49:09] spk_0: You can hear the press calling out to them
+
+[49:12] spk_0: As they step into the astronaut van it will take them out to the launch pad
+
+[49:20] spk_0: The weather here at Kennedy Space Center is chilly for a January morning Temperature is about 40 degrees
+
+[49:29] spk_0: Well the
+
+[49:31] spk_0: Which makes the air seem a whole lot chillier than it actually is
+
+[49:38] spk_0: I'll take a few minutes
+
+[49:40] spk_0: For the crew to get to the pad from the ONC building
+
+[49:44] spk_0: At which time they will be given the go to ingress the right wing and uh down their uh light helmets before they get into the cockpit and begin hooking up their communications and emergency oxygen tie-ups
+
+[50:01] spk_0: At T minus 2 hours 26 minutes 19 seconds and counting This is shuttle launch control
+
+[50:09] spk_1: This is shuttle launch control at T minus 2 hours 19 minutes and counting The Astro van carrying the crew of 51L has just made the turn near the vehicle assembly building proceeding toward the pad
+
+[50:24] spk_1: Ah prior to giving that go to proceed orbiter test conductor Roberta Wyrick ah checked with the orbiter ah close out crew to determine that there were no constraints ah either there or in the firing room for them to proceed further
+
+[50:42] spk_1: Once the astro van gets past the roadblocks it will proceed to the pad surface where the astronauts will get out and take the elevator to the 195 ft level of the fixed surface structure
+
+[50:56] spk_1: Right now they are going past the vehicle assembly building and we'll be pausing momentarily to allow the head of the astronaut office John Young to get out and the flight director from JSC George Abbey to also get out to come into the launch control center
+
+[51:18] spk_1: Out on the pad the closeout crew is making final preparation for the crew arrival Switches in the cockpit have been positioned by astronaut Sunny Billy Bob Carter to prevent any inadvertent firing of the forward and aft reaction control system while the crew is climbing into the vehicle
+
+[51:38] spk_1: Switches have also been configured to the proper settings to prepare the vehicle's electricity producing fuel cells for taking on on board cryogenic reactants when ground supplies are terminated about 3.5 minutes before liftoff
+
+[51:52] spk_1: The orbiter's navigational aids the tactical air navigation and radar altimeters have also been activated and they have reported back to the firing room that they are in the proper configuration
+
+[52:07] spk_1: Out at the shuttle landing strip astronaut Jung Yang will first have a briefing and then he'll prepare to make weather flights to determine what the visibility is here in the case of a return to launch site aboard However with the sun coming up the skies are looking very good here at the Kennedy Space Center Actually weather around the world is quite good for this morning's launch with the exception of some winds at about the
+
+[52:36] spk_1: 12,000 ft level here at the Kennedy Space Center which place loads on the orbiter which are out of tolerance
+
+[52:47] spk_1: The launch team has been taking a look at those constraints through the morning and have ordered up some additional weather balloons if needed which would be launched about 45 minutes prior to the intended T0
+
+[53:02] spk_1: And then again about an hour and a half after the intended T0 if that should be necessary as it is though all preparations on the pad and with the orbiter are moving along very well The countdown clock at T minus 2 hours 15 minutes 47 seconds and counting This is shuttle launch control
+
+[53:26] spk_1: This is shuttle launch control at T minus 2 hours 11 minutes 25 seconds and counting The astronaut van has arrived at the pad and shortly the crew will be getting out and walking over to the elevator which will take them up to the 195 ft level of the pad used for the first time the shuttle program
+
+[53:49] spk_1: And the 1st July of 1975 when the Apollo-Soyuz rendezvous mission was launched from it In the meantime it's been completely refurbished for the shuttle program checked out and ready to go with the first launch of the shuttle system and
+
+[54:07] spk_1: He is going to have many launches off of it this year and in the future At the present time the Lockheed test director Ken Genissek is pulling the various test conductors and verifying that there are no violations of launch criteria at this time which would prevent the flight crew getting into the Challenger Astronaut Sonny Billy Bob Carter is reported to the
+
+[54:36] spk_1: conductor that the crew module is ready for crews Everything going smoothly out on the pad at this time the only concern of the countdown clock at T minus 2 hours 9 minutes 35 seconds and counting This is shuttle launch This is shuttle launch control The flight crew reaching the white room area where they'll prepare for entering the orbiter
+
+[55:04] spk_1: And getting ready for their flight
+
+[55:08] spk_1: One of the members of the support crew up there with a mortar board and tassel welcoming the crew on board and in recognition of the fact that this is the first flight for a private citizen in space and it has been determined by President Reagan that that would be a school teacher
+
+[55:32] spk_1: Up in the white room each member of the crew will be putting on their integrated egress harness and the launch and entry helmet before getting into the vehicle The the first member to enter will be undoubtedly Commander Dick Scobie followed by pilot Mike Smith
+
+[55:52] spk_1: As they prepare to board each of them will put on an integrated egress harness The harness serves a variety of purposes primarily it's part of an emergency system that helps the crew climb out of the vehicle in the event of a crash landing
+
+[56:09] spk_1: A descent device connects to the crew members integrated harness and allows the astronaut to get out of the vehicle through either a side hatch or through the overhead escape panel The descent devices allow the crew members to lower themselves individually to the ground
+
+[56:24] spk_1: At a controlled rate of descent the harness also contains an inflatable life vest which provides 24 hours of flotation capability if an astronaut should be while the orbiter is in the water There's also an inflatable back support pillow located in the back of the harness which can be adjusted by each astronaut for their personal comfort by using a small red bulb located on the front of the harness
+
+[56:52] spk_1: The peer provides the astronauts with support at the lower back during the high acceleration of launch Commander Dick Scobi in the area now The expected temperature at the time of liftoff is only about 42 to 45 °F
+
+[57:16] spk_1: As each member enters the crew compartment and gets into his assigned seat he'll be hooked up to the communications panel and an emergency oxygen system which will be used in the event the crew cabin atmosphere either drops or is contaminated
+
+[57:37] spk_1: Seats for the mission commander and pilot are adjustable and after the astronauts are strapped in the height of each seat and the location of the rudder pedals which control the movement of the flight surfaces will be adjusted for their personal comfort
+
+[57:54] spk_1: Other equipment which each crew member carries in his flight suit would be familiar to most of us That includes pocket calculators several pens and pencils flashlights pocket knives handkerchiefs and even a small snack to tide them over until their first meal in space
+
+[58:12] spk_1: The flight crew appearing to be sort of crowding into the white room to get out of the cold
+
+[58:19] spk_1: And Commander Dick Scobie taking off his jacket to put on the egress harness
+
+[58:27] spk_1: Dick Scobi became a military pilot and later a test pilot the hard way He enlisted in the Air Force back in 1957 and was trained as a reciprocating engine mechanic Uh he was stationed at Kelly Air Force Base in Texas and he attended night classes and earned two years of college credits which led to his selection for the airman's Education and commissioning program
+
+[58:53] spk_1: He graduated from the University of Arizona with a degree in aerospace engineering He received his commission in 1965 and his wings in 1966 He completed a number of assignments for the Air Force including a tour of combat duty in Vietnam before attending the Air Force Aerospace Research Pilot School at Edwards Air Force Base
+
+[59:16] spk_1: Dick Scobie was the pilot of SDS 41C which was the shuttle mission in April 1984 which deployed the large long duration exposure facility which is still in orbit and captured and repaired the solar maximum mission satellite and replaced it in orbit where it is
+
+[59:35] spk_1: Functioning better than ever Mike Smith also suiting up and putting on his launch and entry helmets He's one of the few rookies on board this flight He's a graduate of the US Naval Academy of Annapolis and received his naval aviator wings in 1969
+
+[59:54] spk_1: He also had a 2 year tour of duty in Vietnam and is a graduate of the US Navy test pilot school and served as an instructor there for 18 months He served as commander while he's been with NASA of the Shuttle Avionics Integration Laboratory which tests all the instrumentation in computers and software for the shuttle
+
+[60:18] spk_1: And he was also deputy chief of aircraft operations and technical assistant to the director of flight operations
+
+[60:26] spk_1: Altogether he's flown 28 different types of civilian and military aircraft logging over 4300 hours
+
+[60:36] spk_1: Commander Dick Scobie now was
+
+[60:39] spk_1: Getting into the orbiter ah followed by pilot Mike Smith
+
+[60:45] spk_1: Prior to getting in the
+
+[60:47] spk_1: They have their feet checked and the shoe covers removed to ensure that they're not carrying any sort of contamination or dirt in says goodbye to the crew member and climbs in the door
+
+[61:03] spk_1: The compound going very smoothly as we come up on the T minus 2 hour point which is about a minute and a half away from that
+
+[61:13] spk_1: The only concern this morning is the sheer winds
+
+[61:19] spk_1: And the final normal balloon data comes in about 50 minutes before the nominal launch time However we have prepared to launch additional balloons if necessary to get data to see the trend and to see if it won't be possible to launch sometime during the window At this point we're still heading for 937 and hoping to make that
+
+[61:48] spk_1: The countdown clock at T minus 2 hours 43 seconds and counting This is shuttle launch control
+
+[61:57] spk_2: O
+
+[62:00] spk_2: Yeah 410 is that gonna be uh nonperforming
+
+[62:05] spk_2: Uh that should be put in work OK
+
+[62:09] spk_2: CMPSOT
+
+[62:12] spk_2: Go ahead you wanna pick up with step 412 uh pressurization MPS helium bottle
+
+[62:20] spk_2: GS 1
+
+[62:28] spk_2: of that
+
+[62:31] spk_3: OCD
+
+[62:35] spk_2: ATC I read you loud and clear how me
+
+[62:38] spk_2: Good morning
+
+[62:40] spk_3: Good
+
+[62:43] spk_3: OTCCSC 212 request to go on 422 the SOBRJ power Thank you
+
+[62:52] spk_3: I
+
+[62:56] spk_3: so you are you
+
+[63:00] spk_3: CTR this is LTD I read you loud and clear humming Good morning Good morning sir
+
+[63:08] spk_3: I can verify step 418,420
+
+[63:15] spk_2: Thank
+
+[63:15] spk_3: you
+
+[63:18] spk_3: OK
+
+[63:25] spk_2: Some
+
+[63:30] spk_3: TL
+
+[63:33] spk_3: LPD on here to one PLP I by me Good morning This is Ken
+
+[63:45] spk_3: OTC CMPS
+
+[63:48] spk_3: Step 16412 row 16 MSC
+
+[63:51] spk_2: presseration is complete
+
+[63:55] spk_2: Ask OCC or grand one
+
+[64:00] spk_2: Affirmative whenever you're ready you've got to go for your postings which
+
+[64:08] spk_1: This is shuttle launch control at T minus 1 hour 52 minutes 4 seconds and counting Ah up in the white room ah mission specialist uh Ellison Annazuku putting on uh his ah
+
+[64:24] spk_1: egress harness and also Ron McNair and Greg Jarvis all in a row there as they prepare to enter
+
+[64:35] spk_1: Ellison Anzuka has been a familiar face here at the Kennedy Space Center for quite some time being a member of the Cape Crusaders which is the astronaut crew which keeps track of things happening in preparations and helps with the team out at the pad
+
+[64:55] spk_1: This is his 2nd space flight for the native of Hawaii He's a graduate of Kono Waina High School and he earned both a bachelor and Master of Science degree in aerospace engineering from the University of Colorado
+
+[65:11] spk_1: After receiving his commission in the Air Force he served as a flight test engineer participating in flight test programs and safety engineering for the F-84 F-100 F-105 and many other aircraft
+
+[65:28] spk_1: Like other astronauts
+
+[65:31] spk_1: He has been frequently assigned to the many technical areas which are essential to successful flights and help carry information they are learning back to the flight crews His first flight was aboard STS 51C mission which was a dedicated Department of Defense payload
+
+[65:51] spk_1: Mission specialist Judy Resnick also putting on her egress harness now She was a mission specialist on the STS 41B which deployed 3 satellites and was responsible for operating a remote manipulator arm She will be again responsible for the remote manipulator arm and placing the Spartan Halley spacecraft in orbit and later recovering it in flight
+
+[66:21] spk_1: Her undergraduate degree was from Carnegie Mellon University and a PhD in electrical engineering from the University of Maryland
+
+[66:31] spk_1: Prior to joining NASA in 1978 as a mission specialist she worked as a senior systems engineer and product development for the Xerox Corporation in California
+
+[66:43] spk_1: She's a native of Akron Ohio is a classical pianist and also enjoys flying and bicycling during her free time
+
+[66:53] spk_1: Ellis and Anzuka now finishing up putting on his launch and entry helmet which is covered with a nylon cover to prevent any scratches to the um uh the face mask as he climbs in the orbiter
+
+[67:10] spk_1: Well the crew is preparing to enter the orbiter uh many other things going on uh uh by the launch team
+
+[67:19] spk_1: The status in the solid rocket booster retrieval area has been reported to the launch and recovery director and it's favorable
+
+[67:27] spk_1: The ground launch sequencer program has been started in the integration council here in the firing room Engineers set up the specific tables in the launch processing system that the ground launch sequencer will use as its guidelines to either let the countdown continue or call an automatic hold when it assumes control of the countdown
+
+[67:50] spk_1: At the minus 9 minute mark helium tanks in the orbiter's main propulsion system have been pressurized to their flight levels and gyro assemblies in the twin solid rocket boosters used to determine rates of motion during ascent activated
+
+[68:09] spk_2: Let's see would
+
+[68:09] spk_2: you repeat
+
+[68:11] spk_2: see this H5D we're getting a hydraulic emergency shutdown caused by a
+
+[68:17] spk_2: flight controls interrupts
+
+[68:18] spk_1: Up in the room payload specialist Krista McAuliffe was selected out of 11,000 applicants
+
+[68:34] spk_1: She teaches at Concord High School in Concord New Hampshire where her courses are primarily in the area of economics law American history and a course which developed called the Americano Mr McAuliffe grew up in Framington Massachusetts where her parents still reside and graduated from Framington State College
+
+[69:00] spk_1: Prior to accepting the position at Concord High School she taught in Maryland and then at Bundlett Junior High in Concord and Bowe Memorial High School as well
+
+[69:12] spk_1: Prior to her getting into the orbiter she'll be preceded by payload specialist or mission specialist Judy Resnick who is prepared and has had her shoes checked and is about ready to get in as well
+
+[69:30] spk_1: One of the courses which Krista McAuliffe developed which has become a permanent part of the curriculum at Concord High is for students who have become turned off by schools sometimes because of factors such as low ability or low motivation Called success it's a team teaching approach where the teachers work with small groups of students in the area of citizenship law careers and consumer skills
+
+[69:59] spk_1: In a way that connects the school with life and gives students to learn In addition to the many experiments which Kristen McAuliffe will be conducting
+
+[70:14] spk_1: She also will be keeping a sort of journal that pioneers crossing the country in the early days of this country and many people have done throughout history which sometimes provides some of the greatest insights into everyday life that they experience He began at the point of selection and will cover training flight and her thoughts and reactions to their return
+
+[70:41] spk_1: In the orbiter communication checks continuing The commander and pilot had completed their checks and Mission specialist Ellis and Anzuka talking to Mission Control and the firing room to ensure that his communications are working properly
+
+[70:59] spk_1: The countdown clock continuing here in the firing room at T minus 1 hour 44 minutes 40 seconds and counting This is shuttle launch control
+
+[71:11] spk_2: He later OTC 212
+
+[71:14] spk_2: Pat go ahead Yeah can you go 136 uh
+
+[71:18] spk_2: Talk to TBC about getting another red crew together please do
+
+[71:24] spk_3: 2 RRR and we're working 423 425 at this time
+
+[71:37] spk_1: This is shuttle launch control at T minus 1 hour 42 minutes and counting Mission specialist Judy Resnick now in the orbiter and about to start her communication check while teacher payload specialist Krista McAuliffe has put on her egress harness and that's being adjusted now and will be just about to put on her launch and entry helmet
+
+[72:03] spk_1: Krista McAuliffe has put on her Snoopy hat uh uh so called because it looks a little bit like the uh World War One aviator's hat that the uh Peanuts character Snoopy wears Uh she's putting on her launch and entry helmet Uh one of the things that uh sometimes is a little problem it has to uh to seal carefully
+
+[72:28] spk_1: And there has to be positioned properly so that can occur
+
+[72:38] spk_1: Mission Control in Houston saying good morning to Judy Resnick
+
+[72:43] spk_3: And that's
+
+[72:45] spk_3: MS 2 this is LTD on Around one reach there Good
+
+[72:49] spk_1: morning
+
+[72:52] spk_1: One of the only problems that have been detected so far in the ground support equipment has been a liquid oxygen replenish valve which apparently
+
+[73:03] spk_0: It's leaking just slightly
+
+[73:06] spk_0: Uh that valve will be torqued down by a special red crew if necessary and if we go into a longer hold
+
+[73:18] spk_0: Payload specialist Greg Jarvis
+
+[73:22] spk_0: Now in the process of putting on his
+
+[73:26] spk_0: A vest and launch an entry helmet
+
+[73:30] spk_0: He is a Hughes payload specialist was born in Detroit Michigan and graduated from the State University of New York in Buffalo Uh he earned a Master of Science degree in electrical engineering from Northeastern University in Boston
+
+[73:47] spk_0: He is presently completing another degree in management science at the West Coast University in Los Angeles
+
+[73:54] spk_0: He worked at Raytheon in Bedford Massachusetts designing electronic circuits and later was a communications payload engineer in their satellite communications program office
+
+[74:06] spk_0: After joining Hughes he first worked as a subsystem engineer on the Merriat program He was test and integration manager for the F1 and F2 LISA spacecraft which have been successfully deployed from the shuttle
+
+[74:22] spk_0: Krista McAuliffe now getting into her seat on board Challenger and we'll be hearing her
+
+[74:30] spk_1: Yeah just a minute
+
+[74:40] spk_0: Ron McMa who flew on the STS 41B mission which deployed two satellites and was the first flight of the manned maneuvering unit also suiting up now for his entry Greg Jarvis helping him with the
+
+[74:54] spk_0: The egress harness
+
+[74:57] spk_0: McNair earned his PhD in physics from the Massachusetts Institute of Technology where he was involved in the early development of chemical and high pressure carbon dioxide lasers In 1975 he studied laser physics with many authorities in the field at the School of Theoretical Physics in France
+
+[75:19] spk_0: In '76 he became a staff physicist with Hughes Research Laboratories working with lasers and also conducted research on electro-optical laser modulation for satellite communication
+
+[75:31] spk_0: Dr McNair also holds several honorary doctorates
+
+[75:36] spk_0: As each of the crew members enters the orbiter they get into their seats hook up the oxygen supply and their communication supply and go through cal checks
+
+[75:49] spk_0: The countdown proceeding smoothly
+
+[75:53] spk_0: We're standing by primarily for weather ah which does have a wind shear problem here at the Kennedy Space Center at the lower levels and right at the moment is unacceptable for flight Ah however the uh the basic weather as far as visibility for approach back to the Kennedy Space Center
+
+[76:19] spk_0: OK
+
+[76:30] spk_0: The capsule communicator in Houston telling teacher payload specialist Krista McAuliffe to have a fun flight
+
+[76:42] spk_0: The cloud cloud cover becoming a little bit heavier here at the Kennedy Space Center but that's expected to burn off as we get into the morning
+
+[76:55] spk_0: The countdown clock at T minus 1 hour 35 minutes 52 seconds and counting This is shuttle launch control
+
+[77:04] spk_1: Contex
+
+[77:09] spk_1: TPS
+
+[77:09] spk_1: loud and clear
+
+[77:16] spk_1: I
+
+[77:17] spk_1: PS PS2 LP
+
+[77:30] spk_1: SC 212 423 through 425 are complete
+
+[77:39] spk_1: R ego
+
+[77:41] spk_1: Are the are you on 212
+
+[77:44] spk_1: No
+
+[77:52] spk_0: This is shuttle launch control at T minus 1 hour and 30 minutes
+
+[77:57] spk_0: We're just about 1 hour and 50 minutes away from the nominal launch time of 9:37 this morning We still have 2 10 minute built-in holes in the countdown the one at T minus 20 minutes and one at T minus 9 minutes However there is a possibility that we could hold longer waiting for upper atmosphere wind conditions to become more satisfactory
+
+[78:24] spk_0: The ice inspection team which was out on the pad during the T minus 3 hour hold is just reporting back to the launch director Gene Thomas reporting that they believe that the conditions on the external tank and other parts of the orbiter will be acceptable for launch There is a bit more ice in frost than we normally see It's about 1/3 of the allowable amount at the present time
+
+[78:51] spk_0: And there's not expected to be significant build up between now and the time we launch because of the relatively low humidity in the area
+
+[79:02] spk_0: A number of tasks are going on of course all 7 members of the 51L flight crew are now in the shuttle and the orbiter test director Roberta Wick has verified with the orbiter systems engineers that they are ready to close the crew hatch for flight
+
+[79:21] spk_0: Before the hatch was closed the launch the close out crew removed items which were not needed for the mission such as the helmet visor protectors checklists and switch Once the hatch is closed and locked in place special plugs of insulating material will be screwed in place
+
+[79:41] spk_0: Checks on the astronaut communication channels have started between the crew and the firing room and checks with mission control over the air to ground loops have also been being conducted These checks verify that all the primary and backup communication channels are functional between the crew and ground facilities both here and at Mission Control in Houston
+
+[80:06] spk_0: The uh vent uh tubing which is used for supplying air into the crew cabin now has the foreclosing of the door
+
+[80:20] spk_0: Roger
+
+[80:24] spk_0: The countdown clock continuing at T minus 1 hour 27 minutes 23 seconds and counting This is shovel launch control
+
+[80:36] spk_1: And as OTC Around one
+
+[80:38] spk_1: OK you've got to go to close out the cre for fun
+
+[80:45] spk_1: ROTC
+
+[80:47] spk_1: OK whenever you guys are ready we'll pick up with the Ascom check
+
+[80:53] spk_1: OK we're ready
+
+[80:54] spk_1: OK I'm gonna be
+
+[80:56] spk_1: Switching air to ground to ICAO
+
+[81:03] spk_1: And I'll be switching air ground to at this time
+
+[81:09] spk_1: too hot copy
+
+[81:11] spk_1: from the commander's
+
+[81:12] spk_1: seat
+
+[81:14] spk_1: I was
+
+[81:17] spk_1: And that's pretty loud and clear
+
+[81:21] spk_1: Yeah I'll be back I come
+
+[81:26] spk_1: OK uh from the commander's side you're weak and barely readable I I I a
+
+[81:34] spk_1: declare
+
+[81:36] spk_1: And it's weak but clear
+
+[81:38] spk_1: we can
+
+[81:42] spk_1: PS2 we can
+
+[81:45] spk_1: I read and I can't be
+
+[81:48] spk_1: is
+
+[81:50] spk_1: One
+
+[81:51] spk_1: And
+
+[81:55] spk_1: To
+
+[81:58] spk_1: Play crew this is OTC on UHF How do you read
+
+[82:03] spk_1: Very
+
+[82:09] spk_1: And that's very loud and clear
+
+[82:12] spk_1: You
+
+[82:14] spk_1: Copy that and returning to air to ground one
+
+[82:18] spk_1: Houston flight OTC Around one
+
+[82:23] spk_1: OTC Houston flight OK we're ready for the Raj
+
+[82:30] spk_2: Challenger Houston good morning We're ready for our air to ground voice checks Need the CDR and PLT to configure for air to ground one and stand by my call
+
+[82:43] spk_0: Houston CDR on Around one
+
+[82:47] spk_2: OK CDR uh Houston uh loud and clear
+
+[82:52] spk_0: And use a BLT
+
+[82:54] spk_2: Are you loud and clear CDR and PLT configured for air to ground 2
+
+[82:59] spk_0: And
+
+[83:02] spk_2: Challenger Houston
+
+[83:07] spk_2: You're loud and clear on air ground too How do you read
+
+[83:12] spk_2: Challenger Houston loud and clear on air to ground too
+
+[83:18] spk_0: Houston CDI
+
+[83:21] spk_2: Challenger Houston you're loud and clear
+
+[83:27] spk_2: Yeah
+
+[83:30] spk_2: So
+
+[83:34] spk_2: Challenger Houston uh we have have you loud and clear on air to ground uh air to ground 2 and 1 but we might have a configuration problem here Stand by
+
+[83:52] spk_2: Challenger Houston uh while we're waiting uh let's go ahead uh commander and PLT configure for UHF and we'll check that
+
+[84:00] spk_2: OK it doesn't
+
+[84:01] spk_1: work
+
+[84:04] spk_2: Houston Chaer uh CDR on there
+
+[84:09] spk_2: Challenger uh Houston uh Dick I've got you loud and clear on you
+
+[84:15] spk_0: And you to challenge your BLT on the area
+
+[84:18] spk_2: Roger loud and clear and uh let's go back to Simo
+
+[84:26] spk_1: 22 as soon as you go to that
+
+[84:36] spk_1: COC 212 OK uh you can give me 581
+
+[84:43] spk_1: And we'll be picking that up at uh
+
+[84:47] spk_1: 1 hour and 10 minutes
+
+[84:49] spk_1: OK but you're ready for the TMT Delta adjuster Yes ma'am we're uh standing by OK thank you
+
+[84:57] spk_2: Tower Houston like for the CDR and PLT to configure for air to ground 2
+
+[85:06] spk_0: OK Houston
+
+[85:07] spk_0: or CER on to that
+
+[85:10] spk_2: Roger we've got you loud and clear How do you read uh Houston uh DC
+
+[85:16] spk_2: CPS copy
+
+[85:20] spk_2: Challenger Houston uh configured for simO voice checks
+
+[85:26] spk_2: Just a nod
+
+[85:31] spk_2: Roger uh that's firm it uh appears to be our problem uh on the uplink we're checking that
+
+[85:37] spk_2: And we'd like for you to configure for simal voice checks
+
+[85:42] spk_0: OK we're configured
+
+[85:45] spk_2: Roger Challenger Houston uh on uh for all crew members on uh how do you read
+
+[85:55] spk_1: Yeah
+
+[85:57] spk_1: that's loud and clear
+
+[86:00] spk_0: Yeah
+
+[86:04] spk_2: OK Challenger all crew members uh sim of voice checks were uh good
+
+[86:10] spk_1: OTC Houston flight
+
+[86:13] spk_1: Uh yeah Aground checks are complete We have a discrepancy on air ground too We think it's an in-house problem Let's pass for now and we'll come back and we want to retest
+
+[86:28] spk_1: BMCOT
+
+[86:30] spk_1: Go ahead you have Kiwi back there
+
+[86:34] spk_1: Can you call 51 We need them in 4 hour 23A immediately
+
+[86:39] spk_1: Copy that
+
+[86:42] spk_1: CDPSOTC
+
+[86:47] spk_1: Yes OK are you proceeding with the uh GMT delta OK
+
+[86:55] spk_1: DPS DMT adjust is ready for IMU pre flat line OK what was the delta -2 milliseconds 2 milliseconds copy that
+
+[87:08] spk_1: OTC We're going to be doing a short current count on Around 2 No response required from anybody else We're trying to troubleshoot our com problem It would help if the crew hears us just to give us a word on it
+
+[87:22] spk_1: Copy that uh CDR copy
+
+[87:24] spk_1: That we copy
+
+[87:29] spk_1: CNC you do have a go for 588
+
+[87:34] spk_2: Houston Capcom on air to ground 2 How do you read 54321
+
+[87:41] spk_0: This is shuttle launch control at T minus 1 hour 14 minutes and counting We've had some good good news here in the firing room from the weather experts and from the computer calculations at the Johnson Space Center in the control center there It appears that our winds aloft are now satisfactory for launch this morning
+
+[88:06] spk_0: We of course will continue to be watched as we go through the remaining hour and a half or so of the countdown There is a thickening cloud layer here in the Kennedy Space Center area However we're expecting that that's going to be burning off and hopefully will be satisfactory at launch time in the crew compartment the
+
+[88:33] spk_0: For a while there the crew had the air hose replaced because it was pretty cold in the cabin It was about 66 degrees when they got in and
+
+[88:49] spk_0: So while the final preparations were being made to close out the cabin uh they had additional warm air being pumped in there
+
+[88:59] spk_0: As it is now the final preparations for closeout are underway
+
+[89:07] spk_0: The astronaut support person who is Sonny Billy Bob Carter is in the process of taking out many of the things which were used for to have on hand in case they were needed during the ingress of the crew This includes things like flashlights screwdriver Alan Head tool the ASP checklist
+
+[89:32] spk_0: A spare headsets pocket knives pliers jewelers screwdrivers anything that would be needed to take care of a problem The door now closed and being
+
+[89:47] spk_0: secured and then the insulating plugs will be put in
+
+[89:52] spk_0: So here at the Kennedy Space Center the countdown continuing and building that we will be able to launch at 9:37 which is the beginning of our 3 hour launch window for this
+
+[90:07] spk_2: CDLs to fly if necessary
+
+[90:15] spk_0: Those are standing by but it appears now that they will not be needed
+
+[90:19] spk_2: Challenger Houston CDR I've got you loud and
+
+[90:22] spk_0: clear at the shuttle landing facility 4 miles west of the landing support convoy is now being that convoy would support the shuttle orbiter if it had to return to the Kennedy Space Center for any reason
+
+[90:38] spk_0: The convoy is made up of a number of vehicles including a purge truck which flows conditioned air through the vehicle a cooling vehicle and a special mobile white room
+
+[90:50] spk_0: The lift off time just about an hour and a half away although the countdown is at T minus 1 hour and 10 minutes where two more 10 minute build in holes in the count one at the minus 20 minute point and one at the minus 9 minute point
+
+[91:10] spk_1: So
+
+[91:10] spk_0: the countdown going satisfactorily at T minus 1 hour 10 minutes 25 seconds and counting This is shuttle launch control
+
+[91:20] spk_1: Yeah 594
+
+[91:23] spk_0: 595596 complete
+
+[91:28] spk_1: Go ahead Try is on his way with your request earlier Thank you
+
+[91:42] spk_1: I
+
+[91:45] spk_1: OTC 212 Go ahead How we doing on my hat We're right now OK
+
+[91:53] spk_1: Doing a continuity check
+
+[91:56] spk_1: OC OCCC this 02 m horn keeps going off here intermittently
+
+[92:03] spk_1: You can't stand yourself to think in here
+
+[92:06] spk_1: Our 2 m
+
+[92:07] spk_1: are reading fine
+
+[92:10] spk_1: OK I don't know if there's anything I can do about it Let me check I'd like to
+
+[92:14] spk_1: uh
+
+[92:15] spk_1: disconnected
+
+[92:17] spk_1: Can't stand yourself thinking here It is enormously
+
+[92:20] spk_1: loud
+
+[92:21] spk_1: OK
+
+[92:24] spk_1: COTC
+
+[92:27] spk_1: Go ahead you've got to go to disconnect I guess
+
+[92:32] spk_1: She's a good good dancing
+
+[92:35] spk_1: Complete with step 588 and uh we'll pick up 611 by the clock and can we have an engineer come out and look at our printer plotter OK
+
+[92:46] spk_1: OK uh on our continuity check we're only getting 11
+
+[92:53] spk_1: Michael switch
+
+[92:58] spk_1: We need a MEQ engineer
+
+[93:00] spk_1: M O
+
+[93:02] spk_1: Uh let's go ahead you copy that on the hatch They're only getting one micros on the continuity that's firm
+
+[93:10] spk_1: Could you have them open the hatch back up and close it again
+
+[93:13] spk_1: O OCC copy that
+
+[93:15] spk_1: Recommendation is to open and close again
+
+[93:20] spk_1: OTC OK uh NASA would like the MEQ engineer to come over on
+
+[93:24] spk_1: 143 143
+
+[93:27] spk_1: OK
+
+[93:31] spk_1: CV
+
+[93:33] spk_1: Yeah you want me to go ahead and open up that downwind vent door
+
+[93:38] spk_1: Yeah why don't you go ahead for now until we get the uh close up for that much closer to leaving
+
+[93:44] spk_1: OK I'll put that in work Thank you
+
+[93:47] spk_1: He comes right
+
+[93:49] spk_1: CTP
+
+[93:52] spk_1: Yeah I guess we probably need an extra IPR number for that
+
+[93:56] spk_1: OK CMTC
+
+[93:59] spk_1: Next IPR number
+
+[94:03] spk_1: 33 Victor 0249 OK that will be for AM
+
+[94:08] spk_1: You copy that and I'll get it to him as soon as he's back off of that
+
+[94:14] spk_1: ROTC
+
+[94:16] spk_1: OK for your information uh they were only getting one micros switch on their continuity checks Uh ASM has recommended opening the hatch checking the micros switches
+
+[94:25] spk_1: And then try and close the hatch again
+
+[94:28] spk_1: Roberta thanks
+
+[94:31] spk_1: OTC OC OK uh
+
+[94:35] spk_0: we hope that hatch and again we're still in one light
+
+[94:38] spk_0: One's not knowing
+
+[94:41] spk_0: OK
+
+[94:43] spk_0: The process of aligning the inertial measurement units begins when the units are calibrated during the early part of the countdown and the next step the one which is being accomplished at the present time is to make a transition from the calibration to the operation mode
+
+[95:02] spk_0: At the minus 61 minute point they transition into the pre-flight alignment mode and continue until the units are set to inertial at T minus 20 minutes
+
+[95:15] spk_0: We've just had an update of our weather forecast showing that the weather at the time of lift off should be satisfactory
+
+[95:23] spk_0: Actually the real call is going to be based on the visibility John Young flying the shuttle training aircraft will be flying approaches to the shuttle runway from the intended return to launch site abort direction which is Runway 33 coming from north to south to north
+
+[95:47] spk_0: The weather people are following very carefully the progress of the cloud patterns in the area which stretch pretty much from the Kennedy Space Center to the Gulf of Mexico However there are breaks in that area in the cloud deck and we're hoping that we will have a satisfactory conditions and that they will be burning off as the clock at minus 5 minutes
+
+[96:18] spk_0: 32 seconds and counting This is shuttle launch control
+
+[96:24] spk_1: And OK we have not done the cabin leak that's fine
+
+[96:31] spk_1: OK and we're pulling out the hats from the inside now thank you
+
+[96:36] spk_1: Don't you see CFMM
+
+[96:39] spk_1: Could you have MS one to assist the linkage
+
+[96:44] spk_1: To latch uh down there where the micro switch is
+
+[96:48] spk_1: At the end of the last gang
+
+[96:51] spk_1: OK uh MS3
+
+[96:55] spk_1: OTC
+
+[96:57] spk_1: OK uh AM uh suggests that you might uh try adjusting that linkage
+
+[97:04] spk_1: OTC OCC we're gonna open one more time
+
+[97:10] spk_1: CFM OCC OCC is CFM I need you to inspect the linkage and uh uh cycle it and make sure everything looks like it's going over center in there That's what we're gonna do
+
+[97:27] spk_1: You
+
+[97:29] spk_1: Good Yes ma'am Step 16-612 was kicked off on time Thank you
+
+[97:36] spk_1: OK we're gonna be pressed for time here we'd like to get the CMC on our channel
+
+[97:48] spk_1: 212 Can we speak to ASM real quick 143
+
+[97:55] spk_1: AM
+
+[97:58] spk_0: This is shuttle launch control at T minus 50 minutes and counting
+
+[98:03] spk_0: The close out crew in the white room continuing to work on the hatch to the Challenger Ah the problem is that
+
+[98:12] spk_0: Only one of the micro switches on the door indicates it's closed Once they have it in place They have checked out the various micro switches and determined that all of them are working have adjusted the linkages and are in the process of closing it once again to the to try and get it sealed Once they have accomplished that they will be asking Commander Dick Scobi to conduct the
+
+[98:39] spk_0: A cabin leak checks This is a check that goes on for some period of time here in the latter part of the countdown to ensure that the cabin is sealed properly for space flights
+
+[98:55] spk_0: Other activities going on
+
+[98:59] spk_0: I here at the moment
+
+[99:04] spk_0: I include pilot Michael Smith configuring the switches in the cockpit to preactivate the water spray boilers The orbiter has 3 spray boilers one for each hydraulic system and their job is to cool down the hydraulic fluid and the auxiliary power unit lubrication oil fluid and then vent the steam overboard
+
+[99:27] spk_0: Each spray boiler provides an expendable heat sink for the orbiter hydraulic systems fluid system on the ground
+
+[99:37] spk_0: We continue to receive weather information back here in the firing room at Casablanca the alternate transatlantic aboard site visibility was reported at 25 miles
+
+[99:54] spk_0: Uh dear however uh which has had very poor visibility during the past few weeks uh has been declared satisfactory for today's launch and it is selected as the primary transatlantic aboard site at the present time
+
+[100:10] spk_0: The people there were saying the forecast is for 4 to 5 miles visibility but people stationed at the site reported that they were able to see downtown from the airport and they estimated that it was greater than that But at the present time at Transatlantic site
+
+[100:33] spk_0: all satisfactory The weather people looking at the clouds here at the Kennedy Space Center area are reporting that there is a large area that is cloud-free about 60 miles wide coming across Florida which should give us relief from the present conditions either at launch time or slightly thereafter
+
+[101:01] spk_0: The real call will be determined by John Young flying the shuttle training aircraft who will be looking at the approach corridors to the the landing strip to determine whether or not there is good enough visibility to go
+
+[101:19] spk_0: Just a minute and a half from now the terminal count range safety closed loop system will get underway
+
+[101:28] spk_0: This test verifies that the shuttle's range safety receiver responds correctly to commands sent from the ground support equipment located in the mobile launch platform using the actual flight code inhibits have been placed in the system to prevent inadvertent firing of the safety devices during this test
+
+[101:50] spk_0: The countdown clock continuing at T minus 46 minutes 5 seconds and counting This is shuttle launch control
+
+[102:02] spk_1: And TP I'm gonna go ahead and pick up on step 638 though
+
+[102:07] spk_1: So we can keep on pretty much on time
+
+[102:11] spk_1: The PCC 69
+
+[102:18] spk_1: Oh
+
+[102:19] spk_1: The PSR read to complete that step 7-11
+
+[102:23] spk_1: on the 18 launches
+
+[102:30] spk_1: Do you
+
+[102:33] spk_1: C
+
+[102:34] spk_1: Go ahead
+
+[102:35] spk_1: Yes can I speak to the MS3 again Uh he's checking still checking Hold on one second
+
+[102:42] spk_1: latches that we can't see and if we have a preference
+
+[102:47] spk_1: we'd like to have one of the guys that's
+
+[102:49] spk_1: very familiar with the latches to come inside close the door check them to make sure they're all OK and send him back again OK
+
+[102:59] spk_1: OK we're in
+
+[103:08] spk_1: right now in the process of doing a stand by we'll do that OK
+
+[103:13] spk_1: Yeah we're picking up on 706 OK
+
+[103:18] spk_1: You see a CSM
+
+[103:20] spk_1: Go ahead
+
+[103:21] spk_1: Go ahead uh ASM OTC um
+
+[103:25] spk_1: If we have one of the microswitches already made and uh we've already done the leak check uh I don't think that we should be sending somebody inside Uh they haven't done the leak check yet they're doing the leak check now negative They are not doing the leak check now
+
+[103:39] spk_1: That's firm we are doing the lead check right now
+
+[103:42] spk_1: Yeah
+
+[103:43] spk_1: the hatch leak check they're doing it now and uh
+
+[103:48] spk_1: If the astronauts can verify that the the uh linkage is not loose then I don't think we have a problem with the hatch
+
+[103:55] spk_1: OK that's OK uh you wanna report what you saw
+
+[104:11] spk_1: And that's where you're on icon
+
+[104:14] spk_1: So I was on the ground
+
+[104:18] spk_1: 12 or 13 of the of the arrows I can't see them all
+
+[104:22] spk_1: They're all consistent
+
+[104:24] spk_1: Show that the arrows are not perfectly aligned with the black mark there There is some overlap but it's not dead
+
+[104:31] spk_1: Uh there's the
+
+[104:33] spk_1: line does have
+
+[104:33] spk_1: some thickness and the arrow have a slight overlap but I wouldn't call it
+
+[104:39] spk_1: That's his first all on him
+
+[104:41] spk_1: OK OCC you copy that and that's uh a a usual condition that uh they won't want up exactly but they are pretty close and that is a good indication
+
+[104:55] spk_1: And uh then that we see 13 latches we know that over half of them are
+
+[105:00] spk_1: On over center that indicates that that we do have a good latch of the the hatch there so I recommend it
+
+[105:07] spk_1: Uh proceed
+
+[105:09] spk_1: Uh without opening the hatch
+
+[105:12] spk_1: OK uh OCC how's the head on
+
+[105:17] spk_1: Uh we're having
+
+[105:18] spk_1: a little difficulty with that also
+
+[105:20] spk_0: We're shuttle launched at 4 52 seconds and counting ah continuing to discuss the orbiter's hatch on our air to ground circuit Ah we've had the ah mission specialist ah taking a look at the hatch indicators on the inside
+
+[105:45] spk_0: And we have been conducting a leak check to determine whether it is actually posed properly despite the fact that we have not been able to get an indication from the various micro switches up there
+
+[106:08] spk_1: CCSC OTC 212
+
+[106:12] spk_1: CCSC and RCRE on 232 thank you
+
+[106:19] spk_0: has requested that a switch to Challenger's S-band antennas to the high power mode be made and that we continue on with the tasks that we are able to do while the the hatch is being configured properly It appears that we're going to have one of the closeout crew go into the orbiter and watch the positioning of the various
+
+[106:48] spk_0: Locks on the hat to determine if they are actually going into the proper position The flight crew on board is not able to see all of those They can see part of them but not all of them Once that is determined and they're wiping down the seal once again to ensure that they get a good seal then we'll be able to go through the various loop checks that are essential and continue
+
+[107:16] spk_0: The communication system is also being configured so that at liftoff it will transmit and receive by radio rather than through the hard wires as it's done during the countdown The ground launch sequencer mainline computer system
+
+[107:32] spk_0: Has been activated and is now actually processing data here in the launch control center This program will monitor various key commands and systems prior to assuming control of the countdown at the minus 9 minute point
+
+[107:49] spk_0: Everything continuing on looking favorable as long as they get that hatch working properly for a lift off on time at 9:37 this morning The weather appears to be cooperating The hole in the clouds is expected to arrive at about the right time but not much later if it's necessary to hold
+
+[108:16] spk_0: They're continuing to discuss the hatch once again locking it and taking a look at the position of the various latches on the interior of the orbiter The countdown clock at T minus 38 minutes 43 seconds and counting This is shuttle launch control
+
+[108:36] spk_1: CP 713716 that thank you
+
+[108:42] spk_1: TLT OTC Airground one
+
+[108:45] spk_1: OK we're gonna catch up here on some of the stuff I'd like you to go ahead and pick up on your H2 boiler preactivation please
+
+[108:57] spk_1: CPLT H2
+
+[109:01] spk_1: Stage where verified thank you
+
+[109:04] spk_1: CCMTCT 228
+
+[109:09] spk_1: Hi
+
+[109:11] spk_1: Go ahead
+
+[109:17] spk_1: Uh yeah could you uh rewipe the seals when you close the hatch this time That's correct
+
+[109:23] spk_1: Do you think it would make a difference if the astronaut closed the hatch from the inside
+
+[109:28] spk_1: Uh that's a negative Uh what we're trying here we're gonna see if our thermal bearer might be rolling in too much too Uh we're gonna put armor light all the way around and then shut it
+
+[109:40] spk_1: Uh did you have somebody in there and close the hatch
+
+[109:43] spk_1: That's we did We did it twice He did not sign the nominees
+
+[109:50] spk_1: Yeah the te said it looks
+
+[109:51] spk_1: real good in there
+
+[109:53] spk_1: OK
+
+[109:57] spk_1: Took out
+
+[109:59] spk_1: CFM again I'm gonna
+
+[110:02] spk_1: Needing some uh T and coupons from you here
+
+[110:05] spk_1: So uh don't forget me I won't
+
+[110:09] spk_1: 0 cc 212 OK just got a report from
+
+[110:13] spk_1: GOIS that uh ICO
+
+[110:15] spk_1: A uh down like from the
+
+[110:17] spk_1: orbiter is getting very weak we suggest that you have to go to
+
+[110:20] spk_1: backup use ICO B only
+
+[110:24] spk_1: The ROTC Around one
+
+[110:26] spk_1: OK you copy that icon a uh down link is very weak OK
+
+[110:33] spk_1: As expected
+
+[110:35] spk_1: See you
+
+[110:37] spk_1: Yeah just uh be advised that the configuration we're in
+
+[110:40] spk_1: right now with the hatch
+
+[110:41] spk_1: open uh and the the purge that not inside is causing our PPO2s to go down
+
+[110:48] spk_1: And if we're gonna be in this configuration for an extended period of time we need to put that duck back in there I copy that It won't be long
+
+[110:59] spk_1: CD copy that you might see that and we're close
+
+[111:10] spk_1: Go ahead go close with a hatch again OK
+
+[111:17] spk_1: A later OTC
+
+[111:19] spk_1: Yes go ahead Yeah pad uh step 762 we need the post launch inspection saving personnel at 11
+
+[111:27] spk_1: OK you want me to make that announcement Uh yes please OK
+
+[111:32] spk_1: LTV launch
+
+[111:33] spk_1: director
+
+[111:35] spk_1: OK we're gonna
+
+[111:36] spk_1: continue to count to 9 minutes and then if we need to extend the hole at 9 minutes to
+
+[111:41] spk_1: play catch up and wait for the
+
+[111:43] spk_1: weather we'll do that
+
+[111:46] spk_1: I copy director
+
+[111:50] spk_1: RO
+
+[111:52] spk_1: OK
+
+[111:54] spk_1: I'd like you to go ahead and perform your past CSS prep
+
+[112:02] spk_1: And OTCFS
+
+[112:07] spk_1: Plans are directed
+
+[112:08] spk_1: to challenge
+
+[112:11] spk_1: Oh sorry go ahead
+
+[112:13] spk_1: OK Dick you make
+
+[112:14] spk_1: sure that the the
+
+[112:15] spk_1: the non-passengers leave before we go today
+
+[112:25] spk_1: OK uh perform stand to press please
+
+[112:33] spk_0: This is shuttle launch control at 2 30 minutes and counting Commander Dick Scobi has just told the orbiter test conductor Roberta Warrick to make sure that the extra passengers leave before they depart They've had a technician in the crew compartment about 3 times now taking a look at the latches on the door which they
+
+[112:59] spk_0: are hoping is now closed In the meantime other preparations have gone on here Activation of the SBA communication system to high power has been completed and the launch and recovery director has verified that the shuttle landing strip is ready for a return to launch site aboard
+
+[113:18] spk_0: We've also verified that various contingency landing sites in the SRB recovery ships are ready for long Commander Dick was asked by orbiter test conductor Roberta Wyre to perform the test of the transfer capability between the primary ascent computer redundant set and the single backup flight system computer
+
+[113:43] spk_0: The test verifies that critical guidance data can be transferred from the redundant set of 4 simultaneously operating general purpose computers to the single backup computer and that the computers can operate in synchronization throughout the countdown the computers talk back and forth to each other assuring each other that everything is fine and working properly
+
+[114:08] spk_0: And we've just gotten a go for a cabin leak check from orbiter test conductor Roberta Wyrick and uh it looks like the the door is sealed at the present time Uh the cabin leak check will verify that
+
+[114:25] spk_0: Ah we have a potential for extending the hole at the T minus 9 minutes point for weather There is a a hole wide hole in the clouds about 60 miles wide which is coming this way and it is doubtful it's going to actually get here by the
+
+[114:47] spk_0: the window which is at 9:37 However it is expected to get here shortly after that and we will hold at the minus point if that's necessary So the patch presently closed the leak check and we'll be waiting for the results of that The countdown clock at T minus 27 minutes 24 seconds and counting This is shuttle launch control
+
+[115:16] spk_1: You
+
+[115:18] spk_1: 765766 were performed Copy that Thank you
+
+[115:27] spk_1: OTC or VCCC
+
+[115:31] spk_1: OK are we ready for our cabin pressization
+
+[115:34] spk_1: That works
+
+[115:45] spk_1: 769
+
+[115:48] spk_1: And OTC OK uh why don't you go ahead and pick up on your white room clothes out
+
+[115:56] spk_1: OK we'll put some of that work OK thank you
+
+[116:00] spk_1: CDROTC Airground one stand by to performsround voices
+
+[116:09] spk_1: OC
+
+[116:09] spk_1: CPVD yeah
+
+[116:11] spk_0: I'd like to go ahead and uh put that down on the door back in first
+
+[116:17] spk_0: OVD all that doors in
+
+[116:20] spk_1: position
+
+[116:24] spk_2: Challenger Houston uh check for all crew members How do you read
+
+[116:35] spk_1: Yeah
+
+[116:40] spk_1: 1353 45 copy
+
+[116:44] spk_2: C
+
+[116:47] spk_2: I clear
+
+[116:54] spk_2: And Challenger Houston I'd like to get air ground uh sign a voice check with all crew members now
+
+[117:02] spk_0: OK I
+
+[117:03] spk_1: did
+
+[117:06] spk_1: clear
+
+[117:16] spk_2: OK Challenger uh we've got a good yo voice with ah everybody but PS1 and PS2
+
+[117:31] spk_2: Roger uh good voice checks with all crew members and uh Challenger I've got uh some uh abort site data for you
+
+[117:40] spk_2: 15
+
+[118:05] spk_0: It's
+
+[118:35] spk_0: Track the pressure to make sure it doesn't decay which would indicate that it is leaking but it appears to be going satisfactory at the present time
+
+[118:47] spk_0: It's about 30 seconds away from our 20 seconds or a 20 minute built in hold
+
+[118:54] spk_0: C
+
+[118:56] spk_0: We've been hearing additional weather information which indicates that the car will be our primary transatlantic board site and has satisfactory conditions We've heard from our Cape weather officer that there is indeed a hole coming and from astronaut John Young who is flying the weather aircraft
+
+[119:16] spk_0: T minus 20 minutes and holding This is a 10 minute built in hold
+
+[119:23] spk_0: Continuing to assess the cabin pressurization
+
+[119:29] spk_0: The cabin pressure check has been completed now and the readings are being compared between what they're seeing on board and the ones that we're seeing here in the launch control center
+
+[119:42] spk_0: Three experiments are being flown as part of the shuttle student involvement program on the 51L mission This program has been a part of NASA's efforts to foster interest in science in the nation's youth and promote development of scientific and engineering skills in the young people since the inception of the shuttle program
+
+[120:04] spk_0: One experiment on chicken embryo development in space is possibly looking towards the day when long duration space flights either in Earth orbit or to other planets will require astronauts to grow their own food as they go along John C Bellinger proposed the experiment while he was a student at Jefferson High School in
+
+[120:23] spk_0: Be at Maryland or Indiana and is now a sophomore at Purdue University The experiment will fly 12 white leg horn chicken eggs which have been fertilized immediately prior to launch to see if any changes in the developing embryo can be attributed to weightlessness or space radiation effects
+
+[120:44] spk_0: 4 of the eggs will have lead radiation shields placed around them and the others will be exposed to the radiation aboard the shuttle A group of 12 eggs will be tended by the student on the ground at the KFC Life Sciences Laboratory After both groups have hatched Bellinger will attempt to determine any
+
+[121:04] spk_0: significant differences between the bone structure and nervous system and internal organs student advisor is Stanley Palestra of Jefferson High School Technical advisor is Dr Elizabeth Kraft of NASA's Ames Research Center and sponsor for the experiment is Kentucky Fried Chicken
+
+[121:26] spk_0: utilization of a semi-permeable membrane to crystal growth is an experiment developed by Richard Caboli formerly a student at Marlborough Central High School in Marlboro New York and now a student at Union College in Schenectady This experiment
+
+[121:46] spk_0: Control crystal growth through the use of a semi-permeable membrane His hypothesis is that the growth rate and the shape of the crystal can be controlled by the shape of the membrane and the concentration of the two chemicals brought together to start the chemical reaction to form the crystal
+
+[122:06] spk_0: The type of crystals being formed in this experiment are lead iodide crystals which are useful in imaging systems for detecting gamma and X-rays and could be used for spacecraft sensors for astronomical research His high school advisor is Annette Saturnelli and his college advisor and experiment sponsor is Dr Charles Sas of Union College
+
+[122:32] spk_0: The final student experiment on board is Lloyd C Bruce formerly of Sumner High School St Louis and now a student at the University of Missouri He's flying an experiment which could lead to new stronger titanium aluminum alloys or possibly a new type of industrial processes His experiment involves the heating of a titanium metal alloy
+
+[122:57] spk_0: Filament to near its melting point to determine whether the microgravity environment will result in a larger crystal grain in the metal thereby increasing its strength
+
+[123:10] spk_0: The experiment uses a battery power supply timer and thermostat
+
+[123:16] spk_0: Vaughan Morell of Sumner High School is his student advisor Uh the experiment is sponsored by McDonnell Douglas Corporation of Saint Louis and his experiment advisor is Julius Sinoni of McDonnell Douglas Here in the 20 minute hold period
+
+[123:37] spk_0: The Lockheed test director is running through with the launch team the way in which holes can be called if there is any violation of the launch commit criteria All of the councils in the firing room are configured for the terminal portion of this morning's countdown
+
+[124:02] spk_0: And when we come out of the hold Challenger's onboard computers will be transitioned into what is called the ops 101 configuration This is the terminal countdown configuration Also during this hold the orbiter's inertial measurement units will complete their pre-flight alignment and go to the inertial mode
+
+[124:24] spk_1: going
+
+[124:25] spk_1: smoothly
+
+[124:29] spk_0: We are continuing to watch the weather Both John Young who is flying the weather aircraft and the weather officer at Cape Canaveral Air Force Station reporting that there is a hole in the clouds coming this direction which should allow us to go off near the
+
+[124:48] spk_0: of the window if not immediately at the beginning at 9:37 If we have to hold we'll hold at the minus 9 minute point The countdown clock at T minus 20 minutes and holding This is shuttle launch control
+
+[125:06] spk_1: OK at this
+
+[125:06] spk_1: time the launch window is 18 180 minutes
+
+[125:12] spk_1: PLT at T minus 5 minutes please perform the AP start on command of the OPC
+
+[125:20] spk_1: They
+
+[125:22] spk_1: If the following times are exceeded the LTD will request a GLS cutoff that is an APU hold time of 7 minutes a locked strain back time of 7 minutes or exact time exceeding the launch window of 180 minutes All personnel not active in terminal count will monitor 217
+
+[125:41] spk_1: No ingress or regress of firing of 3 will be allowed after there's no take out at T minus 20 minutes through tower clear
+
+[125:49] spk_1: Do you think any comments negative
+
+[125:52] spk_1: Like director
+
+[125:55] spk_1: So I can go ahead but I just wanna verify that the plan that the crew module has is still being worked on that the neck pole will occur a D minus 9 minutes and be extended That's correct
+
+[126:06] spk_1: All right we'll wait at 9 minutes
+
+[126:08] spk_1: for the weather and to finish the work up there in the white room
+
+[126:11] spk_1: I I think we expect the weather clearing uh sometime in the next 15 minutes
+
+[126:17] spk_1: I copy thank you much director
+
+[126:22] spk_1: OK we got a
+
+[126:26] spk_1: problem on removing one of the screws on the milk stool
+
+[126:33] spk_2: It seems to be uh Houston on air to ground 2 543212345 count out are working
+
+[126:38] spk_2: on it
+
+[126:41] spk_0: It's a shuttle launch control just a couple of minutes now before coming out of the minus 20 minute hold the Lockheed test director has gone through the various criteria for holding the account should we have a violation of the launch commit criteria
+
+[127:02] spk_0: John Conway who is payload director for the Kennedy Space Center has pulled all of the payload elements and the tracking and data relay satellites the inertial upper stage the Spartan Halley and all of the mid-deck experiment program managers have announced that they are go for launch
+
+[127:25] spk_0: Other experiments which are being flown on board the shuttle also are involved with monitoring the common H CAM which stands for Common Halley Active Monitoring Program which flew on the last mission and will also fly on the next shuttle mission
+
+[127:48] spk_0: The champ payload photographs the comet using international Halley watch comet filters which allow comparison with data being obtained with many other nations In addition specter of the comet will be photographed using the grading and intensifier It was the image intensifier that was not operational during the last mission that has been changed and it's expected that it will work properly during this one
+
+[128:17] spk_0: Another experiment is the phase partitioning experiment which looks at an ideal way of separating biomedical materials in a selective gentle and inexpensive technique
+
+[128:32] spk_0: This is sponsored by the Microgravity Science and Applications division at NASA headquarters and we're at T minus 19 minutes 58 seconds and counting
+
+[128:44] spk_0: The Marshall Space Flight Center is responsible for mission implementation
+
+[128:51] spk_0: Although it's not an experiment there are also two complete sets of the newly minted US Liberty coins which will become the first legal tender American coinage to make a trip into orbit
+
+[129:02] spk_0: These consist of a silver dollar half dollar and $5 gold pieces that have been minted by authorization from Congress to honor the Statue of Liberty's centennial anniversary this year and help raise funds for the restoration of the statue in Ellis Island
+
+[129:20] spk_1: Hey
+
+[129:22] spk_1: Ah
+
+[129:25] spk_0: Commander Dick Scoby has notified the conductor that he's ready for the redundancy check ah and the cabin venting Ah during the cabin venting uh alarms go off in the orbiter ah and this also tests the ability of those alarms to function properly
+
+[129:48] spk_0: T minus 18 minutes 45 seconds and counting
+
+[129:53] spk_0: Things moving along as we move towards the minus 9 minute built-in hold It's expected that we're going to have to hold for approximately 15 minutes extra at that point to allow the cloud cover to clear out of the area of the Kennedy Space Center and be able to launch However that is expected to happen and we expect to launch Challenger this morning on the 51L mission
+
+[130:24] spk_1: Oh that EFS translation is complete
+
+[130:29] spk_0: We've just had notification that uh we have uh completed the transfer of the computers on board to the ops 101 mode
+
+[130:42] spk_1: Yeah we got to
+
+[130:42] spk_1: verify on step 675
+
+[130:46] spk_1: Copy that
+
+[130:47] spk_0: minus 17 minutes 40 seconds and counting Adding to the world's knowledge of Halley's comet in particular in our universe in general will be the Spartan Halley free flying payload which is on board 51L The Spartan is a relatively low cost instrument carrier which can be used for many types of missions It provides attitude control and data recording capability
+
+[131:15] spk_0: NASA's Goddard Space Flight Center and the University of Colorado's Laboratory for Atmospheric and Space Physics have recycled several instruments and designed to produce a low cost high yield spacecraft to watch Halley's comets when it is too close to the sun for other observatories to do so It will record ultraviolet light emitted by the chemical reactions going on in the comet's head and tail when it's close to the sun
+
+[131:44] spk_0: And therefore most active determinations can be made as to how fast water is broken down by sunlight It will also search for carbon and sulfur atoms and related compounds and lead to understanding of how a comet's tail evolves
+
+[132:02] spk_0: Two spectrometers are being used on the the Spartan
+
+[132:07] spk_0: We derived from instruments used as backups for the Mariner 9 spacecraft which studied Mars in 1971
+
+[132:17] spk_0: The countdown clock at T minus 16 minutes 6 seconds and counting This is shuttle launch control
+
+[132:28] spk_1: Just copy
+
+[132:30] spk_1: OTC launch director
+
+[132:32] spk_1: OK we have the proper tools up
+
+[132:34] spk_1: there to do that job That's a negative I do not have the drill I mean OTC and CFM and I'd like to speak to the OBCC on 143 Go ahead Yeah can you go 3 for a minute with the AFM Go on 143
+
+[132:53] spk_1: Yeah that's the CCC
+
+[132:55] spk_1: CDPS OTC
+
+[132:57] spk_1: Yeah go ahead
+
+[133:01] spk_0: This is shuttle launch control T minus 15 minutes and counting
+
+[133:07] spk_0: The hatch on the Challenger continues to be a problem for the ground crew as we prepare for launch The problem being worked at the present time involves the removal of a handle which is on the door that is used only during the time it's on the ground and must be removed prior to flight One of the screws which holds that on appears
+
+[133:33] spk_0: To be stuck and the team has been unable to remove it and therefore remove the handle They're going to have to drill that screw out take off the handle and then complete their preparations of the door The preparations include installing insulation
+
+[133:56] spk_0: To ensure that there is no flow of heat during ascent or descent through the door a team is up there with the proper tools and is in the process of removing that ground support equipment handle
+
+[134:14] spk_0: The countdown continuing at T minus 13 minutes 45 seconds and counting
+
+[134:22] spk_0: We have been going through the uh uh the process of ensuring that the backup flight system or computer is in sync with the primary systems and uh Houston is transmitting the pre-flight uplink commands to the backup flight system
+
+[134:38] spk_0: These loads which are sent to Houston via the mileage tracking station put the 5th general purpose computer in the proper configuration to watch quantity levels in the reaction control system and auxiliary power unit tanks and do other housekeeping chores as needed
+
+[134:59] spk_0: minus 13 minutes and counting
+
+[135:04] spk_0: The cross feed valves between the orbital maneuvering and reaction control system propellant tanks are being configured to the launch position and the orbiter test conductor has asked pilot Mike Smith to report the quantities of reaction control propellants in the left and right The conductor
+
+[135:24] spk_0: Has been asked to start the gaseous nitrogen purge of the aft skirt This flow of inert gas ensures that no explosive or flammable gasses
+
+[135:41] spk_1: can accumulate in the bottom of the SRBs
+
+[135:43] spk_1: OK and forward with 77 oxidizer
+
+[135:48] spk_1: That's that
+
+[135:51] spk_1: you see
+
+[135:54] spk_0: 12 minutes and counting The contingency operations have been verified to be ready for launch and emergency aircraft and personnel are on station
+
+[136:10] spk_1: The
+
+[136:11] spk_0: 20 minute dump of the orbital general purpose computer memory has been completed
+
+[136:18] spk_1: 747 the reading will be 0.000 copy that
+
+[136:24] spk_1: HDD LTC
+
+[136:27] spk_1: Stand by for 748 We'll be in the back I'm gonna kick off 749
+
+[136:36] spk_0: John Young continuing to fly the shuttle training aircraft to look at visibility on coaches and the Cape Weather people looking at the weather minus 10 minutes and counting
+
+[136:48] spk_1: the
+
+[136:48] spk_1: words closed cabin vents if you see a decrease on your PPO2 below the baseline
+
+[136:57] spk_0: If you
+
+[137:00] spk_0: Just 30 seconds away from the T minus 9 minute hold
+
+[137:08] spk_0: The onboard computer programs have been examined and verified to be the proper ones and all aero surfaces and actuators that will steer the vehicle through powered flight are in the proper configuration for applying hydraulic pressure
+
+[137:24] spk_0: T minus 9 minutes and holding
+
+[137:29] spk_0: This is normally a 10 minute build in hold However we will probably be holding longer while they complete the tasks in the white room in removal of the handle on the hatch 2 Challenger There is additional tools on its way to the pad to enable them to drill out the screw which is giving them a problem
+
+[137:55] spk_0: And to complete their close out of that work
+
+[138:01] spk_0: T minus 9 minutes and holding This is shuttle launch control
+
+[138:08] spk_0: This is shuttle launch control We're at T minus 9 minutes and holding continuing to have the crew working in the white room on the removal of the handle which is used during the time the orbiter is on the ground The weather people
+
+[138:26] spk_0: Say that we are in a period of very few clouds in the area at the present time and this is expected to last about an hour and a half before the arrival of another group of heavy clouds so we're anticipating that we will be able to lift off during that time
+
+[138:49] spk_0: Two of the experiments on board the Challenger and the 51L mission are aimed at the common Halley
+
+[138:59] spk_0: One of the advantages to flying these instruments is the ability of them to operate when the comet is so close to the sun and this relies on ingeniously designed sunshades in the Spartan Halley spacecraft and filters to stop reflections from the Earth's atmosphere
+
+[139:20] spk_0: Halley's comet is of most scientific interest during the January 20th to February 22nd time frame when it's closest to the sun It closest approach it'll be 59.5 million miles from the sun and 139.5 million miles from Earth The shuttle will be able to view the comet during about 56% of its orbit
+
+[139:46] spk_0: On day two of the mission the Spartan Halley spacecraft will be placed outside of the orbiter and then will be moved away about 5 miles and then after about 40 hours of operation the shuttle will close back in and lift the Spartan Halley back into the cargo bay
+
+[140:08] spk_0: The remote manipulator arm developed by Canadians will be used for that operation and Mission specialist Judy Resnick will be operating that Current theories are that comets are dirty snowballs made up largely of water ice and lightweight elements and compounds left over from the creation of the universe
+
+[140:30] spk_0: The so-called dirt in the snowball is detectable in visible light but the snow portion the water ice and other gasses are detectable only in the ultraviolet portion of the spectrum
+
+[140:43] spk_0: The countdown clock at T minus 9 minutes and holding and uh we'll switch to the Johnson Space Center's Mission Control for a report on what's happening there
+
+[140:57] spk_3: And this is Mission Control Houston Flight controllers here in the Mission Control room uh flight control room 2 have been on station for a couple of shifts uh monitoring the orbiter systems as we lead down to launch
+
+[141:10] spk_3: Orbiter systems are in good shape and ah
+
+[141:13] spk_3: With the exception of the problem in removing the hatch closing ah fixture everything seems ah go
+
+[141:20] spk_3: Flight controllers continue to uh watch the systems and the weather leading up to today's launch This is Mission Control Houston
+
+[141:29] spk_0: Back here at the launch control center at the Kennedy Space Center everybody monitoring the consoles reporting that all of the systems are ready to go with the exception of the hatch problem
+
+[141:45] spk_0: The prime objective of the 51L mission is the launch of the second tracking and data relay satellite This tracking station in the sky will be boosted from the low Earth orbit of the shuttle to a geosynchronous orbit 22,300 miles above the Earth where the speed of the satellite required to stay in orbit has a period of just 24 hours so that it appears to stay in one place over a point on the equator
+
+[142:14] spk_0: The tracking and data relay satellite will be ejected from the Challenger just 10 hours after launch It'll then be boosted into a higher orbit by a rocket stage called the inertial Upper Stage developed under contract to the Air Force by the Boeing Aerospace Company using solid rocket motors manufactured by Chemical Systems division of United Technologies Corporation
+
+[142:40] spk_0: The IUS is 17 ft long 9 ft in diameter and weighs more than 32,000 pounds including 27,000 pounds of solid rocket motor propellant
+
+[142:53] spk_0: The Teras satellite itself weighs about 5000 pounds which is the largest telecommunication satellite ever built and it spans 57 ft in orbit once its solar panels are unfolded It has 2 16 ft single access antennas and operates in three frequency bands
+
+[143:13] spk_0: NASA leases the satellite system from Space Communications Company of Maryland
+
+[143:19] spk_0: The prime contractor for the satellite and ground facilities are TRW Space and Technology Group of Redondo Beach California and Harris Government Communications Systems of Melbourne Florida
+
+[143:33] spk_0: In orbit the two Tris satellites will be able to provide direct contact with the space shuttle during about 85% of each orbit compared with just 15 to 20% for the ground tracking stations
+
+[143:47] spk_0: Once operational 7 earth tracking stations located around the world will be closed
+
+[143:54] spk_0: In addition to the shuttle prime users of the Tris system are the Landsat Earth Resources satellites the Solar Maximum Miss satellite the Earth Radiation Budget satellite and the Solar Mesosphere Explorer Future users include the Hubble Space Telescope scheduled for launch this fall the Gamma Ray Observatory and the Upper Atmosphere Research satellite scheduled for 1989
+
+[144:20] spk_0: Tes control and data is accomplished through a control center at White Sands New Mexico and managed for NASA by the Goddard Space Flight Center in Maryland
+
+[144:32] spk_0: The orbiter test conductor Roberta Wyrick talking to the crew in the white room about the amount of time needed to configure once the handle is removed they are continuing to wait for the arrival of that tool and then removal of the handle
+
+[144:51] spk_0: The countdown clock continuing to hold here at the T minus 9 minute point We're just about 9 minutes away from the nominal liftoff time of 9:37 However we will be delaying here for a while to complete our preparations
+
+[145:12] spk_0: We have about an hour and a half before the next group of heavy clouds reach the area and are anticipating that we will be able to launch well before that time occurs T minus 9 minutes and holding
+
+[145:27] spk_0: This is shuttle launch control at T minus 9 minutes and holding the crew in the white room awaiting the arrival of the drill and the proper bits which they need to remove the handle on the hatch of the orbiter This handle is used only during the time the orbiter is on the ground for moving the door and when they tried to remove it initially
+
+[145:54] spk_0: Uh one of the screws was frozen in place and it's necessary to drill that screw out of there in order to get the handle off Uh it's estimated that the time it will take one
+
+[146:07] spk_0: The tool has arrived will be between 25 minutes and an hour of the launch team here anxiously watching the weather because an hour and a half is the estimate before the time that clouds arrive once again back into the Kennedy Space Center area
+
+[146:30] spk_0: All other elements of the space shuttle appear to be satisfactory The transatlantic abort sites the abort once around site at Edwards Air Force Base is also satisfactory as far as weather is concerned There's although it is not needed today Casablanca which is the backup transatlantic aboard site now does have
+
+[146:58] spk_0: A 25 mile visibility
+
+[147:01] spk_0: The government of Morocco agreed that NASA could use the Mohammed the 5th Airport in Casablanca as a weather alternate just about a week ago in case of an emergency during the launch of the Challenger on the 51L mission
+
+[147:18] spk_0: The prime transatlantic board site is Dakar Senegal and that had been experiencing severe dust storms this January Uh however today it does appear that um
+
+[147:32] spk_0: That is satisfactory there at Dakar and that has been selected as the prime transatlantic abort site
+
+[147:40] spk_0: There are several modes of aborts and
+
+[147:47] spk_0: These are an abort to orbit which is the best in terms of completing the mission if some one of the engines or two of the engines on board the shuttle are lost it depends on what point in the flight
+
+[148:06] spk_0: When an abort is called as to where they can go if it is early in the flight then they can return to the launch site here at the Kennedy Space Center Later on we have the capability of landing in this case in Dakar Senegal Africa
+
+[148:27] spk_0: If we lose a little bit further into the flight and depending on the amount of energy which we've been able to get we can possibly go around to Edwards Air Force Base in California or possibly even into orbit and then use the orbital maneuvering system to boost that orbit up to the proper area
+
+[148:51] spk_0: The countdown clock continuing to hold at T minus 9 minutes This is shuttle launch control
+
+[148:59] spk_0: This is shuttle launch control The countdown clock continuing to hold at the T minus 9 minute point Ah we're hearing the orbiter test conductor tell the crew up in the white room that the tools are on the way Uh they should be arriving there in just a few minutes from now
+
+[149:19] spk_0: Although the 51L mission's primary objective is orbiting the tracking and data relay satellite and flying the Spartan Halley spacecraft
+
+[149:30] spk_0: We are just hearing from the launch director that we are extending and have a waiver to extend the launch window to as late as 12:07 with the inertial measurement units in the present configuration
+
+[149:47] spk_0: This shuttle launch control discussion going on in the launch control center about the ability to extend the time when the inertial measurement units are calibrated to 1207 although the launch window itself extended to 1237
+
+[150:09] spk_0: At a certain point after the inertial measurement units have been calibrated it's essential to go back and recalibrate them However it's been determined that they are very stable and that we will be able to operate for up until the 12207
+
+[150:30] spk_0: Although the primary mission of 51L may be the tracking and data relay satellite deployment many people around the country are going to think of it as the first flight of a private citizen President Reagan determined that that private citizen should be a school teacher because of the great influence teachers have on preparing our citizens and determining the moral and intellectual future of our country
+
+[150:56] spk_0: More than 11,000 teachers around the country applied to fly and many of the finalists are in the Kennedy Space Center area to see their representative Krista McAuliffe launch on an adventure in education
+
+[151:10] spk_0: While in orbit 2 15 minute lessons will be broadcast on day 4 of the mission and carried live by PBS stations all over the country This will enable schools which do not have their own satellite antennas to pick up the programs from PBS that also will be available on the NASA satellites
+
+[151:34] spk_0: These 2 15 minute broadcasts will be supplemented by half hour mission watch programs taught by the backup payload specialist Barbara Morgan The first of these was broadcast last Friday and others will be broadcast each day this week
+
+[151:51] spk_0: In addition to teaching lessons from space Mrs McAuliffe will carry out 6 types of experiments which will be filmed and videotaped for use in classrooms in the future These activities include hydroponics magnetism Newton's laws effervescence chromatography and the operation of simple machines All of the experiments have been designed so that classroom teachers have easy and low cost access to the materials used
+
+[152:21] spk_0: And they can easily duplicate the experiments on Earth and then compare the results that they get with what occurred on board the shuttle
+
+[152:32] spk_0: Designing the experiments began in August of 1985 and included many ideas submitted by the applicants for the teacher in space program Some of the criteria the experiments had to meet was that they all had to fit into one mid-sized deck locker approximately 17 by 14 by 22 inches
+
+[152:52] spk_0: They had to pass the outgassing criteria which eliminates the use of many plastics metals adhesives and liquids and they had to be safe and not interfere with the operation of any orbiter systems Flammability of course was also one of the criteria
+
+[153:10] spk_0: Up in the white room the closeout crews still waiting for the arrival of the tools They had asked for a battery powered electric drill and the proper drill bits for drilling out the the bolt on the access handles
+
+[153:31] spk_0: They also have asked for a hacksaw and have been cautioned by the launch director to be extremely careful during this particular operation It's not known exactly how long this is going to take Uh the estimates range from about 25 minutes to an hour
+
+[153:52] spk_0: We do have the capability of launching up to about 1207 without going back and recalibrating our inertial measurement units and it's expected that the weather will support the major portion of that launch window The countdown clock at T minus 9 minutes and holding this is shuttle launch control
+
+[154:15] spk_0: This is shuttle launch control The countdown clock's still at the 9 minute point in the countdown
+
+[154:22] spk_0: The ah the crew in the white room ah expecting the tools to be delivered momentarily to them They are now down on the pad surface and we expect to have the drill and the drill bit up in the white room just momentarily
+
+[154:41] spk_0: There's no absolute estimate on the amount of time it will take to drill out the the problem screw but hopefully that will be done within about 15 minutes Then the white room has to be configured for launch which includes
+
+[155:01] spk_0: Separating it from the orbiter and rolling back the portion of it that seals around the orbiter to prevent any rain from running down into it during the time it's out on the pad The orbiter normally stays on the pad for a couple of weeks and during that time they try to seal as many things as possible
+
+[155:26] spk_0: It also protects the hatch which is open during most of that time from having anything enter it
+
+[155:37] spk_0: It appears that the the clouds that are moving towards us from the west coast of Florida should arrive about an hour from now However we are getting some dissipation of those as we get into the morning and the the sun has a chance to work on them So we're expecting that it'll be about
+
+[156:01] spk_0: scattered to broken when those clouds arrive in the area In the meantime we have about an hour to complete the work out there on the pad and get ready to launch The countdown clock remaining at T minus 9 minutes This is shuttle launch control
+
+[156:20] spk_0: This is shuttle launch control continuing to hold at the T minus 9 minute point Ah the truck containing the tools needed by the White Room crew has reached the bottom of the pad and they are in the elevator now coming up to the
+
+[156:37] spk_0: orbiter access area and the white room
+
+[156:42] spk_0: The crew picking up the tools now having a drill and the proper size bit to drill out the the screw which is
+
+[156:54] spk_0: been holding the handle on the outside of the door That handle is used only during the time the orbiter is on the ground and needs to be removed prior to launch
+
+[157:08] spk_0: Actually there are several major milestones between now and launch When we come out of the 9 minute hold the entire countdown will be performed by the ground launch sequencer program running in the integration console which is located in the left rear corner of the firing room This computer controls all the remaining countdown events as well as monitoring the response and status of all the space shuttle systems
+
+[157:36] spk_0: At T minus 7 minutes 30 seconds the orbiter access arm will be retracted and at T minus 5 minutes uh pilot Mike Smith will throw cockpit switches that start up the auxiliary power units
+
+[157:52] spk_0: We will terminate liquid oxygen fill and start drain back at T minus 4 minutes and 55 seconds The drain back conditions the engines for launch and provides the proper amount of oxygen propellant inside the external tank for flight
+
+[158:12] spk_0: At T minus 4 minutes the final gas purge of the shuttle main engines will be started Uh we'll start a gimbble check of the aero surfaces at T minus 3 minutes 55 seconds and the orbiter will go on internal power at T minus 3 minutes 30 seconds
+
+[158:30] spk_0: We'll run an engine gimbal test at the T minus 3 minute 25 seconds
+
+[158:36] spk_0: The liquid oxygen tank will be pressurized and retraction of the gaseous oxygen vent hood will start at T minus 2 minutes 55 seconds
+
+[158:46] spk_0: Next we will pressurize the liquid hydrogen tank at the 1 minute and 55 2nd point
+
+[158:54] spk_0: Finally at T minus 31 seconds the ground law sequencer will issue a go to Challengers onboard computers to start their own automatic sequence The final command from the ground computers will come at T minus 10 seconds which is a goal for main engine start Engine start will occur at about T minus 6.6 seconds and we will be at 90% thrust by T minus 3 seconds
+
+[159:23] spk_0: The solid rocket booster ignition and liftoff will occur at T0
+
+[159:31] spk_0: And tower clears about 7 minutes 67 seconds later
+
+[159:38] spk_0: The uh
+
+[159:41] spk_0: Ah countdown or the close out crew in the white room having a problem with the with the drill
+
+[159:50] spk_0: I
+
+[159:53] spk_0: They are in the process of obtaining another drill or another battery pack for that drill
+
+[160:00] spk_0: In the meantime ah the engineers here in the firing room continuing to stay in place and monitoring their systems and ah no problems reported on any other systems on board the orbiter We're standing by at the T-9 minute point This is shuttle launch control
+
+[160:21] spk_0: This is shuttle launch control at T minus 9 minutes and holding They close out crew presently waiting for an additional battery pack for the drill to use in trying to remove the handle from the orbiter hatch
+
+[160:42] spk_0: Once the uh the Challenger is launched uh this morning uh there are a number of events that occur prior to the time that it actually reaches orbit
+
+[160:55] spk_0: At approximately 9 seconds after launch it begins its single axis roll and this is a roll of the orbiter and the entire vehicle which is essential to put it on the proper trajectory in relationship to the equator This is one of the dramatic things that happens with the shuttle compared with other launch vehicles which are generally
+
+[161:24] spk_0: Around in the past and therefore the role cannot be seen as well The other thing that it does is it positions the orbiter so that as it is flying up into orbit it is upside down This is important to keep the pressure on the bottom side of the wings which is the way that the wings are stressed
+
+[161:46] spk_0: About 35 seconds into the flight the crew throttles down the main engines on the orbiter to 65% This is to reduce the amount of stress on the orbiter as it goes through the region called Max Q which is the time in which there's the greatest amount of turbulence
+
+[162:10] spk_0: Uh on the orbiter then the the throttles are pushed back up to 104% about 52 seconds into the flight
+
+[162:22] spk_0: Just 2 minutes and 7 seconds after lift off the solid rocket boosters separate
+
+[162:30] spk_0: And at 2 minutes and 44 seconds we're in a configuration where if we lost one of the three engines on the orbiter we would still be able to do a transatlantic port to Dakar
+
+[162:45] spk_0: The at 3 minutes and 51 seconds into the flight then we have passed the point at which the orbiter could return to the Kennedy Space Center and at 5 minutes and 20 seconds into the flight we have the capability of reaching orbit with just 2 engines
+
+[163:06] spk_0: The actual cutoff of the main engines occurs at 8 minutes and 26 seconds into the flight At the present time we're holding at the T minus 9 minute point This is shuttle launch control
+
+[163:21] spk_0: This is shuttle launch control at T minus 9 minutes and holding The proper drill has now arrived in the white room and the crew in the process of trying to drill out the the bolt that is holding the external handle to the hatch on the challenger This is a slow operation which must be done very carefully
+
+[163:46] spk_0: To ensure that there is no damage to the hatch or to the handle
+
+[163:53] spk_0: It's estimated that it will take somewhere between 15 minutes and an hour for this of course everybody is hoping that it will be the shorter time but the countdown clock continuing to hold the weather appears to be holding at the present time
+
+[164:14] spk_0: As we continue to hold all systems in readiness to pick up the count at the T minus 9 minute point this is shuttle launch control
+
+[164:26] spk_0: This is shuttle launch control The crew in the white room working on the problem bolt on the handle which is used only during the time the orbiter is on the ground
+
+[164:38] spk_0: Uh
+
+[164:40] spk_0: Weather forecasters taking very close looks at the uh the weather as we continue to move into this launch window ah
+
+[164:49] spk_0: One of the concerns is the crosswinds at the shuttle landing strip in case of a return to launch sight abort
+
+[164:59] spk_0: The uh there could be a possible violation of the crosswind constraints and they are continuing to look at that
+
+[165:09] spk_0: People in the white room using the drill on the bolt and making progress on drilling that out The countdown clock continuing to hold here We're able to hold here for a considerable length of time We'd heard that we will be able to go until shortly after 12 noon without recycling to do another inertial measurement unit calibration
+
+[165:39] spk_0: At the present time the countdown clock holding at T minus 9 minutes This is shuttle launch control
+
+[165:47] spk_0: This is shuttle launch control at T minus 9 minutes and holding the closeout crew continuing to work on the handle on the hatch which must be removed prior to flight uh
+
+[166:01] spk_0: Uh we have just had an indication from the launch director that we go for an inertial measurement unit realignment Uh this takes approximately an hour and uh however it will allow us to go later in the window without having a danger of having to go back and realign at a later time ah
+
+[166:27] spk_0: The decision to do the realignment of the inertial measurement unit is based on the progress which they're making at the pad on the hatch door The hardness of the head of the bolt is making it very difficult to drill into and they are talking about other possible workarounds in order to get that free
+
+[166:50] spk_0: At the present time we are picking up to recycle to the 20 minute point at which time we will do a realignment of the inertial measurement units We then would pick up and count back down to the 9 minute point and hopefully continue on from there to launch
+
+[167:12] spk_0: Ah out on the pad they're in the process of using the hacksaw to cut the the handle off of the door and then hopefully be able to twist off the um the portion of the shank that the bolt is in
+
+[167:31] spk_0: Uh all the systems on the orbiter are still holding properly to their configuration
+
+[167:39] spk_0: The only constraint we have is that after a certain length of time it's necessary to realign the inertial measurement units and rather than go to that later and take up additional time we're going to go back and do it now and then we'll be shooting towards the later in the window for a launch It takes approximately an hour to realign those inertial measurement units
+
+[168:06] spk_0: So we're standing by here at the T minus 9 minute point but momentarily we'll be recycling to 20 minutes This is shuttle launch control
+
+[168:18] spk_0: This is shuttle launch control at T minus 9 minutes and holding We are in the process of recycling the count to the 20 minute point at which time we will realign the inertial measurement units The handle on the door appears to be coming off satisfactorily at this point However there is additional work to be done at the pad once that handle is off
+
+[168:46] spk_0: And it's essential to get if possible all of the various bolts out of the door and then a carrier plate which has a thermal protection system tile on it will be fastened into place and the door closed out for flight things moving along here as we prepare to go later in the window
+
+[169:15] spk_0: The countdown clock presently at the minus 9 minute point but expected to go back to 20 shortly
+
+[169:23] spk_0: This is shuttle launch control
+
+[169:26] spk_1: C
+
+[169:29] spk_1: I did yes we're back at C919144 Copy that CMC uh proceed with the IMU pre preps and IMU
+
+[169:40] spk_1: See
+
+[169:42] spk_1: Yeah we're at this time PSS is up you are activating the heat OK So you're gonna nose What about your 20 recycle for sequence 21 put that in
+
+[170:02] spk_1: OTCLPD uh critical savings complete
+
+[170:07] spk_1: OK
+
+[170:10] spk_1: TD or TD212
+
+[170:14] spk_1: Uh yeah 18048
+
+[170:19] spk_1: We want to uh replenished
+
+[170:22] spk_1: OK do you think
+
+[170:24] spk_1: OK for stable drain for recycle it
+
+[170:31] spk_1: All right I can copy Uh we are at uh flight mass at this time That's step 5 and 6
+
+[170:38] spk_1: OTC CPVD
+
+[170:43] spk_1: 180 42 43 44
+
+[170:50] spk_1: That's on channel 212 while testing personnel return to your normal command channels or the personnel remain on OIS 212
+
+[171:00] spk_1: All over the personnel we're in sequence 19 uh recycle
+
+[171:05] spk_1: And uh flight crews OTC you can open your visors at this time if they've been closed OK thanks
+
+[171:13] spk_1: CSM the OTC
+
+[171:16] spk_1: This is shuttle launch control at T minus 20 minutes and holding
+
+[171:26] spk_0: we're in the process of configuring to do another alignment of the inertial measurement unit Ah as soon as we have started that ah we will be calculating a new lift off time based on the ah ah the time that it takes for the inertial measurement alignment
+
+[171:44] spk_0: And we'll look looking into now in the shortening the minus 9 minute hole so we should have an estimated lift off time in just a short time from now Everything proceeding now satisfactorily up in the white room where they have gotten the handle off of the door and are in the process of completing the other preparations getting the thermal protection system tile into place
+
+[172:12] spk_0: And then they will close out the white room But at the present we're standing by for the uh the start of the inertial measurement unit realignment at the T minus 20 minute point This is shuttle launch control
+
+[172:26] spk_1: Go ahead 183 Copy still up
+
+[172:30] spk_1: We're complete with 19039 You can go ahead and have the CDR reconfigured for 1940 and 1941
+
+[172:39] spk_1: OC 45 and 46 are complete
+
+[172:44] spk_1: Reconfiguration is complete
+
+[172:47] spk_1: Copy steps 2 and 83 recycle or complete Copy that
+
+[172:54] spk_1: Ready ready for load adjust F 85
+
+[173:00] spk_1: CC edy and ready to support the fuel loaded
+
+[173:10] spk_1: OK it didn't
+
+[173:12] spk_1: 5 OK I'd like to discuss that with FAP on 153
+
+[173:22] spk_1: T L C O T C
+
+[173:24] spk_1: Yeah panel R2 I'd like to take the MPS helium A and B 6 switches GPC
+
+[173:36] spk_1: Don't you see
+
+[173:39] spk_1: OK uh we are approaching our LCC violation here on uh PTO2 sensor right
+
+[173:46] spk_1: OK and uh the advised if we do get we're at 2.84 now if we get 2.8 we are gonna get the alarm
+
+[173:54] spk_1: OK CDR copy
+
+[173:56] spk_1: I always happy that thanks OC
+
+[174:02] spk_1: You you said 7 which steps were not performed
+
+[174:07] spk_1: the GP that you can you verify 42
+
+[174:14] spk_1: Uh yeah I can
+
+[174:15] spk_1: but on 41 I also need the helium isolation switch on R2 to GPC
+
+[174:22] spk_1: OK I've got it now we verify
+
+[174:29] spk_1: OK
+
+[174:32] spk_1: C15
+
+[174:37] spk_1: A PD LTC
+
+[174:41] spk_1: Oh I'm sorry CMTC go ahead 151 copy
+
+[174:46] spk_1: H R D LGC
+
+[174:49] spk_1: ready to go yeah step 96
+
+[174:54] spk_1: Step 70 is complete reconfigured the team on 20 minutes
+
+[175:00] spk_1: Copy that thank you
+
+[175:03] spk_1: C G N C OTC
+
+[175:05] spk_1: OK how are we doing on getting in the free fall on OK I got uh started at 1541
+
+[175:11] spk_1: Uh that gives us a rough stab at uh 101 at 1627 but we'll uh
+
+[175:19] spk_1: We'll double check as soon as we get people in line and work
+
+[175:24] spk_0: This is shuttle launch control at the T minus 20 minute point Ah we are continuing to hold at this point while we realign the inertial measurement unit In the meantime the launch director is ah talking to the Cape Weather people to try and determine what has been happening to the weather and will happen during the remainder of the launch period
+
+[175:49] spk_0: Ah the winds appear to be the uh the major concern as we move later into the window Uh we are very marginal right at the moment on the crosswind component out at the shuttle landing facility
+
+[176:04] spk_0: Uh for runway landings we would not like to have more than about 15 knots of crosswind and uh right now it's uh right about in that uh area
+
+[176:16] spk_0: They were also looking at a 33 landing if if that should be essential
+
+[176:24] spk_0: they
+
+[176:27] spk_0: Winds have been increasing as we have gotten later in the day However we'll be continuing to watch those as we move along with the alignment of the inertial measurement unit and prepare to pick up the count once again It's possible that we will cut short the T minus 9 minute hold when we get to there and we are standing by to hear what the an estimated liftoff time will be
+
+[176:57] spk_0: The countdown clock remains at the T20 point and holding This is shuttle launch control
+
+[177:05] spk_1: OTC OBCT
+
+[177:09] spk_1: OK uh we're going to start now with our clothes out of the hat
+
+[177:13] spk_1: installing the car panels
+
+[177:15] spk_1: And start to configure the white room for fall back Copy that OSM uh yes I like to know if we have a a CMC has the uh IPR on the
+
+[177:28] spk_1: Problem that we just had back in the ta station
+
+[177:31] spk_1: I don't believe so
+
+[177:34] spk_1: Have you run the card up OK yeah we've already got apparently it's in the signature list so we'd like to get a T and a bar and uh also I probably
+
+[177:45] spk_1: Uh
+
+[177:47] spk_1: 1525 will be on the tech
+
+[177:50] spk_1: uh 2016 will mess
+
+[177:52] spk_1: That's all the QC we have just the
+
+[177:54] spk_1: QC
+
+[177:56] spk_1: I copy that
+
+[177:59] spk_1: No DCC dealer
+
+[178:01] spk_1: recycle the minus 20 minute configuration that's 61 is sequence 19 Copy that Thank you
+
+[178:08] spk_1: What you say
+
+[178:10] spk_1: recycle is complete The only performed was 1985 All other EPGs
+
+[178:17] spk_1: are performed Copy that Thank you
+
+[178:21] spk_1: You see
+
+[178:23] spk_1: Yes sir to uh catch up uh CMQC the uh 19-21
+
+[178:31] spk_1: Through uh
+
+[178:34] spk_1: 31
+
+[178:36] spk_1: Uh complete no not perform and we're currently working the uh permanent Ds on page 721 OTC at EMM
+
+[178:45] spk_1: Stand by if I copy that uh TC7
+
+[178:51] spk_1: Right I need to talk to the OBC on 143
+
+[178:55] spk_1: OK OBCC
+
+[178:59] spk_1: Yeah can you go back 143 for just a minute
+
+[179:05] spk_0: This is shuttle launch control at T minus 20 minutes and holding We're in the process of realigning the inertial measurement unit and we've had some estimates that a launch time might be possible about 12:07 just after noon today We're continuing to watch the weather very carefully and do not have
+
+[179:32] spk_0: The best wind conditions at the moment but we'll be watching those as we get closer to the proposed launch time We'll not have an exact launch time until we get to complete the inertial measurement unit realignment and have determined how long we want to hold at the T minus 9 minute point
+
+[179:55] spk_0: Normally alignment of the inertial measurement unit starts at the T minus 60 minute point in the count and is completed at the T minus 20 minute hold so that takes a little over 40 minutes
+
+[180:08] spk_0: And then we have to go back and go through the steps that we have already gone through in the countdown but have recycled to ensure we're in the proper configuration Good progress is being made up in the white room as they continue to work at putting on the appropriate thermal protection system
+
+[180:31] spk_0: On the hatch and then they will close out the white room before long we're standing by now waiting for completion of the inertial measurement unit realignment and are looking
+
+[180:46] spk_0: At a ballpark of approximately 12:07 for a lift off of Challenger on the 51L mission This is
+
+[180:56] spk_1: shovel
+
+[181:00] spk_1: the PPO2 a little bit too
+
+[181:02] spk_1: OK uh flight crews uh OTC on 212 OK we're uh as ECL reporter we're about one bit away from the TPO2 limit
+
+[181:16] spk_1: If we reach that limit we would like you to close your visors
+
+[181:24] spk_1: OK I'm starting to close out the white room now and configure swing back OK thank you
+
+[181:32] spk_1: OTCCC
+
+[181:35] spk_1: I will be CC
+
+[181:39] spk_1: OTC or VCC
+
+[181:42] spk_1: So
+
+[181:44] spk_1: We are now in a white room heading for the elevator to go to the
+
+[181:47] spk_1: bombs I got
+
+[181:50] spk_0: all the
+
+[181:53] spk_0: This is shuttle launch control at T minus 20 minutes and holding Uh we've had some discussions here between the director uh the launch director and uh flight in Houston as to the crosswinds being seen now at the shuttle landing facility
+
+[182:14] spk_0: Those winds presently are no go for launch and the launch director is going to talk to the um the flight crew to tell them how we stand on that We're continuing to watch that as those of you who could see television have seen we have completed the work in the white room and prepared that for a flight
+
+[182:39] spk_0: That's now ready to swing away from the orbiter at the 7 minute 32nd point if we get to that However winds are the concern now as we move later into the window They've been increasing over the past hour and are no go on the crosswind component at the present time So we're standing by to hear more on that and to have the
+
+[183:09] spk_0: launch director talked to the crew to keep them informed of that The countdown at T minus 20 minutes and holding This is shuttle launch control
+
+[183:20] spk_1: Oh TCSA FM All right uh can I talk to you in 161
+
+[183:25] spk_1: OK
+
+[183:27] spk_1: Good OK you think
+
+[183:29] spk_1: Uh but they go at 023
+
+[183:32] spk_1: Uh this is OTC on 212 Who's calling
+
+[183:35] spk_1: Uh copy uh OTC O C A F M 161
+
+[183:40] spk_1: Uh AFM is on 161
+
+[183:47] spk_0: This is shuttle launch control at T minus 20 minutes and holding We have completed the work in the white room in getting the handle off of the hatch and that handle has been brought back to the launch control center where it's just been examined by the launch director and the director of shuttle operations
+
+[184:06] spk_0: The concern here at the launch control center is with the winds which at the present time are no go for an RTLS because of the crosswind component
+
+[184:19] spk_0: That crosswind component should be no greater than 15 knots for landing on a runway 20 knots running on landing on a dry lake bed out at Edwards Air Force Base The winds have been increasing during the past hour and they're not expected to abate much during the remainder of the window
+
+[184:45] spk_0: The latest advisory we've had as to a possible launch time if we should get a break in the winds would be approximately 12:05 that will be refined as we get closer and are able to pick up the count at the minus 20 minute point and determine exactly how long we want to hold at the T minus 9 minute point
+
+[185:10] spk_0: Because we have gone through many of the steps before it'll be quicker and we should be able to shorten the hole at T minus 9 if that's desirable At the present time we're continuing with the realignment of the inertial measurement unit
+
+[185:29] spk_0: Ah we're continuing to watch all of the various systems on board the orbiter Uh it appears that weather is our only concern
+
+[185:46] spk_1: and we're continuing to watch the ah winds at various altitudes here at the Kennedy
+
+[185:47] spk_1: About 11:36 local which puts the team at T minus 20
+
+[185:52] spk_1: And accounting configurations
+
+[185:55] spk_1: And we will count down to
+
+[185:58] spk_1: 9 minutes
+
+[185:59] spk_1: And hold the team by this and
+
+[186:02] spk_1: Review the weather situation uh particularly the winds the RTLS uh wind condition that uh does exist
+
+[186:10] spk_1: And at 9 in the hole we will decide whether to continue or not depending upon condition of that time
+
+[186:17] spk_1: That
+
+[186:19] spk_1: The hold at 9 if it goes a full 10 minutes and we do pick up the clock again we could have a T0 approximately 12:06 Eastern
+
+[186:29] spk_1: Give or take a couple of minutes
+
+[186:32] spk_1: Anyone have any questions
+
+[186:35] spk_1: LPD LTD OK SDE
+
+[186:40] spk_0: I launch
+
+[187:00] spk_0: 10 and we will be picking up the countdown once again at 11:36 this morning The concern of course is the weather and right at the moment we are no go on However we'll be continuing to look at that as we count down
+
+[187:29] spk_0: Ah to a lift off at 12:06 The count at the present time is holding at the minus 20 minute point while we complete the IMU inertial measurement unit alignment This is shuttle launch control
+
+[187:49] spk_1: ROTC
+
+[187:51] spk_1: Yeah OK on on flight controller on
+
+[188:00] spk_1: The DC DC OK DPOT sensory is
+
+[188:04] spk_1: looking good Uh the carry on
+
+[188:09] spk_1: A favor if they
+
+[188:12] spk_1: we'd like to pick up with 18
+
+[188:17] spk_1: 89 at approximately 1624
+
+[188:24] spk_1: OK let's give it a couple of minutes so I just make sure happy we'll wait for your go
+
+[188:30] spk_1: CMM
+
+[188:33] spk_1: Yes could you have the pad liter make sure he doesn't lose the other part of that milk still
+
+[188:38] spk_1: OK
+
+[188:41] spk_1: The same power
+
+[188:44] spk_1: Uh C C you're on 1 212
+
+[188:50] spk_0: This is shuttle launch control We're just about 16 minutes away from resuming the countdown once again at the T minus 20 minute point
+
+[188:59] spk_0: The inertial measurement realignment has been underway for some time now and that will be in time to pick up the count at 11:36 This is a 12:06 p.m. Eastern time
+
+[189:22] spk_0: and that continues to be a concern particularly the cross one component However we have flying the shuttle training aircraft from the south end of the runway and making real-time calls of what he's seeing as far as crosswinds are concerned as far as visibility is concerned to the runway All of the shuttle systems appear to be satisfactory at this point
+
+[189:50] spk_0: The problem with the hatch door handle has been completely resolved and the white room has been configured for a launch that will be swung away from the orbiter at 7 and 30 seconds prior to launch and however it can be placed back in an emergency in just about 10 seconds
+
+[190:16] spk_0: The launch team remaining in place here in the launch control center watching their systems and being ready to go if we were able to have a launch this morning The countdown at minus 20 minutes and holding this is shuttle launch
+
+[190:38] spk_0: That's all we did was close our visors and then open them back up again when you told us Thank you
+
+[190:46] spk_1: I just reached
+
+[190:47] spk_1: information we saw that when we opened our advisors
+
+[190:49] spk_1: we flew about 1 pound per
+
+[190:51] spk_1: hour for about 10 seconds
+
+[190:54] spk_1: I
+
+[190:55] spk_1: You
+
+[190:57] spk_1: Yeah
+
+[191:00] spk_1: They all personnel the re-entry point at T minus 20 minutes is on page 543
+
+[191:09] spk_1: 212 we need to speak to fuel cells on the 161 just a minute 161 TP
+
+[191:21] spk_1: This is CPD 212 Yes ma'am Can I get a CMC 151
+
+[191:29] spk_1: Do you see this is CFCP
+
+[191:32] spk_1: Yes we got a
+
+[191:34] spk_1: CFTC on channel
+
+[191:35] spk_1: 153 please OK uh and you also have a go on 16081 when the clock picks up OK 61MTC
+
+[191:43] spk_1: Copy
+
+[191:45] spk_0: This is shuttle launch control uh with a special announcement for the uh PBS stations and people on the satellite watching for the Teacher in Space mission watch reports
+
+[191:58] spk_0: Those will do to have a program at 10:30 Central Standard Time this morning
+
+[192:05] spk_0: 11:30 Eastern and 8:30 Pacific those will resume with Barbara Morgan the backup teacher observer on Tuesday That's tomorrow January 28th at 10:30 Central Standard Time 11:30 Eastern because of the fact that the launch has not yet gone and we are still in the countdown
+
+[192:32] spk_0: The countdown is scheduled to resume at the T minus 20 minute point at 11:36 a.m. this morning
+
+[192:41] spk_0: We are looking towards a possible T-0 or a lift off at 12:06 p.m. just after noon this afternoon Eastern Time
+
+[192:52] spk_0: We have approximately 5 minutes remaining in the planned hold System engineers have all reported back to their respective test conductors that the proper programs are running in their consoles The pre-flight alignment of the inertial measurement units has been completed and the guidance navigation control system engineer has reported being ready to transition the onboard computers to the terminal countdown configuration
+
+[193:20] spk_0: The NASA test conductor previously had briefed the launch team on recycle options for the remainder of the hold
+
+[193:29] spk_0: Or of the countdown
+
+[193:31] spk_0: We are
+
+[193:33] spk_0: Continuing to look at the the winds carefully
+
+[193:39] spk_0: And they are no go at this time particularly in the crosswind component
+
+[193:47] spk_0: The weather in the Florida area and the Kennedy Space Center area is going to continue to get much colder There has been a period of 8 minutes of snow in the Jacksonville area just a short time ago which is an indication of the way in which the temperatures are coming down as the front moves off and the jet stream brings the extremely cold polar air to the area
+
+[194:15] spk_0: The forecast for tomorrow is looking at about 28 °F in the launch area at launch time which would be 9:38
+
+[194:33] spk_0: We have approximately 3 minutes remaining before we pick up the countdown at the T minus 20 minute point This is shuttle launch control
+
+[194:42] spk_1: CDRPC OK we will be picking up the account here at 1636
+
+[194:54] spk_1: And
+
+[194:56] spk_1: C2 NC Yes ma'am the uh IMU prefly line is complete ready for ops one transition Copy that Thank you very much
+
+[195:07] spk_1: Top down clock will be zoom in 1 minute 30
+
+[195:09] spk_1: seconds
+
+[195:12] spk_0: This is shuttle launch control We're just a little less than a minute now away from picking up the countdown once again at the T minus 20 minute point Uh the most of the talk and the concern is about the wind situation here at the Kennedy Space Center
+
+[195:29] spk_0: There is a trough which is moving through the area at the present time and there is hope that if it gets through fast enough that we will have satisfactory conditions at launch time which is now calculated to be 1206
+
+[195:45] spk_0: During the remainder of the countdown uh until T minus 31 seconds uh any of the console operators can call for a hold if he sees a problem uh and from now until T minus 5 minutes we could hold the countdown for the duration of the window and we're minus 20 minutes and counting um moving towards a launch time of 12:06
+
+[196:15] spk_0: Some of the things which are going on elsewhere in the area is a check to ensure that there is no people in the area who would be in danger This includes ships in the area off the coast It includes people in the launch impact area of the solid rocket boosters and also aircraft that might be in the area The
+
+[196:40] spk_0: FAA the Federal Aviation Administration patrols the area to warn aware any aircraft that might injure the the danger area On past missions This has been a problem but pilot education and closer enforcement has resulted in very clear skies on recent launches
+
+[197:03] spk_0: The ocean areas are also monitored by radar patrol aircraft and ships to ensure that no boats or ships stray into the launch danger area
+
+[197:14] spk_0: A purge of the orbiter's fuel cells are now underway and the data processing engineer has confirmed the onboard computers are in the transition to the terminal countdown configuration
+
+[197:28] spk_0: The primary essence software is in ops 101 and Commander Scobi will now take the backup flight system and put it in the same countdown configuration
+
+[197:41] spk_1: Copy that configure the horizontal display
+
+[197:52] spk_0: Coming up on the 18 minute point in our countdown T minus 18 minutes and counting ah dumping of the ops 101 program stored in the memory of one of the four redundant general purpose computers has started and this takes approximately 7 minutes to complete after which engineers examine the data for any miss compares
+
+[198:19] spk_0: The data processing engineer has reported the backup flight system is in synchronization with the primary system and we're ready for Houston to transmit any pre-flight upling commands that is not going to be necessary at this point
+
+[198:36] spk_0: Coming up on the minus 17 minute point in the countdown
+
+[198:51] spk_1: 17 minutes of the crew members did not have the advisor closed
+
+[198:53] spk_1: And uh and that in that
+
+[198:55] spk_1: condition our our gallon pressure will
+
+[198:57] spk_1: go up very rapidly So when we do go to close by just at 4 minutes
+
+[199:02] spk_1: Yeah
+
+[199:14] spk_1: OK I got
+
+[199:16] spk_1: horizontal then your reconfig
+
+[199:23] spk_0: Orbiter test conductor Roberta Wyrick asking that the main propulsion system be reconfigured
+
+[199:34] spk_1: PLPs
+
+[199:37] spk_1: complete
+
+[199:39] spk_0: This is a configuration of the helium which is used for pressurization in that system and purging
+
+[199:48] spk_0: minus 15 minutes 52 seconds and counting
+
+[199:53] spk_0: Uh pilot Mike Smith is the one who does the main propulsion system helium reconfiguration In this he opens helium isolation valves which permit in-flight purges of the engine and provide an emergency source of pressure of pneumatic shutdown of the engines if needed
+
+[200:16] spk_0: I
+
+[200:17] spk_1: OK now I
+
+[200:19] spk_1: got them Thank you
+
+[200:21] spk_0: The pilot Mike Smith asked to report the quantities of reaction control propellants in the forward left and right tanks He said they're the same as he reported before
+
+[200:33] spk_0: minus 15 minutes and counting The booster test conductor has been asked to start the gaseous nitrogen purge of the aft skirts This is to prevent any accumulation of flammable gasses in the bottom of the solid rocket boosters prior to ignition
+
+[200:50] spk_1: OCPL
+
+[200:56] spk_1: Uh CFCP this is ADD
+
+[201:00] spk_1: He's 153
+
+[201:03] spk_0: Coming up on the 14 minute point in our countdown everything ticking along very smoothly T minus 14 minutes and counting the launch team going through ah some ground that they have covered before as we marched down to the 9 minute point previously Uh we're looking at a possible lift off at 12:06 this afternoon
+
+[201:29] spk_1: fuel cell purge is completed
+
+[201:34] spk_1: APD FPD copy
+
+[201:39] spk_0: I'll report back that the fuel cell purge has been completed
+
+[201:45] spk_0: PCR
+
+[201:48] spk_0: has 13 minutes and counting
+
+[201:52] spk_0: Everything going smoothly as we prepare for the launch of the 51 mission The prime purposes of this particular mission the launch of the second tracking and data relay satellite
+
+[202:07] spk_0: An exciting Spartan Halley spacecraft which will be a free flyer placed overboard during flight day 2 and allowed to function for about 2 days taking a look at what's happening chemically in both the head coma and the tail of the comet Halley as it goes closer and closer to the sun
+
+[202:30] spk_0: This is a time when it has the maximum chemical reactions taking place because of the heating that's occurring
+
+[202:39] spk_0: The closest approach would be just over 50 million miles
+
+[202:46] spk_0: T minus 12 minutes and counting ah contingency support operations have been verified to be ready for launch and personnel are on station The 20 minute dump of the orbiter general purpose computer memory has been completed
+
+[203:07] spk_1: Copy that
+
+[203:11] spk_1: Thank you
+
+[203:13] spk_0: T minus 11 minutes 29 seconds and counting the full rate of conditioned air being blown through the orbiter's payload bay has been verified to be approximately 180 pounds per minute
+
+[203:26] spk_0: This is the proper configuration for the present time in the countdown
+
+[203:32] spk_1: Don't see any loss director
+
+[203:35] spk_1: Guide launch director OK I'd like to give the crew and the launch team a heads up on where we are on
+
+[203:41] spk_1: Launching today
+
+[203:44] spk_1: Uh
+
+[203:45] spk_1: challenger launcher
+
+[203:48] spk_1: OK we're gonna set that 9 minute stick and uh
+
+[203:52] spk_1: Hope that the RTLS crosswind conditions improve
+
+[203:56] spk_1: We're not gonna go past the 3.15 windows
+
+[204:00] spk_1: that you guys normally
+
+[204:02] spk_1: We like to take with
+
+[204:03] spk_1: you guys with the crew
+
+[204:05] spk_1: So we hope between now and one o'clock we'll get a good shot at it but uh it doesn't look promising at this moment
+
+[204:12] spk_1: OK fine Jane thanks
+
+[204:15] spk_0: Launch director Gene Dam is talking to the crew and laying out for them what the chances are for launch which he says are not very good We're continuing to take a look at primarily the crosswind component of the winds which has been increasing during the past couple of hours here at the Kennedy Space Center
+
+[204:37] spk_0: We're continuing to watch those with monitoring systems on the ground We also launched an additional weather balloon during the the hold while people out at the pad were working on the hatch door just about 45 seconds away from the T minus 9 minute point in the count
+
+[205:02] spk_0: The status of the vehicle is go at this time Onboard computer programs have been examined and verified to be the proper ones All aero surfaces and actuators that will steer the vehicle through powered flight are in the proper configuration for the start of the auxiliary power units which supply hydraulic pressure
+
+[205:23] spk_0: And the flight crew has completed all of their cabin leak checks and communication checks with the launch team and the flight controllers at Mission Control
+
+[205:33] spk_0: Coming up on the T minus 9 minute hold point
+
+[205:37] spk_0: Where T minus 9 minutes and holding
+
+[205:41] spk_0: When the countdown resumes the ground launch sequencer will be in full control This master computer program will issue commands to perform the final critical task required to put the vehicle in the final launch configuration
+
+[205:58] spk_0: It also keeps a close watch on as many as 1000 different measurements each second during the final 9 minutes
+
+[206:05] spk_0: The launch team now has been informed that this will be an indefinite hold We will be continuing to monitor the winds during this period which is the only major problem that we're tracking at the moment and we are hoping for a launch within the window this afternoon
+
+[206:28] spk_0: The countdown clock at T minus 9 minutes and holding This is shuttle launch control
+
+[206:36] spk_0: This is shuttle launch control at T minus 9 minutes and holding The launch team is presently going through a standard check of all of the major console operators and managers to determine their readiness to pick up the count should the weather improve
+
+[206:55] spk_0: The weather is monitored both here at the Kennedy Space Center and in Houston to determine whether we are in an acceptable position and we go now to our mission control in Houston for a report
+
+[207:12] spk_2: This is Mission Control Houston Flight controllers here are assessing the condition of the winds Uh currently those winds are in excess of acceptable limits normal acceptable limits for a return to launch site aboard on the runway at KFC
+
+[207:27] spk_2: would be 25 knot uh headwinds 15 knot crosswinds or 10 knot tailwind uh maximum gust of 8 knots that is included in those uh in those numbers
+
+[207:41] spk_2: So currently the uh
+
+[207:44] spk_2: Current conditions are in excess of the limits and the winds ah
+
+[207:48] spk_2: would have to swing around uh
+
+[207:50] spk_2: Uh somewhat more to the north or from the north uh to be acceptable
+
+[207:57] spk_2: Astronaut John Young has been flying the shuttle training aircraft uh making approaches to the uh runway at KFC uh reported some turbulence near the touchdown point
+
+[208:10] spk_2: And of course ah the strong crosswinds uh being evident
+
+[208:16] spk_2: Flight controllers will remain standing by uh uh watching for any change in the winds but the current conditions uh are in excess of the limits This is Mission Control Houston
+
+[208:29] spk_0: Back here at the Kennedy Space Center all eyes are glued to the video screens which are displaying the various wind velocities These are taken at various levels throughout the launch site area We have a 500 ft weather tower at which we have indicators or instruments at various levels which give us a very good profile of the winds at the various levels
+
+[208:59] spk_0: Wind conditions at various levels can change dramatically even in 50 to 100 ft increments At the present time we are no go We have completed our check of all of the major systems and we are in a go configuration with that exception standing by here at the T minus 9 minute point in the countdown this is shuttle launch control
+
+[209:30] spk_0: This is shuttle launch control at T minus 9 minutes and holding We have approximately 1 hour and 7 minutes remaining in this window for today's launch Originally the window extended to 12:37 That has been extended an extra half hour The primary concern and the length of the window is determined by the
+
+[209:58] spk_0: A crew fatigue factor and the length of time that the crew should be awake prior to their first sleep period We would prefer to have that at 19 hours or less However depending on how the crew feels that can be extended at the option of the doctors and the mission directors
+
+[210:25] spk_0: We are continuing to look at the the winds and
+
+[210:33] spk_0: We are looking uh at the uh
+
+[210:37] spk_0: At a timeline if the you know if we do scrub for today we are taking a look at the schedule for turnaround We are late enough in the day that we are getting very tight on turning around the vehicle However it looks very much like that would be doable
+
+[211:01] spk_0: The countdown clock remains at the 9 minute point in the countdown as we stand by for additional weather updates and hopefully a slackening of the winds at the shuttle landing facility This is shuttle launch control
+
+[211:17] spk_0: This is shuttle launch control at T minus 9 minutes and holding Uh we're continuing to monitor the weather very carefully The we're we're just hearing that the uh prediction which we had recently is still valid from the weather person
+
+[211:34] spk_0: Uh
+
+[211:35] spk_0: The uh winds have been increasing uh as we have gotten later in the day and uh are not uh satisfactory at the present time
+
+[211:48] spk_0: The winds at ground level are about 18 knots from 270 degrees That's the
+
+[211:58] spk_0: Northwest or from the west and gusting to 28 degrees This gives us a crosswind component that is higher than the 15 knots that is mandatory for a return to alongside a board on our runway
+
+[212:15] spk_0: It does not look like we have had any trends at all towards lessening of that We either need to have the wind die down or we need to have it shift direction to a more northerly course if we are going to be able to launch today But at the present time things are not looking very good We are standing by though continuing to monitor the wind situation and have the vehicle in a ready position
+
+[212:44] spk_0: And all systems go on board the vehicle The crew is in good spirits and ready to go if they can The countdown at T minus 9 minutes and holding This is shuttle launch control
+
+[212:58] spk_0: This is shuttle launch control at T minus 9 minutes and holding We are going to have a final flight by the shuttle training aircraft with John Young at the controls at the to the south end of the runway to determine exactly what the wind conditions are at the present time should there be a need for a return to launchite aboard
+
+[213:22] spk_0: Following that path we expect to have a decision one way or another to proceed with launch or to scrub for the day If we should scrub the launch for today the earliest we could recycle for would be tomorrow morning The launch time would be 9:38 a.m. Eastern Standard Time
+
+[213:47] spk_0: However a decision will not be made whether to recycle for tomorrow or to stand down until a management meeting has occurred The launch team or the shuttle management team would rendezvous following a scrub and take a look at all of the aspects of it including
+
+[214:10] spk_0: Launch team fatigue crew fatigue the availability of propellants the probability of having good weather for the launch and other factors We would expect that a final decision would not actually be made until time for tanking around 10 o'clock tonight
+
+[214:32] spk_0: However at the present time we are having a final pass at the runway to determine whether the conditions would support a launch today The vehicle itself is ready to go The team that's ready to go and we're standing by at T minus 9 minutes and holding This is shuttle launch control
+
+[214:54] spk_0: This is shuttle launch control a minus 9 minute ban holding John Young flying the shuttle training aircraft on an approach to the south end of the runway We have had some indications from our weather people that there was a slight improvement at the south end of the runway as far as the crosswind component was concerned
+
+[215:16] spk_0: However it's a little too early yet to determine whether that is a trend and whether it will support the launch but we're standing by here the weather being the only major problem that we have at the moment
+
+[215:31] spk_0: All of the orbiter systems all of the ground systems all of the consoles in the fire room ready to support They determined that the launch window would extend to 107 this afternoon and we're standing by to see whether we can possibly launch by that time The countdown clock at T minus 9 minutes and holding this is shuttle launch control
+
+[215:59] spk_0: This is shuttle launch control at T minus 9 minutes and holding The scene in the firing room is similar in some ways to the when television was first introduced people huddling around screens trying to indicate what the wind velocities and directions are at various altitudes at the low levels here at the Kennedy Space Center
+
+[216:23] spk_0: Uh we have had some abatement of the crosswind components for the south end of the runway continuing to watch that and waiting for the reports back from astronaut John Young who is flying the shuttle training aircraft The window has been extended to 1:07 p.m. this afternoon
+
+[216:52] spk_0: And we are standing by to hear what the forecast is for the remainder of that time The earliest that we could launch if we do have a scrub would be tomorrow morning with a window opening at 9:38 However no decision has been made as to whether we would try for tomorrow morning
+
+[217:15] spk_0: And there would be a management meeting held following any scrub to take a look at all of the various aspects prior to rescheduling The countdown at T minus 9 minutes and holding this is shuttle launch control
+
+[217:32] spk_0: This is shuttle launch control at T minus 9 minutes and holding continuing to stand by here in the launch control center and the Mission Control center in Houston for a decision on the winds
+
+[217:47] spk_0: We have had some abatement of the wind at the south end of the runway but it's not within the values at the moment
+
+[217:57] spk_0: And we're continuing to watch that and wait for a report back from John Young who is flying the shuttle training aircraft In the meantime people are very quiet watching their monitors and there are various instruments to determine that all of the various systems on board the orbiter and even the ground support systems stay within the proper limits for a launch
+
+[218:24] spk_0: The window extends to 1:07 p.m. this afternoon
+
+[218:28] spk_0: that is a
+
+[218:31] spk_0: Exceeds the time in which we would prefer to have the crew in on board the orbiter and then later in orbit prior to their first sleep period However the the crew has given a willingness to do that
+
+[218:48] spk_0: And we're standing by him
+

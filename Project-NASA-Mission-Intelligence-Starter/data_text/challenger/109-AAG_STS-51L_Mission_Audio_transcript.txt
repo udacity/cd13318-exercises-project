@@ -1,0 +1,1622 @@
+CHALLENGER STS-51L MISSION AUDIO TRANSCRIPT
+Audio File: 109-AAG_STS-51L_Mission_Audio
+Transcription Date: 2025-07-12T21:15:35.071978
+================================================================================
+
+SPEAKER-SEGMENTED TRANSCRIPT:
+----------------------------------------
+
+[00:09] spk_0: have any detailed debris reports at this point in time That certainly is something that we're looking at and we will be impounding all the debris that we recover and we've set up plans here to store that debris so that the investigating group can go in and look at that and assess that in great detail I do not have any detailed reports right now on debris
+
+[00:31] spk_0: Bruce Nichols Mr
+
+[00:33] spk_1: Moore uh
+
+[00:34] spk_1: with all the delays that you experienced last week
+
+[00:38] spk_0: the delay again Was there any pressure building to go or no go Absolutely no pressure to get uh this particular launch off Uh we have always maintained that flight safety is our top priority consideration in the program
+
+[00:54] spk_0: And we look at the status and readiness of the systems based on that We thoroughly reviewed the activities over the weekend and yesterday and continually reviewed the status of Challenger right up until launch this morning All of the people involved in this program to my knowledge felt that Challenger was quite ready to go and I made the decision along with the recommendation from the team supporting me that we launch
+
+[01:24] spk_1: We're going to the Marshall Space Flight Center for a couple of questions
+
+[01:30] spk_0: Martin Burkey with
+
+[01:31] spk_2: Huntsville Times uh can you tell me what this does to the schedule on down the line and including the launch at Vandenberg
+
+[01:39] spk_0: No I'm not prepared to do that What I have done is basically suspend operations for a few days so we can sit down and assess this and you know we're obviously not going to pick up any flight activity until we fully understand what the circumstances were relative to this morning's launch So in the interim near term time we basically suspended operations until we get a handle on what our problems were this morning
+
+[02:04] spk_0: Nick Miller WAFF Television in Huntsville What part will Marshall Space Flight Center play in the investigation since
+
+[02:11] spk_1: the propulsion system was
+
+[02:12] spk_1: the responsibility of the spaceflight center
+
+[02:14] spk_0: here Well they obviously have to play a very strong role in the investigating what happened this morning As you know the space shuttle program is built around a team effort not only involving the Marshall Center but also the Kennedy Space Center and the Johnson Space Center
+
+[02:30] spk_0: All of the elements have different responsibilities and clearly Marshall has the propulsive responsibilities on the shuttle They will play a very dominant role as will the other three centers I mentioned as well as anybody that is contributing to the overall program and has some relevant information to add will certainly play a part
+
+[02:50] spk_1: OK we're
+
+[02:51] spk_1: moving to uh Washington uh for questions from NASA headquarters
+
+[02:57] spk_1: uh
+
+[03:01] spk_1: Uh OK there is a problem with our uh audio circuits to Washington Uh we are going to the Jet Propulsion Laboratory in Pasadena
+
+[03:10] spk_1: the Chicago Sun Times Mr Moore in your opening remarks you mentioned the appointment of this
+
+[03:15] spk_1: interim review board
+
+[03:16] spk_1: and said that it would be making statements from time to time not to put
+
+[03:23] spk_1: any adverse interpretations on this It sounds a
+
+[03:26] spk_1: little bit like a news blackout and I'm wondering
+
+[03:29] spk_1: If your objective is to consolidate information what will be the point of issue of all those announcements in the future And are other people not involved in that review board forbidden
+
+[03:42] spk_1: to talk
+
+[03:43] spk_0: Well let me correct your statement First of all I said that I had appointed an interim review board That interim review board is composed of the senior members of the NASA team here to take immediate actions on impounding data
+
+[03:59] spk_0: The acting administrator is expected to appoint a formal review board very shortly and it will be left up to that review board in order to determine its progress reports in terms of their findings What we have done here today is to move very quickly so that all relevant data could be impounded
+
+[04:20] spk_0: And all actions that are needed to be taken in order to preserve as much information as we can on the circumstances of this morning can be preserved and that's the nature of the work that I've implemented today and I expect a formal board to be established very very shortly within the next day or so by the acting administrator
+
+[04:38] spk_0: Uh this is Roy Neal NBC News Jess you've said I believe that future flights are temporarily frozen The United States space program is is at a halt Now based on your experience how long would you estimate that this investigation will take 6 months a year before you get back in business It is as you know it is very difficult to estimate that time It's going to be a function of
+
+[05:04] spk_0: What the board finds were the difficulties today and what corrective actions have to be taken before we feel confident and feel safe to fly again and I clearly am not in a position to speculate today the length of time involved in making that determination It will be done just as quickly as we possibly can but also as prudently as we possibly can and as thoroughly as we possibly can
+
+[05:29] spk_1: One more question from JPL Bill Hines again I've got to follow up on that first question of mine I understand now that there will be announcements made after the permanent
+
+[05:39] spk_3: board is
+
+[05:40] spk_1: appointed Is that
+
+[05:41] spk_0: correct There will be an announcement I'm sure of the members of the permanent board Yes I believe that will be correct And then I think that board will determine its rate of reporting based on the progress of its findings
+
+[05:57] spk_0: OK we're we're
+
+[05:58] spk_1: going next to the Washington NASA headquarters
+
+[06:04] spk_1: Sir Pat O'Donnelly
+
+[06:05] spk_4: Capital News Service are there any indications of
+
+[06:07] spk_1: sabotage or attack on
+
+[06:08] spk_4: the show
+
+[06:10] spk_1: Uh I'm sorry we didn't read that question
+
+[06:15] spk_1: And while they're repairing that circuit to Washington we'll go to the Goddard Space Flight Center in Maryland
+
+[06:22] spk_0: Mark Weaver WBA Radio in Baltimore has this raised any questions about how reliable the space shuttle is Might there just be too many things that could go wrong with a vessel this complicated Well that question I'm sure will be asked and I don't want to speculate on that at this point in time That's certainly a logical question for somebody to ask
+
+[06:43] spk_1: Ken Jarrell from
+
+[06:44] spk_1: WDBM in Washington Were there any unusual weather conditions aloft or any unusual weather
+
+[06:50] spk_1: conditions during the launch
+
+[06:53] spk_0: None that we observed
+
+[06:55] spk_1: that I
+
+[06:55] spk_0: recall we did
+
+[06:58] spk_0: Um put up some weather balloons early this morning We did look at load conditions as we normally do and the winds aloft looked good We didn't have any exceedances as far as our load indicators are concerned to my knowledge and we thought everything was in good shape for a launch this morning
+
+[07:18] spk_1: Mr Moore IJ Hudson from WRC TV uh has it become a problem that you have been too good in the past that the
+
+[07:25] spk_1: American people have seen flawlessly uh perform missions on
+
+[07:28] spk_1: TV uh almost routinely and that something like this happens all of a sudden it hits home
+
+[07:32] spk_1: even harder
+
+[07:34] spk_0: Well I I don't know how to answer your question specifically We always strive in every flight that we perform to be as reliable and as safe as we possibly can and to do everything that we can to ensure that the vehicle and the systems are all ready to fly Flight safety is our
+
+[07:53] spk_0: Number one priority in the space shuttle program and certainly when you see an event like this this morning we are going to have to do a very detailed assessment of the set of circumstances to try to understand what occurred and we will then in turn assess the impacts of that to determine where we go in the future
+
+[08:14] spk_1: OK back here at the Kennedy Space Center we only have time for a couple more questions Jay Barberry from NBC News in the front row here
+
+[08:24] spk_1: Jess
+
+[08:25] spk_0: uh I would like to
+
+[08:26] spk_3: know if you
+
+[08:28] spk_1: What happened to Challenger Can we assume that it was consumed in the explosion and can you tell us
+
+[08:34] spk_0: specifically what you know
+
+[08:36] spk_1: now that the recovery
+
+[08:37] spk_5: crew has recovered in the
+
+[08:39] spk_0: impact area I have not gotten a briefing Jay on what what the recovery team has found at this point in time and I have basically looked at the NASA select photos and so forth that you did and all I can say is that it appeared from those photos that there was an explosion and that's about all I can say at this point in time
+
+[08:58] spk_1: OK we have time for only one more question and James Fisher from the Orlando Sentinel has had his hand up a long
+
+[09:04] spk_1: time
+
+[09:06] spk_0: That we have and there is a production capability there if and when it's decided that that's the next step we want to do is to move forward and do that So I think the bottom line answer to your question is yes that is a possibility that we could implement a production capability for another orbiter if that were decided to be the thing to do
+
+[09:23] spk_1: OK I'm uh sorry to have to wind this up now Mr Moore has to get back immediately Uh as you know he's been here since very early in the morning and there's much to be done Thank you all
+
+[09:36] spk_0: Thank you
+
+[09:47] spk_4: Ladies and gentlemen I'd like to introduce the vice president
+
+[09:52] spk_4: Mr Bush
+
+[09:53] spk_1: Well I've come
+
+[09:54] spk_3: here today at the president's request
+
+[09:58] spk_3: Accompanied by Senator Garn and Senator Glenn
+
+[10:04] spk_3: pay our respects to the families of the crew
+
+[10:08] spk_3: The president and I and the entire nation
+
+[10:12] spk_3: Join in mourning the 7 splendid men and women
+
+[10:16] spk_3: Who now rests in God's arms
+
+[10:20] spk_3: Today's tragedy reminds us that danger awaits all who push back the frontier of space
+
+[10:27] spk_3: It reminds us that the great adventure of space travel requires men and women of spirit and bravery
+
+[10:36] spk_3: I'd like to say something in particular something special to the
+
+[10:41] spk_3: Schoolchildren of our nation and especially those from Concord
+
+[10:46] spk_3: You must try to understand
+
+[10:49] spk_3: The spirit bravery and commitment are what makes not only the space program but all of life worthwhile We must never
+
+[10:59] spk_3: As people in our daily lives or as a nation Stop exploring stop hoping
+
+[11:06] spk_3: Stop discovering We must press on
+
+[11:10] spk_3: What can all of us give now
+
+[11:13] spk_3: To honor those we've lost
+
+[11:16] spk_3: Let me suggest a memorial to them
+
+[11:19] spk_3: We must be as they were
+
+[11:22] spk_3: Great in spirit great in courage and great in dedication to the adventure of which they were so much a part
+
+[11:32] spk_3: We must resolve that like America's pioneers of the past others will follow others will explore others will risk as these seven brave Americans risk today
+
+[11:45] spk_3: So I came here today to pay our sincere condolences
+
+[11:52] spk_3: To the families and the friends of the 7
+
+[11:55] spk_3: And also to the proud men and women of NASA We salute them in this hour of trial
+
+[12:03] spk_3: Thank you very much and I'm now gonna go and pay my respects to the families I'm sure that Penderga might like to add something but
+
+[12:14] spk_3: Excuse myself and meet you over here if I could
+
+[12:18] spk_3: I would only
+
+[12:19] spk_1: add very
+
+[12:20] spk_4: briefly that I'm
+
+[12:21] spk_3: pleased to be here with the vice president
+
+[12:24] spk_3: Our only purpose in coming was to pay tribute to the crew
+
+[12:29] spk_1: It's been a very
+
+[12:29] spk_2: difficult day for me personally
+
+[12:32] spk_1: because I
+
+[12:33] spk_3: knew each of them I trained with some of them
+
+[12:36] spk_3: And
+
+[12:36] spk_1: I just extend
+
+[12:37] spk_1: my love and condolences
+
+[12:39] spk_1: to their families
+
+[12:41] spk_1: Let me add just a word I'm very appreciative that the vice president would ask us to accompany him today here even though it is a very sad occasion
+
+[12:50] spk_1: It's been nearly a quarter of a century
+
+[12:54] spk_1: That we thought this might happen sometime but we delayed that day until today
+
+[13:00] spk_1: We hoped that this day would never come
+
+[13:03] spk_1: But unfortunately it has and with a tragedy that all Americans share together
+
+[13:09] spk_1: I share a sense of personal loss having been involved in the program as Jake just mentioned he does too
+
+[13:16] spk_1: Remember yesterday was an anniversary also when Gus Grissom and Roger Chafee and
+
+[13:21] spk_1: And Ed White
+
+[13:23] spk_1: And very very tragically lost their lives in the
+
+[13:27] spk_1: Fire on the pad here
+
+[13:30] spk_1: But since that time you know we've had we've had 56 manned missions so far
+
+[13:37] spk_1: 24 with a shovel
+
+[13:40] spk_1: And I guess what it points out more than anything else is that
+
+[13:43] spk_1: While we have many triumphs
+
+[13:47] spk_1: And that's the nature of all human progress as we try We keep trying the new trying the better
+
+[13:54] spk_1: Ourselves and trying to learn more
+
+[13:57] spk_1: Well we have triumph
+
+[14:00] spk_1: Many of them once in a while there is a tragedy
+
+[14:05] spk_1: It's that triumph and tragedy comparison that we have here today
+
+[14:11] spk_1: one of the people who's been here all day with some of the
+
+[14:15] spk_1: The families told us coming in a few moments ago when he was talking to the families earlier several of them said to him Don't let this slow the program down
+
+[14:25] spk_1: They gave lives of their families or their loved ones or their friends
+
+[14:30] spk_1: In this effort
+
+[14:33] spk_1: So I guess we could say that these 7 that went up this morning
+
+[14:37] spk_1: carried the hopes and the dreams of all of us
+
+[14:42] spk_1: And what we can do now is make sure that we carry their memories in carrying on
+
+[14:47] spk_1: Thank you
+
+[14:57] spk_4: Thank you ladies and gentlemen
+
+[15:04] spk_1: Yeah we're uh am I just talking to you
+
+[15:19] spk_4: Uh ladies
+
+[15:21] spk_1: and
+
+[15:21] spk_1: gentlemen we'll be starting this press briefing momentarily
+
+[15:27] spk_1: Uh ladies and gentlemen uh I'd like to introduce the acting administrator of NASA Doctor William Graham
+
+[15:36] spk_4: Thank you
+
+[15:37] spk_4: Just 24 hours ago the nation and really the world suffered a tragic loss
+
+[15:44] spk_4: This loss is perhaps made all the more dramatic of a long record of outstanding successes in the US space program We've come to expect
+
+[15:55] spk_4: Complete total performance on every mission
+
+[15:59] spk_4: And that is in some ways an extremely difficult thing to achieve
+
+[16:05] spk_4: Nevertheless I want to assure you as others have including the President of the United States that this loss will not stop us as Americans from exploring the frontiers of science and the frontiers of space
+
+[16:21] spk_4: While we grieve for our lost colleagues
+
+[16:26] spk_4: And for the families that they've left behind
+
+[16:30] spk_4: The NASA team is dedicated to understanding very thoroughly what occurred yesterday
+
+[16:36] spk_4: And what is needed to give all of us the best possible assurance that it will never happen again
+
+[16:43] spk_4: And we are dedicated to pressing on
+
+[16:47] spk_4: Yesterday Mr Jesse Moore the NASA Associate Administrator of Spaceflight
+
+[16:53] spk_4: And the new director of NASA's Johnson Space Center in Houston
+
+[16:58] spk_4: Set up a series of interim teams to acquire all the data available related to the accident and to begin a very exhaustive complete and comprehensive review of that data
+
+[17:11] spk_4: This morning
+
+[17:13] spk_4: I can announce that NASA will be having a memorial service
+
+[17:18] spk_4: For the crew of Mission 51L midday Friday in Houston Texas
+
+[17:26] spk_4: The President and Mrs Reagan will attend that memorial service
+
+[17:31] spk_4: With us today is Mr Moore
+
+[17:35] spk_4: Doctor Richard Smith am I right the director of the
+
+[17:39] spk_4: Kennedy Space Center here
+
+[17:42] spk_4: And Colonel Simpson of the Coast Guard
+
+[17:45] spk_4: Who has been in charge of the rescue and recovery operations
+
+[17:50] spk_4: And efforts that have been taking place offshore
+
+[17:54] spk_4: With that we'll take your questions
+
+[17:58] spk_1: OK please wait for the microphone and uh for you to be called on
+
+[18:03] spk_4: uh
+
+[18:04] spk_1: we'll
+
+[18:04] spk_1: begin uh
+
+[18:07] spk_1: Back here in this
+
+[18:09] spk_1: 3rd row
+
+[18:12] spk_1: The hosts Atlanta Journal Constitution Dr Graham
+
+[18:15] spk_3: I
+
+[18:15] spk_3: wish you'd
+
+[18:16] spk_3: tell us just what the loss of 1/4 of the shuttle fleet and indefinite postponement of all shuttle flights is going to
+
+[18:22] spk_3: mean to this country in terms of
+
+[18:23] spk_1: its national security
+
+[18:24] spk_4: commitments
+
+[18:26] spk_4: Uh Lee we have uh have not had the opportunity to go forward with our plans far enough to reach any long-range conclusions at this 24 hour point after the accident
+
+[18:38] spk_4: We're certainly aware of the concerns but right now our our entire effort is focused on acquiring all of the information photographic telemetry debris and every other type that we can find from this accident and making sure that that information is all safe and archived and then in going forward with the investigation of this in times to come we will certainly have to address that question but not yet Knick
+
+[19:08] spk_4: This would be for Dr Graham
+
+[19:10] spk_1: I've been told that
+
+[19:11] spk_4: Rockwell
+
+[19:12] spk_1: saw the pictures of the ice at
+
+[19:14] spk_4: Pad 39B yesterday
+
+[19:15] spk_1: and was concerned enough about those pictures to call NASA and ask for a delay in the launch
+
+[19:21] spk_1: Did you receive such a call
+
+[19:22] spk_1: and if so why was it not acted on
+
+[19:25] spk_4: Let me defer that question to Jessie Moore and to Dick Smith who were both here at the launch pad at that time
+
+[19:32] spk_0: There were a series of technical meetings yesterday morning uh about the uh ice on the launch pad The ICE team went out did an inspection uh early in the morning very early in the morning and then came back and reported and uh the technical team did sit down all the NASA people involved as well as the contract people involved and did uh feel that the conditions at the launchpad were acceptable for launch
+
+[20:01] spk_0: And basically recommended that you know we launch in addition to that there was a uh a follow up uh activity that was initiated yesterday prior to launch very close to launch and that is we send the ice team out about 20 minutes before launch and uh basically checked again about the ice conditions and all our reports back when that team were good
+
+[20:26] spk_0: Alright you want to add up to that You wanna
+
+[20:28] spk_5: No I think that's
+
+[20:29] spk_5: the case It was very thoroughly assessed and the indications were that uh uh
+
+[20:35] spk_5: Very low risk involved
+
+[20:37] spk_1: Uh Chad Lenner from Gannett News Service
+
+[20:41] spk_1: Gentlemen could you tell us if uh since the accident what type what
+
+[20:46] spk_0: size what
+
+[20:47] spk_1: nature of evidence we've collected so far whether you've got any leading
+
+[20:51] spk_4: theories and when will
+
+[20:53] spk_1: the board be reporting
+
+[20:54] spk_0: to us and what method
+
+[20:57] spk_0: Well let me let me tell you what I have done with my
+
+[21:01] spk_0: Interim board and I think members of my interim board were announced to the press yesterday essentially myself
+
+[21:09] spk_0: A center director here at Kennedy Dick Smith the Senate director at Marshall Bill Lucas Ern Aldridge who's my shuttle level 2 manager at JSC at Johnson Space Center Walt Williams who's a special assistant to the administrator of NASA and Bob Overmyer who's a member of the flight crew We have been meeting almost continuously since yesterday morning and forming a number of different teams and our objective in the formation
+
+[21:37] spk_0: One of these teams is to make sure that all aspects of the flight from a data gathering point of view from an impoundment point of view are protected so that we can then in fact put the technical people in place to go through this type of data in a very very systematic professional and thorough manner We've got teams I'll give you a few examples looking at set up to look at the flight telemetry the trajectory We've got a main propulsion system team We've got a launch pad facility
+
+[22:06] spk_0: A beach area and general environment team set up We've also got a team to look at all the photography and television that was taken of the launch yesterday a debris team set up to do that and also a team set up to look at the hardware processing that was done on all elements of this particular flight and particularly what
+
+[22:28] spk_0: operations were done on the orbiter on the SRB and on the tank and the engines from a pedigree standpoint so that we can track the track the hardware and really understand the conditions of the hardware of this flight All that is in place I've also set up as I should point out a flight crew team to go and assist us where we can and the astronaut corps has come forward in a very strong positive manner
+
+[22:53] spk_0: Wanting to assist our team as just as much as they can and I welcome their support and we've got them integrated into all our teams across the board right now We have not had any formal data reports back from our teams that we've set up I met with my board this morning
+
+[23:11] spk_0: I plan on getting status reports this afternoon and mainly will be interested in the planning that's going on in those teams to make sure that we are not overlooking any pieces of evidence and to make sure that all the data is preserved in as pristine a condition from yesterday morning as we possibly can and that's really our objective right now to make sure that system is in place
+
+[23:34] spk_1: Harry Colcom from Aviation Week in the 3rd row here
+
+[23:38] spk_0: I I guess this is for anyone who who has the telemetry uh data uh given
+
+[23:45] spk_0: Any indication so far and I guess this is to suggest that would would change what we saw visually Was there something behind the plume that the telemetry got that we didn't see Harry as I just reported we have not had a report from any of our teams They are off making sure that we preserve this data and getting copies of the telemetry data so the right people can look at it from an analytical standpoint
+
+[24:12] spk_0: We do not have any reports back so my answer to that is I have not had a report on exactly what the telemetry shows All I know is what was called out in the launch control room in the flight control room yesterday
+
+[24:24] spk_0: And I should point out that the teams operated very very professionally during this tragedy yesterday in in both the launch control room and the flight control room and went about a very professional manner of of preserving the data and making sure that the future activities would have at their excess all the information that we possibly could have
+
+[24:49] spk_1: Bill Broad in New York Times
+
+[24:51] spk_0: For Mr Moore um
+
+[24:53] spk_2: how this question goes to how good the flight was up to the point of explosion The um the ascent call sheets that had that I had that had been given out before the flight
+
+[25:04] spk_2: Uh compared to the actual calls that were coming made it look like the shuttle was slow that it hadn't gotten quite as far enough as high enough as it said on the sheet Is that the case If so do you have any speculation on what
+
+[25:18] spk_2: what was happening
+
+[25:18] spk_0: That is not the case from my from what I have heard to date I cannot say that is the case All I can say is the reports that I heard on the on the net and from the people I've talked to the flight lists essentially nominal doing the role plan role program
+
+[25:34] spk_0: During the throttle down where we throttled down the main engines to about 66% and then we all heard the call of throttle up back to the 104% and that went nominal as far as I could tell as well So I I do not have the data that you're looking at that you're assessing right now I have not had that report
+
+[25:53] spk_0: Were there
+
+[25:53] spk_2: were there any
+
+[25:54] spk_2: any anomalies whatsoever significant anomalies in that period up to the point of explosion that you know of
+
+[26:03] spk_0: Not that I not that I have heard quite frankly I have not heard of any significant anomalies during that period of time Like I said my inputs as of now indicate that the flight was normal up until that point in time
+
+[26:14] spk_0: Now I have not looked at the data in detail We have not gone back and done the analysis on all the flight trajectory data and in great detail and that's what we're trying to set up and make sure we've got a mechanism to do that And just as soon as we understand that and we can talk
+
+[26:28] spk_0: On a conclusive basis as opposed to a speculative basis I think we'll be able to come
+
+[26:33] spk_1: forward in the
+
+[26:34] spk_1: 4th row here
+
+[26:35] spk_0: Kerry Ann's NBC stations division
+
+[26:37] spk_1: This is for
+
+[26:38] spk_0: Colonel Simpson Could you please describe for us what kind of debris your teams are finding at this point what conditions it's in what has been spotted still floating or on the beach and what any of this might be able to tell you about the accident
+
+[26:52] spk_2: It began recovering debris last night Um they have uh recovered dozens of pieces The largest piece recovered is 12 ft by 4 ft Most of the pieces recovered are a lot smaller than that
+
+[27:05] spk_2: Uh such that all the material that they've gathered both last night and today has been loaded onto an 82 ft coast guard cutter so it gives you some idea of the quantity of debris recovered so far Uh that debris is is being brought into port now and uh really I I can't tell you what it means until we get it into port and and let the experts look at it
+
+[27:28] spk_4: Over here Mr Moore
+
+[27:30] spk_2: Byron Barnett WNET in Boston if there's no black box so to speak and essentially you're looking at
+
+[27:35] spk_4: scraps how confident are you that you will find the exact cause of what happened
+
+[27:40] spk_0: Well you always have to look downstream with some degree of risk that you're not going to precisely pin it down but I think again that's speculation Our objective is to precisely find out what happened and that's going to be the emphasis of our team but
+
+[27:55] spk_0: You know everybody has a has a uh uh certainly a high degree of confidence we're gonna be able to find it and our efforts is to focus in on the data and pin it down
+
+[28:05] spk_5: Yes I'd like to add one point there Uh we know there's debris washing up on the beach Uh you people could be great assistance to us to inform the public that we need every piece of that because we don't know where the clue might be and we really could because we do have a few souvenir hunters out
+
+[28:21] spk_5: there
+
+[28:23] spk_4: In the 5th row here Sarasota Herald Tribune a two part question on ice There's been published speculation that the freezing weather may have caused the bonding agent that holds the solid fuel to the walls of the solid rocket booster It may have contracted and expanded and loosened
+
+[28:42] spk_4: A propellant I'd like you to comment on that and I'd also like you to tell us what the team was specifically looking for when they went out there with some degree of
+
+[28:52] spk_4: concern
+
+[28:52] spk_0: Well let me let me ask Dick to comment on the ice team going out but let me comment that we have launched you know these solid rocket motors boosters last year I think we had a launch in the January time frame
+
+[29:06] spk_0: Uh and we were confident that there was no problems relative to the to the solids and I think you said the key word right up front of your question is speculation
+
+[29:15] spk_0: And uh at this point in time uh you know we're not zeroing in a lot of uh a lot of emphasis on that area As a matter of fact the data that we've seen from the thrust and so forth of the of the solids that were called looks reasonably nominal
+
+[29:31] spk_0: Dick you want to comment on specifically what was done with your team Well
+
+[29:34] spk_5: the primary
+
+[29:35] spk_5: purpose of the ice is to go out and see if there's any ice or debris that could cause damage to the flight hardware in any way
+
+[29:44] spk_5: And uh that's the purpose of that is Jeff said earlier we sent them out a second time to look We also cleaned off any any ice particles on top of the mobile launcher to assure we had no debris damage The consensus of opinion by all the experts that we did not have a problem uh at the worst we might uh ding a towel at it yeah
+
+[30:07] spk_1: uh over here
+
+[30:08] spk_4: from the
+
+[30:09] spk_0: Independent News Mr Moore it's been said that the flight was nominal up until the point of the
+
+[30:14] spk_0: explosion
+
+[30:15] spk_1: What conditions in your brainstorming what conditions could have created the
+
+[30:19] spk_1: sequence of events that led to that explosion
+
+[30:21] spk_0: I'm not prepared to speculate on that You're asking me to try to pin down exactly the cause and I can't speculate on that right now I mean you saw the films as I saw it yesterday and
+
+[30:30] spk_0: That's all I'm prepared to say at this point in time sir
+
+[30:32] spk_1: Have you discounted
+
+[30:33] spk_0: the possibility that one
+
+[30:34] spk_1: of those bolts may
+
+[30:35] spk_0: have
+
+[30:35] spk_1: prematurely exploded
+
+[30:36] spk_0: We we are not discounting any possibility at this point in time As I said what we're trying to do is to amass the best data we possibly can so we have an opportunity to look at the situation as it occurred yesterday
+
+[30:49] spk_0: And we're going to go through a family tree of failure modes that is going to include a lot of different kinds of scenarios and I'm not prepared to speculate on any of those at this point in time
+
+[30:59] spk_1: We're going to take a couple of more questions here and then we're going to go to other centers before coming back Jay Barber NBC
+
+[31:05] spk_3: News
+
+[31:06] spk_1: a two parter Jess this is a tough question and I also have one for you Dick Um
+
+[31:12] spk_1: are you
+
+[31:12] spk_1: confident now that Challenger was consumed in that explosion or
+
+[31:17] spk_1: is there a possibility that part of it survived
+
+[31:20] spk_3: Is there any
+
+[31:20] spk_1: possibility at all that any of the crew will be recovered or uh can we assume that they were consumed and Dick for you
+
+[31:28] spk_1: After uh you've had a chance to look do you have any one specific area that you're going to
+
+[31:33] spk_3: look at it first that you
+
+[31:35] spk_1: suspect could have
+
+[31:36] spk_0: caused it
+
+[31:38] spk_0: Well Jay let me let me try to give you a very quick answer to this I would always like to like to hold out hope However we have seen a lot of small debris as you heard heard the report over here and uh so you know I I always hold out hope that that there's going to be something there but I think based on our debris reports and so forth there's there's very little of that at this point in time
+
+[32:03] spk_0: And until we're able to collect all the debris we possibly can you know we can absolutely 100% guarantee that but that's that's the way the situation looks based on the information we've had as of now
+
+[32:18] spk_5: OK we do not have any specific areas at this time We made a cursory look Did we see anything anomalous with any of the hardware that comes off at TCO yesterday afternoon that showed nothing
+
+[32:29] spk_5: So right now we do not have a scenario or several scenarios that says the failure and we're looking at everything
+
+[32:37] spk_1: In the 4th row here and then we'll go to other centers Mr Moore Mike Freeman Philadelphia Daily News could you give us a more specific idea of what the teams will be looking for based on past experience with past malfunctions
+
+[32:51] spk_1: we've got a you're looking at a discipline and for example the
+
+[33:05] spk_0: the telemetry and trajectory is going to be focusing just on that What did our telemetry data back from the orbiter tell us that was happening during the flight Uh the main propulsion system team which will involve as I said the solid rocket booster people
+
+[33:21] spk_0: It will involve the external tank people and also the shuttle main engine people We'll be looking at everything from the checkout getting ready to launch through the performance of all the propulsion elements up until the time the event occurred and so they're going to be looking at everything within their sphere of
+
+[33:40] spk_0: Responsibility let me say and they're going to be going through it with a fine tooth comb and immediately what we're doing is trying to put these data banks in place and preserve them as I've said previous times so that the data is there and we can go through that data with a very detailed look and a detailed assessment by all the experts
+
+[34:00] spk_1: OK we're moving now to the Johnson Space Center for questions
+
+[34:04] spk_6: Uh this is the Johnson Space Center Our first question is from Carlos Byer Houston Chronicle
+
+[34:09] spk_7: I'm wondering where this data will be will be held Is this all going to be put at a central point such as GSC or KSC Where will all of this be assembled Where will the debris be assembled Could you speak to those points please
+
+[34:27] spk_0: Well I can give you a little information on that Carlos First of all we've set up some temporary facilities here to handle all the debris We've set up some impound areas
+
+[34:39] spk_0: Uh that we're gonna have right here on the Cape as far as the central and also on the Air Force side as far as the central location of all the debris is concerned Uh we're doing some impounding at both the the Johnson Space Center as well as here at the Kennedy Space Center and uh wherever the data
+
+[34:56] spk_0: I recorded we're gonna set up impound areas at that point and then what we'll try to do with my teams is to coordinate those uh through this board arrangement that I've got until the formal review board for this particular flight tragedy is established
+
+[35:13] spk_0: With Gannett
+
+[35:14] spk_8: News Service uh one for Dick Smith perhaps and one for Jess Moore
+
+[35:19] spk_8: Mr Smith can you help us with a pedigree of the SRBs that were used here Were they the numbers of previous flights they may have been used as a stack and also the pedigrees of the mains on this flight And for Jess more in the interim board you've named do you expect to name people from industry as full members of the board for instance from Rockwell or from Martin Marietta
+
+[35:47] spk_8: And do you also expect to name outside engineering consultants or flight consultants on design to go into those kinds of questions
+
+[35:56] spk_0: Uh I do not
+
+[35:59] spk_5: know offhand had the SRB segments been flown before My guess is and I shouldn't guess they probably have uh we can get that information in front the press The uh incidentally the SRBs were destroyed by rain safety actions some 20-30 seconds after the event
+
+[36:18] spk_5: Took place
+
+[36:20] spk_0: Mike pardon me Mike as far as my board is concerned mine is basically a NASA group as I said yesterday it's an interim board to make sure things are put in place and it will basically consist of the people that I talked about including an outside consultant to the administrator
+
+[36:41] spk_0: Uh as well as a member of the uh uh astronaut flight crew team Uh Doctor Graham and I will turn this over to him we will be establishing a formal review board on this and I'll let him comment on how he plans to do that
+
+[36:55] spk_4: It's the intention of NASA
+
+[36:58] spk_4: To work with the rest of the administration and the rest of the engineering community and the scientific community and the flight community in our country
+
+[37:10] spk_4: To draw on the best the most qualified experts
+
+[37:15] spk_4: That we have in America We will we will bring them together in a variety of ways which will provide their expertise to this issue to the analysis of this issue and to its final resolution and correction Uh in the 24 hours since the accident has occurred we've not yet fully established that structure
+
+[37:41] spk_4: Uh however we know that there's very high level interest in this subject and a great deal of care will be taken to move systematically to draw on that body of talent and put it to this problem
+
+[37:55] spk_6: Greigal Aviation Week
+
+[37:57] spk_9: Two questions First on the solid rocket motors and other debris that may be on the ocean floor Are you making plans to bring an ocean floor observing equipment to try and characterize that debris And secondly for Jess could you take a moment looking downstream on the space program recovery from this if the program decides to build a new orbiter in what shape is your spare situation and about how long would it take following a go ahead
+
+[38:26] spk_0: Well Craig let me answer this try to answer the latter part here I think as uh Doctor Graham said it's really too early to to to lay out plans for the long term
+
+[38:37] spk_0: What we want to do at this point in time is to keep our options open and not take any actions that would preclude us from moving in a number of different ways as we try to assess the impact of the overall program But the bottom line I'd like to say is we intend to go forward with the space program Uh we also intend to clearly understand what happened yesterday with with Challenger's flight
+
+[39:02] spk_0: But we intend to move forward with the space program so I can't really lay out a long term road map today It's something that we're going to be all be paying a lot of attention to in the very near future but just 24 hours after this great tragedy occurred it's a little bit too early for us to lay out road maps at this point in time
+
+[39:23] spk_0: You want to comment can you comment on on the solid rocket uh assessment in terms of we're able to find and uh from from your your aspects
+
+[39:33] spk_2: Well in terms of what may be on the floor of the ocean I'm not involved with planning for that yet We have 8 ships Coast Guard and navy out today and we have 9 aircraft Coast Guard Navy and Air Force searching for debris on the water We want to get what's floating today before it sinks and that's really where we're at now
+
+[39:55] spk_0: Craig let me just add that
+
+[39:56] spk_0: We will get a report back from from our recovery team here this afternoon and we will talk about what those plans are As I said I have not formally interacted with those teams on a planning basis to exactly lay out all the specific actions in all the areas and I suspect by the end of the day today we will have those actions very very clearly identified across all of the teams that I announced
+
+[40:20] spk_6: Yeah here in the 2nd row Bob Cook Atlantic Constitution how deep is the water where the debris fell and what's the likelihood of being able to pull anything up for a good inspection
+
+[40:30] spk_0: I don't know I just don't know I I will tell you I heard a report that the water is about 30 to 40 ft deep in that area
+
+[40:37] spk_6: One more roll back right here
+
+[40:40] spk_10: Richard Sati's Boston Globe If there had been any puncture or rupture of the external tank by a piece of a broken piece of motor or anything else like that would the telemetry have been able to pick up the drop in pressure or any other quick change there before the fire started or would that have happened so quickly that you think you wouldn't see it in the normal engineering data
+
+[41:02] spk_0: Well let me caution you again that uh you know you're speculating on a particular condition that we're not sure that happened and I'm not prepared to speculate on that and I think we'll have to go back again and comb the telemetry in great detail before we can understand exactly what the detailed telemetry was telling us during that period of time
+
+[41:23] spk_10: segments that are maybe a second long or something and they have to have to go through and look at it in smaller intervals Is that something that's going on now
+
+[41:32] spk_0: Plans are being put in place to look at all of this as I said in very very fine detail and uh as far as it's specifically going on right now I can't comment on that I do know that the planning is being laid in place right now to go through and look at this with as great a detail as we possibly can based on the the frequency of data acquisition and also the playback rates that we have
+
+[41:54] spk_5: Jesse let me add something there I think all of you should keep in mind that when you have an accident like this we impound all the data
+
+[42:02] spk_5: And work only from copies so we do not take any risk of losing any piece of information that slows down the routine process and that's a precaution we must take and have taken and we'll continue to take until we get to that We just can't afford the risk of losing anything That's true Stephen
+
+[42:18] spk_7: Gilvain Channel 13 Houston for just one piece of data that we've all seen over and over again is the slow motion and stop action replays of the accident as it happened
+
+[42:30] spk_7: To my mind there's quite a story to be told by what you can see there including an apparent vision of the crew compartment in one frame I was wondering if you could tell us what story you see in those tapes
+
+[42:47] spk_0: No as I said it's you know I can't speculate on those tapes at this point in time
+
+[42:52] spk_0: You're asking me to try to lay out causes and I'm not prepared to do that right now It's just clearly too early for us to speculate We're again I want to emphasize trying to put in place all the data so that the experts in this program that have the intelligence to go through and analyze those tapes
+
+[43:11] spk_0: And other pieces of data can lay those conclusions out or findings out on the table so we can we can make an accurate judgment as to what happened We clearly don't want to zero in on something prematurely and say that's it and we really don't get the prime cause We are after the prime cause and that's what we're what the objective of our teams are and I'm sure that's what the objectives of this review board will be
+
+[43:34] spk_1: OK thank you
+
+[43:35] spk_1: JSC We're moving now to the Marshall Space Flight Center for Questions
+
+[43:40] spk_1: This is uh Marshall State Flight Center You
+
+[43:43] spk_0: tell me uh
+
+[43:44] spk_2: what the history of the main engines are how many times have they flown and second to Mr Graham directly
+
+[43:50] spk_2: Does this cause you to reevaluate your philosophy on the civilian observer spaceflight program
+
+[43:57] spk_0: I don't have at the top of my fingertips the number of flights these engines They were certainly well within the within the expected flight capability and we were not pushing any limits as far as these engines That is one of the things we thoroughly review at each of our readiness reviews not only at Marshall but also at at my review So I can't give you the specific numbers on them but that question has been asked and that question has been answered and the bottom line is they're well within the operating capability that we expect of the main engines
+
+[44:28] spk_4: Concerning civilian observers of the space program we don't have any civilian observer astronauts in the space program We have civilian participant astronaut astronauts in the space program Krista McAuliffe was very much a part of the crew She was part of the experimental and scientific program of the crew and she was part of the educational purpose of the space flight and the exploration that we were conducting
+
+[44:56] spk_4: Uh space is a realm that's very important to us in the future for scientific for industrial and for other reasons And to make space fully effective and significant to the lives of all of us we're going to have to go beyond the era where space is limited only to people with test pilot training and test pilot skills
+
+[45:21] spk_4: It's very important in fact in the long run and the long picture of exploration in the history of the US that more than just a very limited group of people
+
+[45:33] spk_4: Be able to go to space that it become more accessible to each and every one of us as time goes on and that program of participation from a wide variety of people from a wide range of skills and discipline and interests will certainly be continued
+
+[45:52] spk_4: Uh
+
+[45:52] spk_1: Todd Terry WAFF
+
+[45:54] spk_4: television here in Huntsville
+
+[45:56] spk_1: Uh
+
+[45:56] spk_4: you mentioned the debris teams earlier and this question is for Mr Moore At this point and uh realistically
+
+[46:02] spk_1: speaking
+
+[46:03] spk_4: How hopeful are you that enough will be recovered to yield answers that and at this point is it possible to tell how long the recovery efforts will be allowed to continue before that is forced
+
+[46:13] spk_4: to stop
+
+[46:14] spk_0: Well since I you know I can't really again give you good hard concrete answers on that I have not had a report back from the formal report back from the debris team we've set up We're hopeful we're going to get as much
+
+[46:27] spk_0: I it's out there we plan to put a very comprehensive effort on it but as far as quantifying that I'm not in a position to do that until I've heard the plans formally laid out by our debris team and I do know that we will put a lot of emphasis on that recovery and trying to learn as much as we can from the debris we are able to recover
+
+[46:48] spk_1: Jay Lowndes
+
+[46:49] spk_11: from Aviation Week
+
+[46:51] spk_11: What kind of information do you expect to get from this next status report this afternoon from your teams and will you be sharing that with us and when
+
+[46:59] spk_0: The only thing that I plan to do this afternoon is is to just get planning information what plans are in place and and I want to make sure in this complete sphere of activities that we aren't leaving holes that we should be plugging up to make sure that we are looking across the board to every relevant piece of data
+
+[47:19] spk_0: That we can put our hands on and that's the main purpose this afternoon is to go through that from a fairness point of view and to make sure proper procedures are being put in place as far as handling the data and transferring the data and you heard Dick Smith earlier uh we are requiring that the original data be preserved and uh we will be operating from copied data as far as the analysis is concerned
+
+[47:43] spk_2: Martin Burkey with the Huntsville Times again uh
+
+[47:46] spk_2: You must have some idea of the normous uh task in front of you as far as assembling all the data again Uh I'm not asking for a firm launch date I'm talking about in how many months do you think you might be ready
+
+[47:57] spk_2: anytime this year
+
+[48:00] spk_4: The future schedule of the space program and our shuttle activities
+
+[48:07] spk_4: Can't be determined at this time We certainly intend to go forward with the program There will be future launches There will be future activities and that those will occur just as soon as we feel that we understand this problem that we have made sure this problem will never occur again and that we've looked across a wide range of activities to make sure that no such problem could occur in any other sphere in the program
+
+[48:35] spk_4: The timing under which we can do all that depends to a great extent on what we find out and uh that's still to be determined
+
+[48:46] spk_1: Uh thank you Marshall We're moving now to uh NASA headquarters
+
+[48:51] spk_11: Uh yeah this is Kyle Herring I'm with Aerospace Daily Um follow up to that question and then another question um do you see it possible when they find the cause of holding their flight rate with a with uh 3 orbiters And for Jeff's second question um who are the people that make the decision to go ahead with the launch and um
+
+[49:14] spk_11: Do you have can you tell us who those people were and what their decisions were who said go and who said no go on launch yesterday
+
+[49:23] spk_0: Uh let me answer your first question We can't I'm not I'm not prepared to talk about the the capability of our fleet at this point in time as I said we do not have laid out any long term options as far as uh the long term aspect of the orbiter fleet is concerned That that's something that we will have to be looking at and evaluating as a function of time
+
+[49:44] spk_0: The process is a very complex one as far as the decision to launch the final decision It goes all the way up to the administrative level of NASA and it goes down to the project engineers that are responsible for the individual pieces of hardware and there's a pyramid effect that builds all the way up to the top So we all have an opportunity to sit down and look at it and make sure we're comfortable
+
+[50:09] spk_3: Mitch Waldrop Science magazine uh looking further downstream when you do start the shuttle launches again whenever that may be you will have 3 orbiters You will also have time critical science missions You will have Department of Defense payloads You'll have commercial payloads to which you have commitments Who gets priority Does NASA have any contingency plans for how to meet these commitments with only 3 orbiters and looking even further downstream if it is decided to build the
+
+[50:39] spk_3: Turn the structural spares into a 4th orbiter How long will that take and how much will
+
+[50:43] spk_3: it cost
+
+[50:45] spk_4: NASA has contingency plans for a wide variety of situations uh including this possibility and and many many others because the shuttle is such a valuable and important national asset
+
+[51:00] spk_4: That we have to consider a wide range of situations not just terrible accidents like the one we've experienced but even down to minor minor problems and delays So we continually update a wide range of contingency plans However
+
+[51:17] spk_4: Those contingency plans and their outcomes depend on specifics specifics such as when we would launch the next shuttle what we have to do to correct the difficulty we've encountered what we have to do to make sure that no such problem could arise anywhere else in the fleet None of those have been determined yet and therefore I can't can't tell you what the implications of the launch rate would be at this time
+
+[51:43] spk_4: Uh as far as uh as the overall uh situation is concerned uh NASA is prepared to deal with it as we go forward Uh there are structural spares for shuttles that have been produced
+
+[52:00] spk_4: And have been placed in protective storage
+
+[52:05] spk_4: They are far from a complete shuttle Uh however uh there is uh a capability there should it be determined
+
+[52:15] spk_4: To draw upon that to go forward with other elements of the shuttle program Let me let me state very clearly however that no determination in that regard has been made at this point nor will it be possible to make a determination concerning structural spares or an additional orbiter or other matters of that type until we understand the situation we have before us now and that's where we're focusing our attention and our energies
+
+[52:46] spk_0: Kenter WDVM in Washington Will
+
+[52:49] spk_1: enough debris be
+
+[52:50] spk_0: recovered to pinpoint the cause
+
+[52:52] spk_1: or
+
+[52:52] spk_0: will the
+
+[52:53] spk_1: investigation
+
+[52:53] spk_0: center on information
+
+[52:54] spk_1: sent back from
+
+[52:55] spk_0: Challenger before the explosion
+
+[52:57] spk_0: I think it's going to focus on all those areas and I think as I said we're hopeful we're going to recover as much debris as we possibly can and that's going to be enough to help us in the overall assessment of what the problems are but we aren't solely depending upon the debris We're going to look at all the other areas that I just cited and again it's too early to draw any conclusions to that We're gonna
+
+[53:21] spk_0: Apply equal priority to all of our data analysis plans across the board and to and to place emphasis on our teams that we want thorough investigations in each of the areas that we've set up
+
+[53:32] spk_0: Brian Williams with WTTG television in Washington will this incident push back any plans for space station
+
+[53:38] spk_1: construction uh the next project further
+
+[53:40] spk_0: down the road
+
+[53:42] spk_4: That's a very complex question The space station
+
+[53:47] spk_4: has been mandated by the president to give us the capability to establish a permanent man presence in space
+
+[53:56] spk_4: By the end of 1994 those are our present instructions and we're working very hard to achieve that
+
+[54:03] spk_4: At the same time this terrible accident that's occurred was completely unexpected and of course completely unanticipated and therefore we'll have to go back and review the entire range of NASA plans and activities before we can reach a conclusion on the impact of this on any one particular program
+
+[54:23] spk_4: OK thank you Uh
+
+[54:24] spk_1: we're now moving to the Jet Propulsion Laboratory at Pasadena
+
+[54:28] spk_0: Uh gentlemen this is Roy Neal NBC News You've described data
+
+[54:32] spk_1: collection at a number
+
+[54:33] spk_0: of locations Will there be a clearing house for this information both with your investigation Jess and with yours Dr Graham And if so where will it be And if not Jess what are your plans for the next couple of weeks personally Let me tell you my uh as far as my board is concerned the interim board is I plan to operate that board from a headquarters standpoint here at the Kennedy Space Center
+
+[54:56] spk_0: And this will be the coordinating point for the activities in my board Uh as far as the board that Doctor Graham uh uh talked about earlier I think that's a a TBD
+
+[55:07] spk_0: And my personal plans are to spend as much time as I possibly can and trying to understand the situation and supporting the agency in terms of pinning down the cause of this great tragic accident yesterday and I plan to spend a fair amount of time here at the Kennedy Space Center as well as some time at the Johnson Space Center in the very near term
+
+[55:28] spk_0: It would be fair to say then that the Kennedy Space Center will be the hardcore the central point the focal point of the
+
+[55:35] spk_1: investigation
+
+[55:37] spk_4: Uh hold on let me just elaborate that 0.1 degree Uh we talk about uh further actions in terms of understanding reviewing and investigating this event We will undoubtedly as time goes on at a national level establish further further means to explore and investigate this
+
+[56:01] spk_4: I doubt that it will be focused entirely on one particular group We're going to try to draw on a broad range of talent on consultants on advisors on experts on people from the academic the industrial the flight world We'll pull that all together in a number of structures and provide the best national capability to study this to analyze it to find out how to correct it and to ensure that it will never happen again
+
+[56:28] spk_4: Well Bill are you going to pull
+
+[56:29] spk_0: that together at headquarters in Washington Where would you pull it all together
+
+[56:33] spk_4: Uh we'll pull it together uh in Washington It will be pulled together at the at the national level uh throughout the administration NASA will play a major role in that process
+
+[56:46] spk_4: Andrew Holtz of
+
+[56:47] spk_1: CNN
+
+[56:48] spk_11: Regardless of the final results of this investigation any determination of cause of this particular accident it underscores the risks inherent in manned flight and highlights any doubts of skeptics about the shuttle's ability to satisfy the national launch needs
+
+[57:05] spk_11: Is this the time for NASA to consider expanding unmanned booster
+
+[57:10] spk_11: fleets
+
+[57:11] spk_4: NASA has always given great weight to both the manned and the unmanned part of the space program Let me let me give you an example of that
+
+[57:21] spk_4: When NASA people were involved in the repair of the Solar Max satellite recently an on orbit repair of a scientific satellite that had malfunctioned once it had gotten into space
+
+[57:34] spk_4: We had a chain that began with the ground crew at the Johnson Space Center in Houston went up to the orbiter which you might describe as at least a partially robotic system then to a human being who was controlling the the arm the remote manipulating arm in the shuttle which is certainly a robotic system a robotic arm At the end of that arm was another human being uh uh George Nelson the astronaut being one of them
+
+[58:02] spk_4: And he was operating tools and repairing a satellite which was an unmanned scientific satellite What you find there is is not a question of a manned or an unmanned system
+
+[58:15] spk_4: But a chain of capabilities which involve both men women and machines operating together
+
+[58:24] spk_4: Not in competition and not in opposition and we'll continue our space program based on people and robots people and machines working together each to do the best that it can in the most appropriate area that it can in space
+
+[58:38] spk_11: Instead of
+
+[58:39] spk_11: having all our eggs in the shuttle's basket should there be unmanned boosters to do the run of the mill launches of satellites or probes and then reserve manned space flight more for things where men are essential to that particular mission
+
+[58:56] spk_4: Well the space shuttle has proven itself to be a very effective and reliable system over the entire scope of the program If you go back to the start of the manned program
+
+[59:06] spk_4: We've had 55 successful launches in sequence now with no loss of life This is a remarkable effort a remarkable record of tribute to the people of NASA to be able to accomplish that
+
+[59:18] spk_4: The space shuttle is our principal space transportation system It will remain our principal space transportation system for the foreseeable future
+
+[59:27] spk_4: Joel Davis freelance Ulysses and Galileo due for launch in May are on a very narrow launch window If they are not launched in May they must be postponed until June of '87 Has a formal decision been made yet to officially postpone Ulysses and Galileo launches until June of next year
+
+[59:45] spk_0: The answer to that question is no
+
+[59:48] spk_0: Jim Schefter Popular Science
+
+[59:50] spk_1: magazine Uh question on the SRB's uh who gave the order to destroy them and uh what possible rationale could they have had for that decision at that point in time
+
+[60:02] spk_5: The Air Force has a responsibility to maintain a safety for the range There was indications that the uh trajectory of one of the solids was heading towards a populated area and they took action to destroy it and that was appropriate
+
+[60:20] spk_4: OK thank you
+
+[60:21] spk_1: JPL Uh coming back here to the Kennedy Space Center we have time for just a few more questions We'll start in the back of the room here George Snyder from King
+
+[60:30] spk_4: Broadcasting
+
+[60:31] spk_1: Where are the families
+
+[60:33] spk_4: of the astronauts and more particularly
+
+[60:35] spk_0: where is backup astronaut Barbara
+
+[60:37] spk_4: Morgan
+
+[60:39] spk_4: They have returned to their homes in Houston
+
+[60:42] spk_4: this investigation
+
+[60:45] spk_4: Well you have to understand that this shuttle was traveling at uh on the order of 1800 ft per second something over uh uh Mach 2 twice the speed of sound It was at 47,000 ft It was essentially at the boundaries of the stratosphere
+
+[61:03] spk_4: A great number of phenomena occur there which involve physical effects that we don't see in everyday life They include things optical phenomena visible phenomena on the shuttle shock waves various other patterns and it's it's natural to expect some of those In fact one of our challenges
+
+[61:21] spk_4: to compare our photographic and other data from a normal flight with this one to see what the differences are because I can assure you you see you see phenomena on the outside of the shuttle on every flight and they're perfectly normal and expected back here
+
+[61:40] spk_0: with
+
+[61:40] spk_5: WFAA
+
+[61:42] spk_1: TV in Dallas as the top administrators of NASA did any one of you speak with the McAuliffe family And if so
+
+[61:48] spk_4: what did you say to them
+
+[61:50] spk_4: Uh at this point uh uh we have spoken uh with the family in particular Phil Culbertson who is my general manager and who was on the site here at the time of the accident has spoken to them
+
+[62:02] spk_4: Uh and I believe uh that uh at some point other members of the administration will speak with them as well We've expressed our our grief our sorrow and our sympathy
+
+[62:15] spk_4: To the members of the family and our tragedy of the loss of our our close friends and colleagues in the crew
+
+[62:23] spk_1: Uh over
+
+[62:24] spk_1: here Phil Sandon with AP Uh sir can you give us an idea when we would be able to retrieve those remote cameras that are around the pad now and also when we possibly would be able to uh photograph the debris from the uh
+
+[62:37] spk_1: uh wreckage
+
+[62:38] spk_4: We want you to be able to obtain those cameras as soon as possible Our major consideration at this point of course is protecting the film and any data that may be in those cameras and making sure that it's archived and recorded and kept for for the investigation However we we look forward to providing copies to the investigation team and to the owners of the camera as soon as possible I can't give you a specific time on that
+
+[63:08] spk_4: But our major concern at this point is preserving all the data
+
+[63:12] spk_1: Uh we only have time for one more question here Squire I believe it was Mr Moore made reference to souvenir hunters Can you be specific about what kind of I
+
+[63:29] spk_5: I think I had
+
+[63:30] spk_5: a report this morning that there were a lot of people on the beach looking for debris
+
+[63:34] spk_5: And uh that's why I asked the press corps to
+
+[63:37] spk_5: help us
+
+[63:40] spk_4: Yes
+
+[63:42] spk_5: the press corps to help us to encourage the people to turn in I would like to point out that many people uh have found a bris have turned it in
+
+[63:51] spk_5: Uh we had one gentleman that called in this morning from somewhere in mid-state Uh he's playing with uh some unique photography technique He thinks he got some good pictures and he's providing us that film So the public in general is helping and we just need all the pieces right
+
+[64:07] spk_1: Uh wait
+
+[64:09] spk_2: Is the public not being restricted
+
+[64:11] spk_5: is along the beach
+
+[64:14] spk_1: Yeah OK Thank you very much Uh we appreciate your coming
+
+[64:19] spk_0: Mhm
+
+[64:31] spk_6: Good afternoon ladies and gentlemen In response to your many requests we've asked Jay Green the launch flight director and Steve Nesbitt our launch commentator
+
+[64:41] spk_6: Uh from Mission Control to come over and talk to you about yesterday's events Before we begin that I'd like to point out that we plan to operate this briefing by the same sort of ground rules that we normally follow in our change of shift briefings during the mission That is we don't plan to deal with the broad policy issues We'll ask you to save those kinds of questions for uh uh Doctor Graham or Jess Moore
+
+[65:01] spk_6: And we don't plan to get involved in a lot of speculation as to what uh what the data may or may not mean at this point And with that Jay I'd like to turn it over to you to uh summarize the activity
+
+[65:10] spk_12: OK let's start pre-launch uh
+
+[65:13] spk_12: The pre-launch countdown as far as uh the MCC was concerned was perfectly nominal
+
+[65:20] spk_12: We had no malfunctions of any significance that we were dealing with There were no requirements waived either in a systems area or in the weather area It was probably one of the better weather days uh we've ever in flight first a couple of words about uh the way we operate We operate by intervening as seldom as possible
+
+[65:40] spk_12: With the crew uh we intervened for probably 3 reasons to assure calm relay system status back and forth as required and to pass any data such as abort boundaries that you get later in flight that are derived on the ground and not available on board Outside of those calls any calls we make we were negative reporting
+
+[66:02] spk_12: We don't say anything unless there's something to say Plane calls that we have during first stage flight
+
+[66:09] spk_12: Our confirmation that roll program has begun and is looking good which is as much a commche as any other check
+
+[66:16] spk_12: A call when the throttle sequence is complete
+
+[66:21] spk_12: And that call which I know has been misquoted is go at throttle up
+
+[66:27] spk_12: And indicates that all systems on the vehicle including the engines are looking good to us in the MCC after the event is completed
+
+[66:36] spk_12: It is not a go for the commander to throttle up The event was complete and was completed satisfactorily Later in first stage flight there are two other calls One is a PC 50 which indicates that the SRBs are nearing the end of their scheduled burn and is used for some ground monitoring on second stage
+
+[66:56] spk_12: And the next call is a report from the crew that the solid rocket boosters have finished their separation
+
+[67:03] spk_12: The two calls we got through yesterday were uh go and throttle up
+
+[67:08] spk_12: Uh all the calls were nominal both going up and coming down
+
+[67:13] spk_12: All the data we looked at at real time and we played it back a couple of times after looked nominal and every measurement that came into Building 30 was in the range of normality as far as there were no anomalous reports
+
+[67:26] spk_12: Uh the way we got the problem in the control center we had a sharp cutoff of all data
+
+[67:33] spk_12: We had the video
+
+[67:34] spk_12: Which he all saw We had radar tracking which showed multiple pieces and the probability of an explosion uh
+
+[67:43] spk_12: The only thing we were able to do after that point was to coordinate and and actually coordinate was to get ourselves visibility with the search and rescue forces uh
+
+[67:55] spk_12: Which we're operating out of the Florida area I might point out the search and rescue forces are in a readiness state during all of our launches They usually operate in the background and uh we don't have to bring them into our primary net They respond through a bunch of relays so we brought them into the primary net so that we can
+
+[68:16] spk_12: We can be in a more direct sense of contact just in case anything Miami Coast Guard took operational lead and I as far as I know they continued to function in that regard I was frankly amazed at how much stuff they got out there and how quick in the control center what did we do We put into effect something we call a contingency plan
+
+[68:37] spk_12: And we do things like we secured a physical plant with security guards We stopped the phones from ringing off the wall
+
+[68:44] spk_12: Uh we put in place with all operators getting their data into one central location
+
+[68:49] spk_12: And storing that data and any computer data on on tape and getting all that tape and written data
+
+[68:58] spk_12: Archived we have it secured in a room somewhere in building 30 We debriefed each operator to see if each er any operator had any indication of a malfunction anywhere The response to that was negative We took written statements to that effect from all our operators We stored that and the data all on the same location I know the question's gonna come up the mood in the control center
+
+[69:21] spk_0: It was extremely professional under the circumstances much said
+
+[69:26] spk_0: Everyone watched hoping that something better would come out of it
+
+[69:31] spk_0: Uh after a while we resumed gathering data
+
+[69:35] spk_0: Put it all up and called it a day
+
+[69:39] spk_1: Alright we'll begin with
+
+[69:40] spk_1: questions in Houston Uh please wait for the mic state your name and affiliation if I don't uh uh we'll begin uh here in the front row with uh Craig Cabot
+
+[69:49] spk_1: Greg
+
+[69:50] spk_0: Caval Aviation Week Jay 2 questions
+
+[69:53] spk_0: At what points during the ascent yesterday did you pull the room
+
+[69:58] spk_0: And secondly
+
+[70:01] spk_0: Describe if you will that the granularity or the detail in the data that you have presented to you in the Mission Control Center versus the extra detail you expect could be present in
+
+[70:12] spk_0: The tapes that will now be looked at
+
+[70:16] spk_0: I never did poll the room We usually don't don't pull the room till somewhere around 3 minutes into the flight
+
+[70:23] spk_0: Uh and that's more ritualistic than than anything we have a
+
+[70:29] spk_0: We have a steady loop with all the guys in the room and if anything happens they come to us as as quick as possible uh there was nothing to report
+
+[70:38] spk_0: The data we looked at is both digital and analog The sample rates vary from from very high sample rates that fraction of a second update rates up to 1 2nd data and 2 2nd data
+
+[70:51] spk_0: Uh
+
+[70:52] spk_0: Again none of that data showed anything wrong I am not familiar with all the data rates that are available to the system and I'm sure somebody when all that data starts getting pulled together
+
+[71:03] spk_0: I'll give you a breakdown on it
+
+[71:05] spk_1: Uh Frank Seltzer Cable News Network
+
+[71:09] spk_2: Steve for you we heard how Jay described Mission Control How was it for you Could you just go over what your thoughts were and what you
+
+[71:14] spk_2: saw
+
+[71:15] spk_3: Well I think it was about the same sort of feeling that uh
+
+[71:19] spk_3: It was quiet as it always is Everyone is always concentrating um on what's going on in their data and and uh their their responsibilities Uh as Jay said and I would have said it had he had he not uh the flight controllers have always been very professional in every circumstance that I've seen and uh
+
+[71:38] spk_3: Uh it was a
+
+[71:41] spk_3: Uh certainly everyone was obviously uh shocked but then as people in those circumstances do with those responsibilities they focus in on what they have to do and uh
+
+[71:50] spk_3: That's kind of the way you might expect it to go and that's uh that's the way it was It was uh of course very quiet and
+
+[71:57] spk_3: Again uh I think people are hoping for something better and uh
+
+[72:02] spk_3: Um just watching it and seeing uh what else might be done
+
+[72:07] spk_1: Bill Hines
+
+[72:08] spk_0: Hines of Chicago Sun Times for Jay Green If there had somehow or another been an extraneous signal either inadvertent or maliciously contrived that might have led to this event would that have shown up on your telemetry in any way And was there any suspicious signal anywhere along the line The only thing I'll say is that we saw nothing anomalous
+
+[72:33] spk_1: But
+
+[72:34] spk_1: that's half my question
+
+[72:35] spk_0: The
+
+[72:36] spk_1: first half of
+
+[72:36] spk_0: the
+
+[72:36] spk_1: question was
+
+[72:37] spk_0: if there had been one would it have shown up I don't know what do you mean by an anomalous signal Well for example uh
+
+[72:45] spk_0: Let's let's just say that some some sick malicious person tried to blow this thing up by sending a signal up to the up to the spacecraft I know it sounds a we have no evidence that anything abnormal took place with the
+
+[73:00] spk_0: Carlos Myers
+
+[73:01] spk_1: Houston Chronicle
+
+[73:02] spk_4: I've got uh just want to get Jay to check to amplify on a couple of things in his original statement Uh you said that uh you brought uh you're talking referring to the Coast Guard you brought them into the primary net uh by properly assuming you mean radio net or communications network
+
+[73:24] spk_4: And then another place you said that all the calls were nominal going up and coming down uh again was it proper to interpret that as calls going up to the spacecraft and coming down from the spacecraft
+
+[73:41] spk_0: Carlos that's what I meant and net
+
+[73:46] spk_0: The coordination net between the search and rescue forces and what we call our LSO landing support officers is an ongoing net We don't usually listen to it in the front room uh so we just brought that net into the front room so we can monitor their conversations and just get a firsthand report instead of making the guy working in the coordination have to report to me because I wasn't listening to it directly
+
+[74:08] spk_4: Uh Steve I have one for you After I like everyone else went back and reviewed this last night
+
+[74:15] spk_4: And it appears that your calls your commentary was running a little bit behind the events that I think is normal uh and you continued the commentary even after the explosion began What was your situation Are you watching this on on uh you're looking at data or are you looking at a at a
+
+[74:35] spk_4: screen
+
+[74:36] spk_3: Well we're looking at data and directly in front of our position uh there are two black and white monitors on which we have uh displays
+
+[74:44] spk_3: Which uh read out things like the uh percent of engines uh they're running at 104% or whatever the percent is Uh another one that I usually read off the altitude and the velocity and uh uh the downrange distance And uh usually the figure that I that is on the top of the screen that I'm normally using is inertial velocity and it's probably why it doesn't match with the number that we gave as the uh uh velocity of the vehicle at the time of the event
+
+[75:11] spk_3: Uh there is a a monitor off to the left but um I would liken that I guess to checking your rearview mirror while you're driving You would normally concentrate on what is in front of you and periodically you look to the side or to your rearview mirror as it would be uh to verify what's going on there And uh I think that uh um I had gotten into a uh flow of calling the uh ascent downrange numbers that sort of thing
+
+[75:39] spk_3: Uh and it was probably 5 or so seconds before I glanced over at the screen and saw you know what was remaining of the explosion We'll take
+
+[75:49] spk_1: a couple more questions here and then go to Washington Paul Reiser Associated Press Which
+
+[75:54] spk_0: crewman responded to the throttle up call Dick Scobie
+
+[75:58] spk_1: Scobie
+
+[76:00] spk_1: OK back here Tom O'Toole we'll get a mic down this left side Question
+
+[76:05] spk_0: for Jay Green We were told this morning that the Air Force destroyed the two SRVs because one was headed for a populated area Do they have to destroy both when that happens Yes And the second question is uh does a hydrogen explosion a liquid hydrogen explosion have a different heat
+
+[76:24] spk_0: And visual signature from the solid fuel explosion Could you tell the difference I don't you don't
+
+[76:31] spk_1: OK we'll go now to NASA headquarters in Washington for questions there
+
+[76:37] spk_2: Kenterrell WDVM in Washington You people depend on technology for example the 5 onboard computers as your eyes and ears There have been some charges that those have been oversensitive before Is there a feeling of frustration and disappointed that you've got absolutely no warning apparently this time
+
+[76:58] spk_0: Yeah let me try and answer that uh
+
+[77:02] spk_0: We train awful hard for these flights and we train under every scenario that we could possibly imagine
+
+[77:13] spk_0: There was nothing anybody could have done for this one It just stopped
+
+[77:17] spk_0: Uh I don't know how that reflects on our computers or anything else on board
+
+[77:26] spk_0: Mark Folaway with Metalworking News To what extent does the program now concentrate or center on on checking and reviewing the main tank and
+
+[77:35] spk_1: its
+
+[77:36] spk_0: manufacturer Martin Marietta's Micha division
+
+[77:40] spk_0: I don't want to
+
+[77:41] spk_1: That's not an appropriate question for this briefing I would ask you to save that one for one of the policy level meetings that we'll have
+
+[77:49] spk_1: OK I understand we have no further questions from headquarters We'll go to the Marshall Space Flight Center
+
+[77:57] spk_5: Yeah
+
+[78:07] spk_6: Action around the nation a lot a lot of people are saying that um
+
+[78:13] spk_6: Uh they have become so sure that the space shuttle would always fly and there would be no problems uh whatsoever
+
+[78:19] spk_6: Had that feeling uh also been prevailing within uh NASA uh not just at the Cape but elsewhere
+
+[78:29] spk_0: I've never stopped watching the launch until it was over
+
+[78:34] spk_0: Uh if you get complacent about the launch phase you don't understand what's going on It's a very hazardous phase of flight
+
+[78:44] spk_0: We understand it and the guys at the Cape understand it and the crews understand it
+
+[78:50] spk_6: You feel that though that that's pretty much the way the nation has begun to look at the space program as a whole you know so much confidence that it's always going to fly There's never going to be a problem
+
+[79:01] spk_0: Well I can't speak for the nation Uh I can tell you the way we look at it accent is a
+
+[79:07] spk_0: It is a phase you pay attention to When you have that much power you got to respect it There are a lot of systems that have to work right and thank God they've worked right up until this point in time
+
+[79:18] spk_7: Lows from Aviation Week This may not be the right place and time to ask this but uh of the data that's being uh uh analyzed and archived is there included in that um records of access to the area over the last during the orbiter and uh launch pad processing time as far as unauthorized access um like for instance uh for instance a possibility of sabotage that sort of thing
+
+[79:44] spk_1: I think I think that's a more appropriate question for the cap or for our policy people And at this point uh we would like to go to the Kennedy Space Center for questions from there
+
+[79:53] spk_0: Please wait for the mic and identify
+
+[79:55] spk_5: your name and agency
+
+[79:56] spk_5: Yeah
+
+[79:58] spk_3: same
+
+[80:00] spk_3: This James Fisher with the Orlando Sentinel You said earlier that the weather was good It was acceptable but it was pretty cold here
+
+[80:09] spk_3: When does the cold play a factor in launching the shuttle and what specific concerns do you have about cold I understand there's some concern about ice forming on the tank that could possibly nick the tiles What are the other concerns and what specifically do you look for to make sure that will not be a problem in the cold
+
+[80:29] spk_0: I think that's a question that can probably be best answered from the cape when I was talking about whether
+
+[80:35] spk_0: I was talking about things that affect our part of the ascent go no go calls and those things involve the acceptability of the RTLS site and the town site uh just in case those were abort modes that that we would have to rely on
+
+[80:51] spk_0: Uh the weather call is made by by more than one group of people We make part of the call the RTLS and Natal call and as long as those sites are acceptable the rest of the decision is made by program management in KSC and uh that's the realm that you're entering into right now
+
+[81:09] spk_0: This is Sue Butler time and space was for Jay and Steve I suppose Jesse Moore told some of us yesterday merely after the former press conference that he lost communications uh voice communication with the spacecraft
+
+[81:25] spk_0: 1 minute and 10 seconds into the flight The transcript that Steve made said picked up 1 minute 15 seconds velocity etc etc Can we get an accounting for what you believe happened
+
+[81:42] spk_0: Yeah let me try and answer that uh
+
+[81:47] spk_0: We had during real time the last valid data we saw was time tagged 1 minute and 11 seconds
+
+[81:56] spk_0: During the first playback we took some of the validity checks that we normally put on the data off the data
+
+[82:05] spk_0: We got another snapshot of usable stuff time tag 1 minute and 13 seconds
+
+[82:11] spk_0: Uh the radar processor which which I would assume was part of the part of the data Steve was looking at uses a filtering technique that takes a whole bunch of old data and processes it in line with some recent data and uh as long as you got a lot of old data and just a very tiny bit of new data it just continues pressing on time tagging and giving an evaluation of where you are uh
+
+[82:39] spk_0: If you just looked at it by itself it would look reasonable to you and
+
+[82:45] spk_0: It would take a while to realize that something significant had happened
+
+[82:49] spk_3: And again uh from my perspective uh you know it's a very fast moving sort of a thing and you're trying to uh give a time tag for the uh numbers that you're reading off of the screen and uh
+
+[83:01] spk_3: Uh as was noted uh my commentary there lagged uh some several seconds behind the uh uh initial uh event there and uh I think that's probably the explanation for that
+
+[83:16] spk_3: Chet Lunner with the Florida Today and Gannett News Service I guess for uh Jay during the I haven't heard this comment addressed You said earlier that you don't talk to the crew as a matter of policy unless you've got something to say and then you said there are no anomalies which we've understood but the first transmission I have on the transcript is watch your role challenger
+
+[83:36] spk_0: Was that any sort of cautionary or
+
+[83:38] spk_3: is
+
+[83:38] spk_0: that a misprint
+
+[83:39] spk_3: or what does that mean No
+
+[83:40] spk_0: that was that was that was something that wasn't heard
+
+[83:44] spk_0: Challenger came down and said we got a roll program and we went up and said Roger roll we've said it on every flight We've used virtually the same terminology on every flight As I said it was an event we're aware of as well as the crew is It's primary purpose is a first in-flight Coche just so we know we can talk to them and they know they can talk to us
+
+[84:08] spk_0: Marvin Scott Independent News Jay at what point was it decided by Range Safety to destroy the SRBs and can you give us an idea from the trajectory to which populated areas these SRBs were headed
+
+[84:23] spk_0: I have been I have heard that it was on the order of 30 seconds I do know watching the the replays that the SRB's flew intact long enough that uh
+
+[84:34] spk_0: The range safety system didn't play into what happened uh
+
+[84:38] spk_0: As far as which area you'd have to talk to the range safety guys and they don't respond to specific areas they respond to the coastline
+
+[84:46] spk_0: And as a matter of fact after you see an event like this uh when a vehicle comes apart they will usually take action after waiting as long as possible
+
+[84:58] spk_0: Uh Albert Sales at Baltimore Sun I'm still not clear as to why both SRBs were destroyed We're both headed towards the coastline
+
+[85:10] spk_0: No uh the range safety system is what we call cross-strapped Uh the reason for all this is
+
+[85:18] spk_0: If you take the rain safety scenarios and range safety people are in the business of guessing what could happen
+
+[85:27] spk_0: They have to protect for an out of control vehicle and an out of control vehicle
+
+[85:32] spk_0: Uh could be rotating in in any attitude or any random set of attitudes As a result they have a requirement for spherical coverage and the only way we can give them spherical coverage is to tie both systems together such that if either system gets the
+
+[85:52] spk_0: The destruct signal both get it
+
+[85:58] spk_8: Jay Scott Pelley from WFAT Dallas You said just a moment ago that NASA you everyone trains for every imaginable contingency
+
+[86:08] spk_8: Is what happened yesterday one of the things that you've trained for and if so how
+
+[86:13] spk_0: No
+
+[86:17] spk_1: OK we'll come back to Houston now for a couple of wrap up questions back here in the 3rd row 4th row one more back This gentleman had his hand up
+
+[86:27] spk_2: Charles
+
+[86:27] spk_2: Pettit San Francisco Chronicle The video images of the of the explosion seemed to show an orange glow around the bottom of the external tank just before the main explosion Do your data include any possibility of a spectral analysis of that to show what was burning there or do you have only what's
+
+[86:47] spk_2: What's on the video Can you do this
+
+[86:49] spk_2: Any sort of detailed analysis of that kind to find what material was making that glow
+
+[86:53] spk_0: I didn't watch any of the well I watched the TV but I don't
+
+[86:58] spk_0: No we don't we don't have any any significant instrumentation on the external tank in the mission control center
+
+[87:04] spk_1: Uh Mike Meacham
+
+[87:07] spk_9: Uh Jay you I know you said no anomalies I don't want to pick that but in the past on launches sometimes there have been things like sensors go out that were not considered serious enough to bother the flight or whatever Are you when you say no anomalies are you saying literally absolutely no sensors no anything showed any blinking light anywhere in that control room
+
+[87:31] spk_1: We'll take a question here on the 3rd row and then we'll move on back to the back corner Olive
+
+[87:35] spk_10: Tally Houston Post a question for both of you Can you first of all describe what it looked like in the control room
+
+[87:43] spk_10: Uh did the screens just go blank Was data just coming up with zeros in it Uh can you sort of describe what the screens look like And secondly could you each tell us uh how many times that Jay you've sat as the uh flight director on on ascent or or descent and then Steve how many times you've you've uh called the uh launch
+
+[88:08] spk_5: about
+
+[88:09] spk_0: Uh
+
+[88:11] spk_0: The answer to the question is the way our system works we freezeless valid frame of data and show the data frozen with an S for static to the right of the individual data points so the screens all had data on them They were all valid data S indicated there was no more coming into the building
+
+[88:30] spk_0: Uh
+
+[88:32] spk_0: As far as myself
+
+[88:34] spk_0: I spent the last 20 years doing AirSense as a flight dynamics officer
+
+[88:40] spk_0: And I did something like 9 accents as a flight director
+
+[88:46] spk_3: Uh as far as my uh you know I had the same uh observations there as uh Jay did uh seeing essentially the same same type of screens and uh and you just have the S up here indicating its static data
+
+[89:01] spk_3: Um
+
+[89:03] spk_3: And uh my experience there I can't really recall I haven't counted how many launches I have uh done the commentary for I guess it's been several but uh
+
+[89:12] spk_3: Um and I guess I've I've been up here at the center for about 7.5 years
+
+[89:17] spk_1: They're all the way back here in the left corner
+
+[89:18] spk_0: Earl Bell Channel 2 as I understand it you don't see all the telemeter data coming back A lot of it is recorded and I assume that that's what you're going to be looking at in great detail What is it that you can hope to see in the detailed material that you didn't see in the control room
+
+[89:42] spk_0: Well just from a professional curiosity anything that was anomalous would be an indication that that may lead the experts to to show us where the problem is Uh the data we look at in the control room is is limited to that which is operationally significant that which we can do something about
+
+[90:03] spk_0: Uh obviously the the external tank temps would be very nice to have right now but operationally we have no use for it so we don't display it and we have a limited number of operators and you want them to look at a limited amount of data So you're going to look
+
+[90:18] spk_1: at for the mic
+
+[90:19] spk_0: please Yes sorry So you're going to look at a lot more of the data or at least the professionals of the technicians are
+
+[90:27] spk_0: To determine what the other things that might have gone wrong that you did not see or weren't aware of I am I am sure that every piece of data that is available will be looked at
+
+[90:37] spk_1: We'll take one more here and then one more on the other side and I think we'll wrap it up
+
+[90:41] spk_0: Dave Jackson Time Magazine I'm curious about whether of course the timing was so quick on this event but whether there were any changes in the life signs showing for example heightened blood pressure or anything from any of the astronauts immediately before the incident
+
+[90:59] spk_0: The only the only indication I have is that uh
+
+[91:03] spk_0: The last airground transmission voice transmission
+
+[91:07] spk_0: Sounded great to me Secondly um
+
+[91:11] spk_0: I'm I'm
+
+[91:14] spk_0: Sorry I forgot what I was going
+
+[91:15] spk_1: to ask OK we'll wrap it up then with one last question here in the back
+
+[91:19] spk_11: Mike Weiss with the Dallas Morning News You've had periodically problems with the computer software and some of and there have been discussions of some of the problems with the computer hardware Was there anything different in any of the setup with either the hardware or the software Were there any reprogrammings added to any of the controls that you normally employ
+
+[91:43] spk_0: Thank you very much
+
+[111:36] spk_2: Mr President
+
+[111:38] spk_2: Mrs Reagan
+
+[111:40] spk_2: Families of the Challenger crew other members of the NASA family
+
+[111:45] spk_2: Ladies and gentlemen thank you for coming here today to honor 7 brave Americans the crew of the spaceship Challenger
+
+[111:55] spk_2: Dick Scobie Mike Smith Judy Resnick Ron McNair E Onazuka Greg Jarvis and Kristen McAuliffe were explorers who blazed the trail for the rest of us Their courage and dedication represents all it's best in each of us
+
+[112:18] spk_2: And in America
+
+[112:20] spk_2: The Challenger crew took something of all of us aloft on Tuesday
+
+[112:25] spk_2: Their dreams of discovery are our dreams
+
+[112:29] spk_2: And the men and the women of that flight will always live in our thoughts and in our hearts
+
+[112:36] spk_2: I pray that families and friends will remember our pride and our gratitude and find some refuge in its warmth
+
+[112:47] spk_2: God bless them all
+
+[112:50] spk_5: We are gathered here today
+
+[112:54] spk_5: As a family
+
+[112:56] spk_5: A family that shares a common dream
+
+[113:01] spk_5: Common goal
+
+[113:03] spk_5: Common commitment
+
+[113:06] spk_5: And now a common tragic and devastating loss
+
+[113:13] spk_5: And as families do we have drawn together
+
+[113:17] spk_5: To remember with love
+
+[113:20] spk_5: And faith
+
+[113:22] spk_5: 7 who embodied in a very special way
+
+[113:27] spk_5: That dream we all possess
+
+[113:31] spk_5: Dick Mike
+
+[113:33] spk_5: Judy L
+
+[113:36] spk_5: Ron
+
+[113:38] spk_5: Greg shall we pause for a moment of prayer and meditation O thou
+
+[113:48] spk_5: whom we call by various names
+
+[113:53] spk_5: Approach by several paths
+
+[113:58] spk_5: And yet all acknowledged as the source of life
+
+[114:05] spk_5: Thy greatness is seen in this vast and wondrous universe
+
+[114:12] spk_5: We turn now to thee because we need the assurance of Allah
+
+[114:20] spk_5: Equally great and wondrous
+
+[114:24] spk_5: To feel that underneath are the everlasting arm
+
+[114:30] spk_5: And to know that the hand that holds us
+
+[114:33] spk_5: is a hand we trust We come here grateful for the many ways
+
+[114:41] spk_5: We have known those whom today we mourn
+
+[114:47] spk_5: As husband wife
+
+[114:50] spk_5: Father mother daughter son
+
+[114:56] spk_5: Colleague
+
+[114:57] spk_5: Neighbor
+
+[114:59] spk_5: And friend
+
+[115:01] spk_5: Each brings his or her own memories of love and laughter of strength and tenderness of enthusiasm and joy
+
+[115:15] spk_5: Skill and courage
+
+[115:20] spk_5: And we are grateful for the privilege of having known them
+
+[115:26] spk_5: Having our lives touched by their lives
+
+[115:30] spk_5: Being bound by ties of love and caring
+
+[115:36] spk_5: And now we pray for those who most keenly feel this love May they as surely feel the love that surrounds them the caring that reaches out to them
+
+[115:52] spk_5: May we be bearers of thy spirit
+
+[115:55] spk_5: Of love
+
+[115:57] spk_5: So that together we may know not only grief
+
+[116:02] spk_5: But also the grandeur
+
+[116:05] spk_5: And the grace of life
+
+[116:08] spk_12: A reading for hope and strength from the 46 Psalms
+
+[116:14] spk_12: God is our refuge and strength a very present help in trouble
+
+[116:19] spk_12: Therefore we will not fear though the earth should change though the mountains shake in the heart of the sea
+
+[116:25] spk_12: Though its waters roar and foam
+
+[116:29] spk_12: Though the mountains tremble with its tumult
+
+[116:33] spk_12: There is a river whose streams make glad the city of God the holy habitation of the Most High
+
+[116:39] spk_12: God is in the midst of her
+
+[116:42] spk_12: She shall not be moved God will help her right early
+
+[116:48] spk_12: The nation's rage the kingdom's totter He utters his voice the earth melts
+
+[116:56] spk_12: The Lord of hosts is with us The God of Jacob is our refuge
+
+[117:02] spk_12: Come
+
+[117:04] spk_12: Behold the works of the Lord how he has wrought desolations in the earth He makes wars cease to the end of the earth
+
+[117:13] spk_12: He breaks the bow and shatters the spear He burns the chariots with fire
+
+[117:18] spk_12: Be still
+
+[117:21] spk_12: Know that I am God
+
+[117:23] spk_12: I am exalted among the nations I am exalted in the earth The Lord of host is with us
+
+[117:31] spk_12: The God of Jacob
+
+[117:32] spk_12: is our refuge
+
+[117:35] spk_13: We come together today to mourn the loss of 7 brave Americans
+
+[117:41] spk_13: To share the grief that we all feel
+
+[117:44] spk_13: And perhaps in that sharing to find the strength to bear our sorrow and the courage to look for the seeds of hope
+
+[117:55] spk_13: Our nation's loss is first a profound personal loss to the family
+
+[118:00] spk_13: the friends and the loved ones of our shuttle astronauts
+
+[118:05] spk_13: To those they left behind the mothers the fathers the husbands and wives brothers and sisters
+
+[118:15] spk_13: Yes and especially the children All of America stands beside you in your time of sorrow What we say today is only an inadequate expression of what we carry in our hearts
+
+[118:29] spk_13: Words pale in the shadow of grief They seem insufficient even to measure the brave sacrifice of those you loved and we so admired
+
+[118:41] spk_13: Their truest testimony will not be in the words we speak
+
+[118:46] spk_13: But in the way they led their lives and in the way they lost their lives with dedication honor and an unquenchable desire to explore this mysterious and beautiful universe The best we can do
+
+[119:02] spk_13: I remember our 7 astronauts our Challenger 7 Remember them as they lived bringing life and love and joy to those who knew them
+
+[119:14] spk_13: And pride to a nation
+
+[119:18] spk_13: They came from all parts
+
+[119:20] spk_13: of this great country
+
+[119:22] spk_13: From South Carolina to Washington State Ohio to Mohawk New York
+
+[119:28] spk_13: Hawaii to North Carolina to Concord New Hampshire
+
+[119:33] spk_13: They were so different
+
+[119:35] spk_13: Yet in their mission their quest they held so much in common
+
+[119:40] spk_13: We remember Dick Scobie the commander who spoke the last words we heard from the Space Shuttle Challenger
+
+[119:48] spk_13: He served as a fighter pilot in Vietnam earning many medals for bravery later as a test pilot of advanced aircraft before joining the space program
+
+[119:59] spk_13: Danger was a familiar command companion to Commander Scobie
+
+[120:05] spk_13: We remember Michael Smith who earned enough medals as a combat pilot to cover his chest including the Navy Distinguished Flying Cross 3 A medals and the Vietnamese Cross of gallantry with Silver Star in gratitude from a nation he fought to keep free
+
+[120:25] spk_13: We remember Judith Resnick known as JR to her friends always smiling always eager to make a contribution finding beauty in the music she played on her piano in her off hours We remember Ellison Onizuka who was a child running barefoot through the coffee fields and macadamia groves of Hawaii
+
+[120:49] spk_13: Dreamed of someday traveling to the moon
+
+[120:52] spk_13: Being an Eagle Scout he said had helped him soar to the impressive achievements of his career
+
+[121:00] spk_13: We remember Ronald McNair
+
+[121:02] spk_13: Who said that
+
+[121:03] spk_13: He learned perseverance in the cotton fields of South Carolina
+
+[121:08] spk_13: His dream was to live aboard the space station
+
+[121:11] spk_13: Performing experiments and playing his saxophone in the weightlessness of space or on
+
+[121:19] spk_13: We will miss your saxophone and we will build your space station
+
+[121:26] spk_13: We remember Gregory Jarvis
+
+[121:28] spk_13: On that ill-fated flight he was carrying with him a flag of his university in Buffalo New York a small token he said to the people who unlocked his future
+
+[121:41] spk_13: We remember Krista McAuliffe who captured the imagination of the entire nation
+
+[121:47] spk_13: Inspiring us with her pluck her restless spirit of discovery
+
+[121:52] spk_13: A teacher not just to her students but to an entire people
+
+[121:57] spk_13: Instilling us all with the excitement of this journey we ride into the future
+
+[122:04] spk_13: We will always remember them these skilled professionals scientists and adventurers these artists and teachers and family men and women
+
+[122:15] spk_13: And we will cherish each of their stories stories of triumph and bravery stories of true American heroes
+
+[122:26] spk_13: On the day of the disaster our nation held a vigil by our television sets In one cruel moment
+
+[122:34] spk_13: Our exhilaration turned to horror
+
+[122:38] spk_13: We waited and watched and tried to make sense of what we had seen
+
+[122:44] spk_13: That night I listened to a call-in program on the radio
+
+[122:48] spk_13: People of every age spoke of their sadness and the pride they felt in our astronauts
+
+[122:54] spk_13: Across America we are reaching out holding hands and finding comfort in one another The sacrifice of your loved ones has stirred the soul of our nation
+
+[123:11] spk_13: And through the pain our hearts have been opened to a profound truth The future is not free The story of all human progress is one of a struggle against all odds We learned again that this America which Abraham Lincoln called the last best hope of man on earth
+
+[123:30] spk_13: It was built on heroism and noble sacrifice It was built by men and women like our seven-star voyagers who answered a call beyond duty
+
+[123:41] spk_13: Who gave more than was expected or required and who gave it little thought of worldly reward We think back to the pioneers of an earlier century
+
+[123:54] spk_13: The sturdy souls who took their families and their belongings and set out into the frontier of the American West Often they met with terrible hardship Along the Oregon Trail you could still see the grave markers of those who fell on the way
+
+[124:09] spk_13: But grief only steeled them to the journey ahead
+
+[124:14] spk_13: Today the frontier is space and the boundaries of human knowledge
+
+[124:20] spk_13: Sometimes when we reach for the stars we fall short
+
+[124:23] spk_13: But we must pick ourselves up again and press on despite the pain Our nation is indeed fortunate that we can still draw on immense reservoirs of courage character and fortitude that we're still blessed with heroes like those of the Space Shuttle Challenger
+
+[124:44] spk_13: Dick Scobie knew that every launching of a space shuttle is a technological miracle And he said if something ever does go wrong I hope that doesn't mean the end to the space shuttle program
+
+[124:59] spk_13: Every family member I talked to asked specifically that we continue the program
+
+[125:06] spk_13: That that is what their departed loved one would want above all else
+
+[125:12] spk_13: We will not disappoint them Today we promised Dick Scobie and his crew that their dream lives on that the future they worked so hard to build will become reality
+
+[125:26] spk_13: The dedicated men and women of NASA have lost 7 members of their family Still they too must forge ahead with a space program that is effective safe and efficient but bold and committed Man will continue his conquest of space
+
+[125:45] spk_13: To reach out for new goals and ever greater achievements
+
+[125:49] spk_13: That is the way we shall commemorate our seven challenger heroes
+
+[125:56] spk_13: Dick Mike Judy E Ron Greg and Christa
+
+[126:03] spk_13: your families and your country
+
+[126:06] spk_13: Mourn your passing
+
+[126:08] spk_13: We bid you goodbye
+
+[126:11] spk_13: We will never forget you
+
+[126:14] spk_13: For those who knew you well and loved you
+
+[126:17] spk_13: The pain will be deep and enduring
+
+[126:20] spk_13: A nation too will long feel the loss of her 7 sons and daughters her 7 good friends
+
+[126:28] spk_13: We can find consolation only in faith for we know in our hearts that you who flew so high and so proud
+
+[126:37] spk_13: Now make your home beyond the stars
+
+[126:41] spk_13: Faith in God's promise of eternal life
+
+[126:45] spk_13: May God bless you all and give you comfort in this difficult time
+
+[128:13] spk_5: Will you please rise and join in the singing of America the Beautiful
+
+[128:27] spk_5: Oh
+

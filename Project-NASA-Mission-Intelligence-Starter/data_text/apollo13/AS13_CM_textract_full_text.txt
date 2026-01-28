@@ -1,0 +1,3208 @@
+--- PAGE 1 ---
+16
+CONFIDENTIAL
+NASA
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+Classification changed to 4
+By authority of JSC Security Class. officer
+Date 2-5-73 - 2-9-78- Soely Date
+APOLLO 13
+ONBOARD VOICE
+TRANSCRIPTION
+NASA should be Policy handled Directive outside under 552). the S. be Requests Freedom for of exempt Infor. from
+1382.2. the provisions of its provisions ment re.
+(U)
+RECORDED ON THE
+lease to mation public Act NOTICE: 15 persons disclosure U.S.C. under document
+COMMAND MODULE
+ONBOARD RECORDER
+DATA STORAGE EQUIPMENT
+(DSE)
+APRIL 1970
+GROUP 4
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+THIS MATERIAL CONTAINS INFORMATION AFFECTING
+THE NATIONAL DEFENSE OF THE UNITED STATES
+WITHIN THE MEANING OF THE ESPIONAGE LAWS.
+TITLE 18. U.S.C. SECTION 793 AND 794. THE TRANS-
+MISSION OR REVELATION OF WHICH IN ANY MANNER
+TO AN UNAUTHORIZED PERSON is PROHIBITED BY LA
+MANNED SPACECRAFT CENTER
+HOUSTON,TEXAS
+INDEVING DATA
+CONFIDENTIAL
+SIGNATOR LOC
+
+--- PAGE 2 ---
+UNCLASSIFIED
+ii
+SECURITY CLASSIFICATION
+The material contained herein has been tran-
+scribed into a working paper in order to facili-
+tate review by interested MSC elements. This
+document, or portions thereof, may be declas-
+sified subject to the following guidelines:
+Portions of this document will be classi-
+fied CONFIDENTIAL, Group 4, to the extent that
+they: (1) define quantitative performance
+characteristics of the Apollo Spacecraft,
+(2) detail critical performance characteristics
+of Apollo crew systems and equipment, (3) pro-
+vide technical details of significant launch
+vehicle malfunctions in actual flight or reveal
+actual launch trajectory data, (4) reveal medi-
+cal data on flightcrew members which can be
+considered privileged data, or (5) reveal other
+data which can be individually determined to
+require classification under the authority of
+the Apollo Program Security Classification
+Guide, SCG-11, Rev. 1, 1/1/66.
+UNCLASSIFIED
+
+--- PAGE 3 ---
+UNCLASSIFIED
+iii
+INTRODUCTION
+This document is the transcription of the Apollo 13 flightcrew
+communications as recorded on the command module (CM) data storage
+equipment (DSE), and subsequently transmitted (dumped) to Manned Space
+Flight Network stations. Magnetic tapes containing dumped voice and
+onboard-recorded ground elapsed time were forwarded to the NASA Manned
+Spacecraft Center, Houston, Texas. Transcription of these tapes was
+managed by David M. Goldenbaum, Test Division, Apollo Spacecraft Pro-
+gram Office, to whom questions regarding this document should be
+referred.
+In the text, a series of three dots (...) is used to designate
+those portions of the communications that could not be transcribed be-
+cause of garbling. One dash (-) is used to indicate a speaker's pause
+or a self-interruption. Two dashes (- -) are used to indicate an inter-
+ruption by another speaker or a point at which a recording was abruptly
+terminated.
+The Apollo 13 mission was flown April 11 to 17, 1970.
+Speakers in the transcript are identified as follows:
+Spacecraft:
+CDR
+Commander
+James A. (Jim) Lovell, Jr.
+CMP
+Command module pilot
+John L. (Jack) Swigert, Jr.
+LMP
+Lunar module pilot
+Fred W. Haise, Jr.
+SC
+Unidentifiable crewmember
+MS
+Multiple speakers
+Mission Control Centers:
+CC
+Capsule communicator (CAP COMM)
+LCC
+Launch control center
+The transcript is divided into three columns-time, speaker, and
+text. The time column consists of four two-digit pairs for days, hours,
+minutes, and seconds (e.g., 04 22 34 14). The speaker column indicates
+the source of a transmission; the text column contains the verbatim
+transcript of the communications.
+UNCLASSIFIED
+
+--- PAGE 4 ---
+CONFIDENTIAL
+Day
+Hour
+Min
+Sec
+DAY 1
+-00 00 00 10
+LCC
+10, 9, 8, 7, 6, -
+-00 00 00 05
+LCC
+IGNITION -
+00 00 00 00
+LCC
+4, 3, 2, 1, 0 - -
+00 00 00 01
+LCC
+LIFT-OFF.
+00 00 00 02
+CDR
+The clock is running. ...
+00 00 00 03
+CMP
+Yes.
+00 00 00 05
+CMP
+Yaw program.
+00 00 00 10
+LCC
+Clear the tower.
+00 00 00 11
+CDR
+Clear tower.
+00 00 00 14
+CDR
+The yaw complete and roll program.
+00 00 00 16
+CC
+Houston; Roger roll.
+00 00 00 19
+CDR
+2000 feet.
+00 00 00 30
+CC
+13, Houston. GO at 30 seconds.
+00 00 00 32
+CMP
+Okay, you're right on, Jim. You're right on
+trajectory.
+00 00 00 34
+CDR
+Roll complete and we're pitching.
+00 00 00 37
+CC
+Roger that. Stand by for Mode I Bravo.
+00 00 00 42
+CC
+I Bravo.
+00 00 00 43
+CMP
+I Bravo.
+00 00 00 44
+CDR
+RCS COMMAND.
+00 00 00 45
+CMP
+I Bravo.
+00 00 00 48
+CDR
+One-and-a-half g's. Okay, high Q coming up.
+00 00 00 52
+CMP
+Okay.
+
+--- PAGE 5 ---
+2
+CONFIDENTIA
+Day 1
+00 00 00 55
+LMP
+Cabin's coming down.
+00 00 00 57
+CDR
+ALT is looking good.
+00 00 01 02
+CMP
+Okay, you're right on - -
+00 00 01 03
+CC
+13, Houston. GO at 1. We show the cabin
+relieving.
+00 00 01 05
+CMP
+Yes.
+00 00 01 06
+CDR
+13; Roger.
+00 00 01 07
+CMP
+You're right on, Jim.
+00 00 01 09
+CDR
+Coming up on 2g's. ALT is looking good.
+00 00 01 17
+CDR
+Two g's.
+00 00 01 26
+CDR
+ALT is looking good.
+00 00 01 31
+CMP
+Okay, you're right on at 01:30. 10 4 - a little
+bit high - we're a little bit high, about 0.4 of
+a mile.
+00 00 01 37
+CDR
+Got to speak louder.
+00 00 01 39
+CMP
+Okay.
+00 00 01 40
+LMP
+Cabin's looking good.
+00 00 01 43
+CDR
+Two-and-a-half g's and we're looking good in
+alpha.
+00 00 01 50
+CDR
+40 000.
+00 00 01 55
+CC
+13, Houston. Stand by for Mode I Charlie.
+00 00 01 57
+CDR
+Roger.
+00 00 01 58
+CC
+...
+I Charlie.
+00 00 01 59
+CDR
+MARK.
+00 00 02 00
+CDR
+I Charlie.
+00 00 02 01
+CMP/LMP
+I Charlie.
+CONFIDENTIAL
+
+--- PAGE 6 ---
+Day 1
+CONFIDENTIAL
+3
+00 00 02 02
+CC
+And, 13; you're GO for staging.
+00 00 02 04
+CDR
+GO for staging. Roger.
+00 00 02 05
+CMP
+We're EDS, manual.
+00 00 02 07
+CDR
+Okay.
+00 00 02 08
+CC
+... that.
+00 00 02 11
+CDR
+Three-and-a-half g's.
+00 00 02 15
+CDR
+Inboard. ...?
+00 00 02 27
+CC
+Confirm inboard out, 13; you're looking good.
+00 00 02 29
+CDR
+Roger.
+00 00 02 42
+CDR
+Coming up on 4g.
+00 00 02 45
+CMP
+Got a little flash out the window.
+00 00 02 48
+CDR
+S-II ignition.
+00 00 02 50
+CMP
+...
+00 00 02 51
+LMP
+Yes.
+00 00 02 52
+CDR
+We have half a g; looks good.
+00 00 02 57
+CMP
+Okay, 3 min. That's the babe.
+00 00 03 00
+CC
+13, Houston.
+Trajectory is good; thrust is good.
+00 00 03 03
+CDR
+Roger.
+00 00 03 04
+CMP
+She's right on, Jim.
+00 00 03 06
+LMP
+Stand by for tower JETT.
+00 00 03 14
+CMP
+Skirt SEP.
+00 00 03 16
+LMP
+Okay, tower JETT.
+00 00 03 17
+CDR
+Roger.
+00 00 03 18
+LMP/CDR
+Tower JETT.
+
+--- PAGE 7 ---
+4
+CONFIDEI
+Day 1
+00 00 03 19
+CMP
+Beautiful.
+00 00 03 20
+CC
+Confirm skirt SEP; Roger tower JETT; Mode II,
+Jim. Looking good.
+00 00 03 22
+LMP
+Look at that.
+00 00 03 24
+CDR
+Mode II.
+00 00 03 28
+LMP
+Look at the horizon out there.
+00 00 03 29
+CMP
+Yes. There it comes.
+00 00 03 32
+LMP
+That plume!
+00 00 03 33
+CDR
+Guidance initiate.
+00 00 03 34
+LMP
+That plume! Boy, is she boiling. That really - -
+00 00 03 38
+CMP
+Here.
+00 00 03 39
+LMP
+- - points away, there. Window is not too bad.
+00 00 03 43
+CC
+13, Houston. Guidance is good, and the CMC is GO.
+00 00 03 46
+CMP
+Okay.
+Thank you.
+00 00 03 47
+CDR
+13; Roger.
+00 00 03 49
+CMP
+Okay, we're Mode II; I'm set for staging.
+00 00 03 52
+CDR
+Mode II. Got them all RATE COMMAND and hang on.
+00 00 04 00
+CDR
+Four minutes.
+00 00 04 03
+CMP
+Okay, Jim, we're right on.
+00 00 04 04
+CDR
+Okay.
+00 00 04 05
+CMP
+Trajectory's looking good.
+00 00 04 06
+CDR
+Want a little bit more light?
+00 00 04 07
+CMP
+No, no. That's it - -
+00 00 04 08
+CDR
+How's this?
+CONFIDENTIAL
+
+--- PAGE 8 ---
+5
+Day 1
+00 00 04 09
+CMP
+Yes. That's fine.
+00 00 04 12
+CDR
+04:11.
+00 00 04 13
+LMP
+Cabin's settled out very nicely.
+00 00 04 14
+CMP
+Yes.
+00 00 04 15
+CDR
+Okay.
+00 00 04 16
+CC
+13, Houston. You're GO at 4 minutes. The little
+red lines are right on the little white lines
+down here.
+00 00 04 22
+CDR
+Sounds good.
+00 00 04 30
+CDR
+Coming up on one g.
+00 00 04 31
+CMP
+Boy, we're right on. We're about a mile and
+two-tenths high, though, but we're right on VI
+and right on H-dot.
+00 00 04 36
+CDR
+That's
+... One g. You could walk around here.
+00 00 04 51
+CMP
+I bet I never had such a view. Fred-o ... - -
+00 00 04 55
+CC
+13, Houston. Coming up 5 minutes; you're looking
+perfect. Over.
+00 00 04 59
+CDR
+13, Roger. Coming to gimbal motors.
+00 00 05 04
+CMP
+Okay. Watching 8.
+00 00 05 32
+CMP
+Inboard.
+00 00 05 36
+CC
+We confirm inboard out.
+00 00 05 38
+CDR
+That shouldn't have happened.
+00 00 05 40
+CMP
+No. That's 7:42. That's 2 minutes early.
+00 00 05 44
+CC
+13, Houston. Stand by for S-IVB to COI capability.
+00 00 05 48
+CDR
+S-IVB to COI. Roger.
+00 00 05 49
+CC
+Roger. You've got it now, Jim.
+
+--- PAGE 9 ---
+6
+CONFIDE
+L
+Day 1
+00 00 05 52
+CDR
+We've got S-IVB to COI.
+00 00 05 53
+CMP
+Okay. Gim [sic] motors, Jim. Set 1.
+00 00 05 55
+CDR
+Okay. PITCH 1.
+00 00 05 57
+CMP
+Good.
+00 00 05 58
+CDR
+YAW 1.
+00 00 05 59
+CMP
+Good. PITCH 2.
+00 00 06 00
+CDR
+PITCH 2.
+00 00 06 01
+CMP
+Good.
+00 00 06 02
+CDR
+YAW 2 - -
+00 00 06 03
+CC
+You're GO at 6 minutes, 13.
+00 00 06 06
+CDR
+GO at 6. And, Houston, what's the story on
+engine 5?
+00 00 06 14
+CC
+Jim, Houston. We don't have a story on why the
+inboard out was early, but the other engines are
+GO and you're GO.
+00 00 06 21
+CDR
+Roger.
+00 00 06 24
+LMP
+Okay. We're - we're a little bit low on H-dot,
+now, but that's to be expected.
+00 00 06 28
+CDR
+Okay. We're Mode II, gentlemen, Mode II.
+00 00 06 41
+CC
+13, Houston. You're still looking good; your
+gimbals are good; trim is good.
+00 00 06 45
+CDR
+Roger. We just checked the trim. It doesn't fit.
+00 00 06 53
+CC
+13, Houston. Level sense arm time, 8 plus 38,
+nominal; S-II cut-off time, 9 plus 48. Over.
+00 00 07 01
+CDR
+Roger. Nominal on the level sense arm, 09:48 on
+the S-II cut-off.
+00 00 07 06
+CMP
+It's going to run - -
+CONFIDENTIAL
+
+--- PAGE 10 ---
+Day 1
+CONFIDENTIAL
+7
+00 00 07 07
+CC
+Affirmative, and stand by for S-IVB to orbit.
+You have S-IVB to orbit, Jim.
+00 00 07 13
+CDR
+Roger. We have S-IVB to orbit.
+00 00 07 23
+CDR
+Didn't like that inboard.
+00 00 07 32
+CMP
+Okay, we're 1400 feet a second low on VI .
+That's not too bad.
+00 00 07 38
+CDR
+Watch the trajectory closely, Jack.
+00 00 07 41
+CMP
+Yes, ...
+00 00 07 48
+CMP
+We're right at 8
+...
+- H-dot is a little bit
+low; VI is low, but that's understandable.
+00 00 07 53
+CDR
+Okay.
+00 00 07 56
+CMP
+You're S-IVB to orbit capability now.
+00 00 08 01
+CC
+13, Houston. Looking good at 8 minutes.
+00 00 08 05
+CDR
+13; Roger. How's those systems, Fred? Are
+there any - -
+00 00 08 08
+LMP
+They're looking good.
+00 00 08 13
+CMP
+Okay, now, H-dot is low, Jim.
+...
+S-IVB ought
+to pick you up.
+00 00 08 19
+CDR
+Yes. Hey, I got a - We got a funny vibration
+00 00 08 27
+LMP
+Yes. Yes, there was a bit of noise, there. Yes.
+00 00 08 31
+CMP
+...
+00 00 10 28
+LMP
+Right on 8; good on H-dot; 200 feet a second
+low on V Isp'
+00 00 10 32
+CDR
+Remember, we're Mode IV now.
+00 00 10 34
+LMP
+Yes, I got that. Mode IV.
+00 00 10 46
+LMP
+Looks good -
+00 00 10 49
+CDR
+What?
+CONFIDENTIAL
+
+--- PAGE 11 ---
+8
+CONFIDEN
+L
+Day 1
+00 00 10 51
+LMP
+Everything looks good.
+00 00 10 54
+CDR
+Everything looking good.
+00 00 10 57
+IMP
+We're looking good, Jim; trajectory's looking
+good.
+00 00 11 00
+CDR
+Okay, ...
+00 00 11 15
+CMP
+...
+00 00 11 19
+CDR
+What?
+00 00 11 23
+LMP
+Okay, going to
+...
+deadband now, guys. We're
+102.5 - shutdown velocity -
+00 00 11 32
+CDR
+25 562.
+00 00 11 34
+CC
+Apollo 13, Houston. You're GO at 11-1/2, and
+predicted cut-off time is 12 plus 34. Over.
+00 00 11 41
+CDR
+Understand; 12 plus 34, predicted cut-off time.
+00 00 11 45
+CC
+... affirm.
+00 00 11 46
+LMP
+25 562 looks good.
+00 00 11 58
+CMP
+Okay Do we shut down at - Fred-o?
+00 00 12 02
+LMP
+Yes.
+00 00 12 03
+CMP
+What's Shutdown is when?
+00 00 12 05
+LMP
+...
+you get the last page, Jack; you got the
+cleanup stuff.
+00 00 12 14
+CDR
+Stand by for SECO.
+00 00 12 15
+LMP
+All the systems stuff. You got to
+...
+SECO.
+00 00 12 18
+CMP
+Yes.
+00 00 12 20
+LMP
+I'm going to just jump right in
+...
+TIME SKIP
+CONFIDENTIAL
+
+--- PAGE 12 ---
+Day 1
+9
+1
+00 00 23 25
+CMP
+Hey, you guys, are you ready? I've done my other
+item there; I'm ready to give you - ...
+00 00 23 30
+CDR
+Well, all right, fine. Let's just get this one
+done first.
+00 00 23 33
+CMP
+Okay.
+00 00 23 34
+CDR
+What else do you have to do here?
+00 00 23 35
+LMP
+Okay. Going BIT RATE.
+TIME SKIP
+00 00 23 46
+SC
+Okay.
+00 00 23 47
+CDR
+Okay. The pressure's okay?
+00 00 23 49
+LMP
+Yes. Let's see now, Jim, there's one more read-
+ing there; you gave me the - you gave me the
+helium pressure 4100. What's the manifold
+pressure on that one?
+00 00 23 59
+CDR
+The manifold pressure is reading about 80.
+00 00 24 05
+LMP
+Eighty? Okay, give me the number 1, then.
+00 00 24 07
+CDR
+Okay, number 1. And helium temperature is 80,
+helium pressure is 4100, and the manifold pres-
+sure is about 100.
+00 00 24 18
+LMP
+Manifold's about 100. Okay.
+00 00 24 19
+CMP
+Okay, Fred-o. Have a look the cabin and suit
+doing? Before we - -
+00 00 24 22
+LMP
+They're both pretty equal, now, at about 5/5.
+00 00 24 25
+CMP/CDR
+Okay.
+00 00 24 26
+CDR
+Well, let's - We'll break the
+...
+00 00 24 27
+CMP
+Okay, let's do it. Fred-o, here's your bag.
+00 00 24 32
+LMP
+Okay. Jim.
+
+--- PAGE 13 ---
+CONFIDE
+10
+Day 1
+00 00 24 39
+LMP
+Okay, for that item, those two I can check off.
+You got the V-torquing angle?
+00 00 24 43
+CMP
+Yes.
+00 00 24 44
+LMP
+I've checked the caution and warning; you've done
+that. We're up - we're up to item 9.
+00 00 24 49
+CMP
+How we doing time line?
+00 00 24 51
+LMP
+We're a little behind, but it's the kind of stuff
+that we can catch up lickety-split with.
+00 00 24 57
+CMP
+Okay.
+00 00 25 04
+LMP
+Okay. Let me get make sure I got this item.
+I want A, SIMPLEX. Hell, it was already there.
+B to OFF. No, it wasn't. It's just a hard switch
+again. They really fake you out, these switches -
+00 00 25 18
+CMP
+Yes. I've noticed - -
+00 00 25 19
+LMP
+- - they move SO hard.
+00 00 25 20
+CMF
+I've noticed that, Fred.
+00 00 25 21
+LMF
+Compared with the simulator. Okay, let me check
+item 13 off; I've completed that one. Let's see.
+00 00 25 30
+CMF
+Yes. I've got - -
+00 00 25 37
+CDR
+Jack, be careful in your movements now.
+00 00 25 39
+CMF
+Yes. I'm not having any problems so far.
+00 00 25 11
+CDR
+Okay.
+00 00 25 43
+LMP
+PCM BIT RATE is LOW. I did the COMMAND RESET
+in NORMAL. I'll is it again, just to make sure.
+I have an A, SIMPLEX, and B, OFF. That's great.
+Jack, could you hand me one thing?
+00 00 25 58
+CMF
+What what would you like?
+00 00 25 59
+LMF
+One of those spring jobbers, there. I can - -
+00 00 26 00
+CMP
+Yes.
+CONFIDEI
+AL
+
+--- PAGE 14 ---
+11
+Day 1
+00 00 26 01
+LMP
+- - flip across - -
+00 00 26 02
+CMP
+I was going to ask you, if you wanted one of
+those, Fred.
+00 00 26 03
+LMP
+Yes. Okay. Now that' 11 take care of my check-
+list for me.
+00 00 26 15
+CMP
+A springy jobber coming up.
+00 00 26 17
+LMP
+Thank you. No, no; you got one of the other ones
+with the hook?
+00 00 26 24
+CMP
+I got the wrong kind?
+00 00 26 25
+LMP
+Yes. It's a little longer one with the hook.
+00 00 26 28
+CMP
+Are they in the same - They in the same - ?
+00 00 26 35
+LMP
+Now that's a good question.
+00 00 26 37
+CMP
+Well, I'll tell you Let me - I don't see them
+down here, now.
+00 00 26 41
+LMP
+Sure enough. It really is zero g.
+00 00 26 47
+CDR
+Well, gentlemen, I'll break out my two gold pens.
+00 00 26 50
+LMP
+The longest Napierian trajectory in the world.
+00 00 26 56
+CMP
+Yes. We had - I had a long boost ride, didn't we?
+00 00 26 59
+LMP
+Man!
+00 00 27 00
+CDR
+Twelve minutes and 30-some seconds.
+00 00 27 01
+LMP
+I'll tell you, gang, I was a little worried for
+a pinch or two.
+00 00 27 04
+CDR
+When I called, "Inboard," I was - It was natural;
+then I looked at the time - -
+00 00 27 07
+CMP
+Yes - -
+00 00 27 08
+CDR
+- - and I said, "That's not natural."
+
+--- PAGE 15 ---
+12
+CONFIDEN
+L
+Day 1
+00 00 27 09
+CMP
+We were 2 minutes early. Five minutes and 32 sec-
+onds, if you want to write that down.
+00 00 27 12
+CDR
+Okay, good. Okay, my helmet coming off.
+00 00 27 15
+LMP
+Shoot, if they recorded that - -
+00 00 27 16
+CMP
+- - (Laughter) Yes - -
+00 00 27 17
+LMP
+- - it'd be heck.
+00 00 27 18
+CMP
+(Laughter) I know it.
+00 00 27 24
+CMP
+Well, you know, I think I'll just - I'll just let
+this thing pull right up to the top.
+00 00 27 29
+LMP
+You haven't found that other one, yet, have you?
+00 00 27 30
+CMP
+No, Fred; I haven't -
+00 00 27 32
+CDR
+What are you looking for?
+00 00 27 33
+LMP
+A clamp. Oh - -
+00 00 27 35
+CMP
+I think those are down - those are in one of
+the lower -
+00 00 27 38
+LMP
+Okay. You want to give me that other one back
+here, I'll see if I - Trouble is, I got no hooks
+that are the right length apart for my goddamn ...
+Fiddle with it. I'll just hang on to it tight
+and ...
+00 00 27 55
+CMP
+By golly! Guys!
+00 00 28 03
+LMP
+Hey, that's - All that stuff about the helmet's
+being hard to get into the bag is the truth.
+00 00 28 15
+CDR
+Okay, let's see. At ... 52:36, we're going
+to pick them up over Canaries.
+00 00 28 20
+LMP
+Great -
+00 00 28 21
+CDR
+And, gentlemen, you are now passing the beau-
+tiful Atlantic Ocean.
+CONFIDED
+AL
+
+--- PAGE 16 ---
+Day 1
+13
+00 00 28 30
+LMP
+I'm glad we checked PGNCS.
+00 00 28 37
+CDR
+Say, I never thought - You guys want to take a
+look - look at - Excuse me a second. I'm going
+to turn out those floodlights. I wanted to
+show ... - When I turn out all the lights in
+just a second, you can see thunder and lightning
+on the horizon.
+00 00 28 55
+CMP
+Sure as hell can.
+00 00 28 56
+CDR
+And also, you might be able, if your eyes
+become accustomed to it - you might be able to
+see the - the airglow. There, you can. You
+can see the airglow.
+00 00 29 05
+CMP
+Yes. I sure can.
+00 00 29 06
+CDR
+See that airglow?
+00 00 29 07
+CMP
+I can see that lightning, too.
+00 00 29 09
+LMP
+Oh, I - I won't be able to see
+...
+00 00 29 10
+CMP
+Hey, that's -
+00 00 29 12
+LMP
+El Scorpio, isn't it?
+00 00 29 13
+CDR
+Yes, but see the - Antares is in the airglow
+layer.
+00 00 29 16
+CMP
+Yes, it is. Right in it.
+00 00 29 18
+CDR
+And then right below that, way about a half
+a degree, that's -
+00 00 29 20
+CMP
+The next star down there?
+00 00 29 21
+CDR
+Yes.
+00 00 29 22
+LMP
+Yes.
+00 00 29 23
+CDR
+So, if you lift the lights, we'll see again.
+00 00 29 27
+CMP
+Okay, I'm ready for the main REG check, Fred,
+if you're ready.
+
+--- PAGE 17 ---
+14
+CONFIDEN
+Day 1
+00 00 29 30
+LMP
+Okay. Go ahead. I'll tell you when.
+... just
+call it on.
+00 00 29 35
+CMP
+Okay. MAIN REG B going closed. EMERGENCY CABIN
+PRESSURE selector 1, PUSH TO TEST.
+00 00 29 45
+LMP
+Did you PUSH TO TEST?
+00 00 29 46
+CMP
+Yes. There it is.
+00 00 29 47
+LMP
+Good.
+00 00 29 48
+CMP
+Okay.
+00 00 29 49
+LMP
+Good.
+00 00 29 50
+CMP
+MAIN REG B valve, OPEN; A going closed.
+00 00 29 54
+LMP
+Closed. Next step?
+00 00 29 55
+CMP
+CABIN - CABIN PRESSURE selector 2, PUSH TO
+TEST.
+00 00 30 00
+LMP
+Okay, that's good.
+00 00 30 02
+CMP
+MAIN REG valve B - - or A, OPEN, and EMERGENCY
+CABIN PRESSURE selector, closed. Okay, Jim.
+I got to get to - to those
+here.
+00 00 30 14
+CDR
+Okay.
+00 00 30 23
+CDR
+Okay.
+00 00 30 24
+CMP
+...
+down there?
+00 00 30 27
+LMP
+Up in L-2, Jack.
+00 00 30 28
+CMP
+Yes, that's where I'm looking.
+00 00 30 32
+LMP
+You're kidding. I thought you said the helmet
+was tough to get in this bag. Piece of cake.
+Have you got - have you got one of those big
+helmets?
+00 00 30 41
+CMP
+Yes - No, I don't think unless I got a bigger
+head.
+CONFIDENTIAL
+L
+
+--- PAGE 18 ---
+Day 1
+15
+00 00 30 44
+LMP
+You don't have a Borman special, do you?
+00 00 30 46
+CMP
+No.
+00 00 30 47
+CDR
+We all have Borman specials.
+00 00 30 48
+CMP
+Really?
+00 00 30 49
+CDR
+Yes.
+00 00 30 50
+CMP
+Maybe your damn bag won't fit anymore with that
+one
+have to slip it in this one.
+00 00 30 54
+LMP
+Yes.
+a little bit. I got a
+...
+00 00 31 06
+CDR
+Okay.
+Got a
+?
+00
+00
+31
+09
+CMP
+Yes.
+00 00 31 12
+CDR
+Well, is there anything else we can be doing
+right now? Like COAS?
+00 00 31 14
+LMP
+Yes.
+00 00 31 15
+CMP
+You can - -
+00 00 31 16
+CDR
+Yes.
+00 00 31 17
+CMP
+- - you can get out the ORDEAL box, if you
+could - -
+00 00 31 18
+CDR
+Yes - -
+00 00 31 19
+CMP
+- - could you do that, Jim?
+00 00 31 20
+CDR
+I'm going to try it right now.
+00 00 31 21
+CMP
+That would save me a trip down under there.
+00 00 31 22
+CDR
+Okay, that's right.
+00 00 31 25
+CMP
+Okay. Okay - -
+00 00 31 28
+CDR
+You got to watch the time right now for -
+00 00 31 29
+CMP
+Yes.
+
+--- PAGE 19 ---
+16
+CONFIDEN
+Day 1
+00 00 31 30
+CDR
+Okay.
+00 00 31 35
+CMP
+I don't - I got to go stow my water wings. You
+guys got your water wings on?
+00 00 31 40
+LMP
+No. I don't think I'm going to fiddle with that
+right now, Jack. They're not in my way.
+00 00 31 45
+CMP
+Yes. I'll trade. We can get that later.
+00 00 31 46
+LMP
+Hell, yes.
+00 00 31 48
+CDR
+Well, I'll tell you what - I blew mine on 8.
+00 00 31 52
+CMP
+Did you?
+00 00 31 53
+LMP
+Yes. But you were the guy that - Jack should
+take his off. He's the guy moving around.
+00 00 31 57
+CDR
+You're right.
+00 00 31 58
+CMP
+Okay. I'll take mine off.
+00 00 32 00
+CDR
+...
+really want
+00 00 32 05
+LMP
+Man, I'll tell you, that first stage -
+00 00 32 08
+CMP
+...
+00 00 32 09
+LMP
+When that shut down, man, I thought I was going
+through the instrument panel. I'll tell you,
+that was - I was so surprised
+I had heard
+about it.
+00 00 32 20
+CDR
+I should have warned you.
+00 00 32 22
+LMP
+(Laughter)
+00 00 32 23
+CMP
+Yes, well.
+Something else - -
+00 00 32 24
+LMP
+Well - -
+00 00 32 26
+CMP
+- - you got to get into.
+00 00 32 27
+CDR
+... right in
+...
+CONFIDENTI
+
+--- PAGE 20 ---
+Day 1
+17
+00 00 32 28
+LMP
+Okay, let's see. Confirm normal, we've done
+that. We've stowed the water wings. Now it's
+the TSB is the only item left outstanding there.
+00 00 32 36
+CDR
+Okay, I have the ORDEAL in place. Now, do you
+want the camera bracket?
+00 00 32 44
+CMP
+Yes, you better leave that camera bracket up
+there.
+00 00 32 50
+LMP
+Yes. Yes, I can feel a little bit of the zero-g
+effect, a little flushing in the face.
+00 00 32 54
+CMP
+Yes.
+00 00 32 55
+CDR
+Yes, that's that Your blood rushes to your
+head because your heart doesn't have anything
+to pump against.
+00 00 33 02
+CMP
+Yes, I can feel that, too.
+00 00 33 05
+CDR
+Okay, I have the camera bracket.
+00 00 33 08
+CMP
+Okay, have you got the the ORDEAL mounted?
+I have - -
+00 00 33 10
+CDR
+The ORDEAL is mounted.
+00 00 33 11
+CMP
+- - -
+00 00 33 12
+LMP
+Okay, Jim. Are you ready to get busy on getting
+the RADs on the line?
+00 00 33 16
+CDR
+I sure am.
+00 00 33 17
+LMP
+GLYCOL RESERVOIR BYPASS valve, OPEN.
+00 00 33 19
+CDR
+Okay, GLYCOL RESERVOIR BYPASS valve to OPEN.
+00 00 33 25
+LMP
+Okay, OUT valve, CLOSE.
+00 00 33 27
+CDR
+OUT valve, CLOSE.
+00 00 33 29
+LMP
+The IN valve, CLOSE.
+00 00 33 31
+CDR
+The IN valve going CLOSE.
+
+--- PAGE 21 ---
+18
+CONFIDENT
+Day 1
+00 00 33 34
+LMP
+Okay, now we need a little bit of quantity in
+the ACCUM not the ACCUM, but we need the fuel
+valve on for about 5 percent on down to 45
+percent. That's about what it was in the
+...,
+too.
+00 00 33 46
+CDR
+Okay, what I'm going to do is - -
+00 00 33 47
+LMP
+CAP COMM said they wanted 50.
+00 00 33 48
+CDR
+-
+-
+... the ORDEAL, then. The number 1 ball.
+Did you check the VERB 82?
+00 00 33 57
+CMP
+Yes, I did. I wrote it down.
+00 00 33 59
+CDR
+Okay.
+00 00 34 00
+CMP
+I did that whole thing.
+00 00 34 01
+LMP
+And we got the secondary RAD leak check to go.
+We got the "Unstow and mount TSB."
+00 00 34 07
+CMP
+Yes.
+I
+...
+done that, too.
+00 00 34 10
+LMP
+And I got water wings in my lap here. That's
+it on that item - that page; it's done. So
+we're hanging up here. Let me proceed ahead
+and see what I can. I can do a purge. There
+are not any left for another 12 minutes or SO.
+00 00 34 28
+CMP
+Let me get the - -
+00 00 34 29
+LMP
+...
+00 00 34 30
+CMP
+I got to get - -
+00 00 34 31
+LMP
+EPS monitor check, I can do
+...
+I've been look-
+ing ahead to see what Jim can do. It says a
+GDC aline somewhere in this thing.
+00 00 34 36
+CDR
+Okay, I'm setting the ORDEAL right now.
+00 00 34 40
+LMP
+Okay, well, that's the next thing you can do is
+a GDC aline. Okay, you may - you may get some
+MASTER ALARMs here, gang. I'm going to be
+doing a purge check. I'll just do the - -
+CONFIDENTIAL
+
+--- PAGE 22 ---
+Day 1
+19
+00 00 34 55
+CMP
+Fred-o.
+00 00 34 56
+LMP
+Yes.
+00 00 34 57
+CMP
+Look what I got.
+00 00 34 58
+LMP
+What have you got?
+00 00 34 59
+CMP
+One with a hook on the end of it.
+00
+00
+35
+01
+LMP
+Beautiful.
+00
+00
+35
+02
+CMP
+Spring jobber-do.
+00 00 35 03
+LMP
+Thank you.
+00 00 35 09
+CDR
+Now, is there anything I can be doing?
+00 00 35 10
+CMP
+I am giving you the sequence camera here, Jim.
+00 00 35 13
+CDR
+Okay.
+00 00 35 14
+CMP
+I tell you, I haven't checked the setting.
+00 00 35 16
+CDR
+How about your optics?
+00 00 35 17
+CMP
+I've got them unstowed.
+Now.
+that'd be 32.
+...
+00 00 35 32
+CMP
+camera. Here's the power cable.
+00 00 35 36
+CDR
+Thank you. Okay, 18 millimeter, f:8, and 250th.
+00 00 35 47
+CMP
+Now, let's see. Let me give you a - it's f:8,
+250th, 7 feet, 12 frames per second.
+00 00 35 54
+CDR
+Okay. Go.
+00 00 35 55
+CMP
+Magazine A.
+00 00 35 56
+CDR
+Magazine A is on.
+00 00 35 58
+LMP
+Hey, Jack, where'd you find these?
+00 00 36 00
+CMP
+I found it right down in - Fred, in this stowage -
+00 00 36 03
+LMP
+Do you have any longer ones?
+
+--- PAGE 23 ---
+20
+CONFIDENT
+Day 1
+00 00 36 04
+CMP
+No.
+00 00 36 05
+LMP
+(Laughter)
+00 00 36 06
+CMP
+No. It - -
+00 00 36 07
+LMP
+But that wasn't quite that long.
+00 00 36 08
+CMP
+Yes, I know they do. And I'll tell you where
+it is; it's down in - - -
+00 00 36 10
+LMP
+Okay.
+00 00 36 11
+CMP
+- - A-8. Can you make do with that for a
+minute?
+00 00 36 13
+LMP
+Yes. I ...
+00 00 36 14
+CMP
+Until I get - Okay, have you got ORDEAL - You
+got ORDEAL mounted?
+00 00 36 22
+CDR
+I- - I have ORDEAL mounted.
+00 00 36 24
+CMP
+There we go.
+00 00 36 25
+LMP
+Okay - -
+00 00 36 26
+CMP
+I got to get - -
+00 00 36 27
+LMP
+- - right after - When did we insert, gang?
+Twelve something?
+00 00 36 31
+CDR
+12:32 ...
+00 00 36 33
+LMP
+Okay. I'm looking for where I put the first
+line heater on, so it was roughly about 14
+minutes. We've been - we've been 20 minutes.
+Yes. ... Okay ...
+00 00 36 43
+CDR
+Don't forget I still got the radiators bypassed
+here.
+00 00 36 45
+LMP
+Yes. Okay, what I need though, Jim, is to We
+got to pump up the You want to - Let's finish
+that item. I need to pump up the accumulator a
+little bit. I mean use the accumulator to -
+Yes - to get it up to 50 percent.
+CONFIDENT
+L
+
+--- PAGE 24 ---
+21
+Day 1
+00 00 36 58
+CDR
+Okay, you tell me what you want me to do here
+and I'll -
+00 00 37 01
+LMP
+Can you reach the PRIM ACCUM FILL valve, right
+there on your left?
+00 00 37 05
+CDR
+I'll try.
+00 00 37 07
+LMP
+Yes, that's the PRIMARY. How are you doing,
+Jack?
+00 00 37 11
+CMP
+Okay.
+00 00 37 12
+LMP
+My countdown under way already?
+00 00 37 13
+CMP
+Yes. But, you want to have a few
+?
+00 00 37 19
+LMP
+Yes.
+00 00 37 32
+CDR
+Okay, I'm putting the cable for you.
+00 00 37 39
+LMP
+Excuse me a second; I want to ... the °2 flow.
+Okay. Looks good. But if we get a MASTER ALARM,
+it'll come on with the H₂. Okay? Fuel cell 2.
+0₂ flow.
+00 00 37 56
+SC
+00 00 37 57
+LMP
+When it comes up flow, the H₂ banks up there
+like crazy. Looks like the simulator. The 2
+isn't like the simulator. Yes, it gets up there
+real slow. That old H₂ - Stand by for another
+MASTER ALARM. It banked up there like nothing
+flat. Okay. They're all back down to - -
+00 00 38 20
+CMP
+Before I get the - -
+00 00 38 21
+LMP
+- - normal.
+00 00 38 22
+CMP
+-- TSBs out, can I get P52
+...
+program start?
+00 00 38 27
+CDR
+Yes. Go ahead.
+00 00 38 28
+LMP
+Yes.
+
+--- PAGE 25 ---
+22
+ONFIDEN
+Day 1
+00 00 38 29
+CDR
+Get it to cover one that that doesn't
+00 00 38 31
+CMP
+Yes. I'll
+...
+00 00 38 34
+MS
+...
+00 00 38 35
+CDR
+That's the fourth, Jack. Better do that.
+00 00 38 37
+LMP
+Okay. It's all optic tracking. I've done that.
+ZERO ... G&N POWER OPTICS, on, up. OPTICS MODE,
+MANUAL. ... DIRECT HIGH. OHC, MAX right.
+00 00 39 01
+CDR
+Okay, do I have a tool there someplace? Can I
+use an E tool?
+00 00 39 09
+LMP
+...
+00 00 39 11
+CDR
+You got it uncovered?
+00 00 39 13
+LMP
+Got tool E?
+00 00 39 14
+CDR
+Yes, until I get that up for a fit.
+00 00 39 15
+LMP
+Okay ...
+00 00 39 17
+CDR
+Now, Fred, what do you want me to do?
+00 00 39 19
+LMP
+Okay, next - next thing is to - ...
+back -
+page - I need to find the ... fuel valve on.
+You can't take your eye off it. I got him
+out the window. Is that it? I got the
+airglow there.
+00 00 39 43
+CDR
+Okay.
+00 00 39 52
+LMP
+Make sure you get the right one, Jim. PRIMARY
+ACCUM - -
+00 00 39 54
+CDR
+Yes. I got it - I got I got my If I can
+get my hand down there, I got it made.
+00 00 40 01
+CMP
+Let me know when you turn them on. I only need
+about 5 percent; I don't need much.
+00 00 40 13
+CDR
+Okay. Coming ON.
+ONFIDE
+AL
+
+--- PAGE 26 ---
+Day 1
+23
+00 00 40 17
+CMP
+Good.
+That's good.
+...
+OFF.
+00 00 40 19
+CDR
+OFF.
+00 00 40 20
+CMP
+Okay, let me look a minute, here; I have to
+stabilize.
+00 00 40 23
+LMP
+...
+up there.
+00 00 40 25
+CMP
+Okay. About one more shot.
+00 00 40 27
+CDR
+...
+00 00 40 31
+CMP
+...
+slowly, that really
+...
+00 00 40 32
+CDR
+Okay, how's that?
+00 00 40 33
+CMP
+That's good. OFF.
+00 00 40 35
+LMP
+...
+back down there
+...
+go to OFF.
+00 00 40 38
+CMP
+It's right at 50, though; the hell with it,
+that's good.
+00 00 40 40
+CDR
+Is it good?
+00 00 40 41
+CMP
+Yes; that's about 49.9.
+00 00 40 45
+CDR
+Okay.
+00 00 40 46
+CMP
+It is definitely OFF, right?
+00 00 40 47
+CDR
+Yes.
+00 00 40 49
+CMP
+ECS RAD CONTROL; let me go to POWER. Okay,
+PRIM GLYCOL TO RADs out, Jim; NORMAL, push -
+NORMAL, push in.
+00 00 40 59
+CDR
+Okay.
+00 00 41 03
+CMP
+Oh, I know - Hey, how about giving me - - Do I
+have G&N POWER at 8:21?
+00 00 41 07
+LMP
+Yes, sir.
+00 00 41 08
+CMP
+Okay.
+
+--- PAGE 27 ---
+24
+ONFIDEN
+Day 1
+00 00 41 09
+LMP
+You got it.
+00 00 41 10
+CMP
+Okay.
+00 00 41 12
+LMP
+I'll get it ready for you
+...
+stars out there.
+00 00 41 20
+CMP
+I've got a star in the - -
+00 00 41 22
+CDR
+Sextant?
+00 00 41 23
+CMP
+- - sextant, but I have nothing in the -
+00 00 41 26
+CDR
+Well, it might take awhile to do it with the
+scanning telescope, because your eyes have to
+get accustomed to it. It might not be where
+there are stars.
+00 00 41 36
+CMP
+Well, I've got one in the - I've got one in the -
+00 00 41 40
+CDR
+What star did you pick?
+00 00 41 43
+CMP
+24.
+00 00 41 44
+CDR
+24, that's - Gienah. Is it right on in the
+sextant?
+00 00 41 52
+CMP
+...
+00 00 41 54
+LMP
+Okay, while you got the tool and you're over
+there, Jim, do you think you could get the
+secondary RAD loop check done?
+00 00 41 59
+CDR
+Yes.
+00 00 42 00
+LMP
+That's the guy way down there, the very -
+00 00 42 04
+CMP
+-
+00 00 42 05
+CDR
+We'll run through it, Jack, if you could -
+00 00 42 10
+CMP
+...
+00 00 42 14
+CDR
+Mark it
+... Okay, GLYCOL TO RADIATOR, SECONDARY?
+00 00 42 18
+CMP
+CONFIDENTIAL
+
+--- PAGE 28 ---
+Day 1
+CONFIDENTIAL
+25
+00 00 42 19
+LMP
+Yes, but it's to - RAD NORMAL. Let me know
+when. I'll start my watch.
+00 00 42 28
+CMP
+Hey, there - there we go. Now I got stars. I
+don't think they ... until just now.
+00 00 42 34
+CDR
+Okay, I'm going to take her to NORMAL now.
+00 00 42 36
+CMP
+Beautiful, gang.
+00 00 42 37
+LMP
+All right.
+00 00 42 39
+CDR
+Oh, I don't know if I did it or not.
+00 00 42 41
+LMP
+You - you turned it?
+00 00 42 42
+CDR
+I don't think so, I think ... right in there.
+00 00 42 44
+CMP
+Spica's right in there, you guys.
+00 00 42 48
+LMP
+Okay.
+00 00 42 50
+CDR
+I- You know, I can get down there good, but
+I'm always on -
+00 00 42 54
+LMP
+Well, you'd know if you got the screw in the
+slot.
+00 00 42 59
+CDR
+Okay, now.
+00 00 43 01
+LMP
+Okay. Starting my watch. It's on SECONDARY.
+00 00 43 03
+CDR
+No, it's NORMAL now.
+00 00 43 04
+LMP
+Okay, you've got to leave it there for 30
+seconds.
+00 00 43 06
+CDR
+Okay. Could you tell?
+00 00 43 11
+LMP
+What's that?
+00 00 43 12
+CDR
+Could you tell?
+00 00 43 13
+LMP
+Tell what?
+00 00 43 14
+CDR
+That I'm in NORMAL?
+
+--- PAGE 29 ---
+26
+CONFIDENTIAL
+Day 1
+00 00 43 15
+LMP
+Yes.
+00 00 43 26
+CMP
+...
+Good old Antares.
+00 00 43 33
+LMP
+Okay, that's it; put it back to close or off or
+wherever it - -
+00 00 43 36
+CDR
+BYPASS.
+00 00 43 37
+LMP
+BYPASS.
+Good.
+...
+BYPASS?
+00 00 43 40
+CDR
+... BYPASS.
+00 00 43 41
+CMP
+Well, he didn't show anything ...
+-
+-
+00 00 43 43
+CDR
+Okay, how is it? Okay?
+00 00 43 44
+CMP
+Yes. Looks good.
+00 00 43 46
+LMP
+Okay, I'm on page 2-14; coming up to EPS monitor
+check - -
+00 00 43 50
+CDR
+Okay, just be sure you -
+00 00 43 51
+LMP
+- - EPS. Checking them off.
+00 00 43 53
+CDR
+Check them all off, and ... -
+00 00 43 56
+LMP
+You got to do a GDC aline -
+00 00 43 58
+CDR
+I'll do that right now.
+00 00 43 59
+LMP
+You've got the sequence camera bracket and the
+ORDEAL, right?
+00 00 44 02
+CDR
+And those are all mounted, and we're all
+running on - -
+00 00 44 04
+LMP
+Okay, ORDEAL - -
+00 00 44 05
+CMP
+Hey, guys? Sorry.
+00 00 44 07
+LMP
+...
+00 00 44 08
+CDR
+Yes. Okay, better record this down ...
+-
+-
+IONFIDENTIAL
+
+--- PAGE 30 ---
+Day 1
+CONFIDENTIAL
+27
+00 00 44 10
+CMP
+I ain't got - I ain't going to let that pass,
+man - -
+00 00 44 13
+CDR
+No?
+00 00 44 14
+CMP
+-
+-
+...
+triangle bigger than hell.
+00 00 44 15
+CDR
+I'll give you a gold gold star.
+00 00 44 19
+LMP
+...
+got all that in your book, Jack?
+00 00 44 21
+CMP
+Yes. I'm going to write it on a
+...
+here.
+00 00 44 22
+LMP
+Okay.
+00 00 44 23
+CDR
+I'll do a GDC aline now, Fred.
+00 00 44 25
+LMP
+Okay. Now I'm here, I'm going to go ahead and
+...
+the secondary loop. Okay, SECONDARY LOOP
+is coming on line, gang; AC 1 -
+00 00 44 37
+CMP
+Okay. Do we have to wait for MSFN to torque
+this?
+00 00 44 40
+LMP
+That's that little extra whining you
+hear, and it's the SECONDARY LOOP.
+00 00 44 43
+CDR
+Okay.
+00 00 44 46
+LMP
+Okay.
+...
+go to the
+...
+00 00 44 49
+CDR
+I can see the sludges in the ...
+burn.
+00 00 44 53
+LMP
+Yes.
+00 00 44 56
+CMP
+Damn!
+Sort of lost him.
+00 00 45 01
+LMP
+Okay. So that one is done, done - -
+00 00 45 04
+CMP
+Okay -
+00 00 45 05
+LMP
+- - done, done, done to there - -
+00 00 45 06
+CMP
+Jim?
+00 00 45 07
+CDR
+Stand by.
+
+--- PAGE 31 ---
+28
+CONFIDE
+L
+Day 1
+00 00 45 08
+CMP
+Do I need a - to get MSFN? I don't need them
+to torque here, do I?
+00 00 45 13
+CDR
+I don't think so - - Wait Where are the torquing
+angles ?
+00 00 45 16
+CMP
+I've got the torquing angles; let's see - ... -
+and it's 0.162 which is quite a bit less than -
+...
+00 00 45 40
+LMP
+Okay, Jack, did you ever get my MAIN B breaker
+in down there?
+00 00 45 44
+CMP
+Yes, I did, in your COAS?
+00 00 45 45
+LMP
+Yes.
+00 00 45 46
+CMP
+MAIN B? I did.
+00 00 45 47
+LMP
+Yes. That's right.
+00 00 45 48
+CMP
+That's done.
+00 00 45 49
+LMP
+And - let me verify that the RADs and REACS CB
+sticks are out, and off.
+00 00 45 53
+CMP
+Okay. ...
+00 00 45 56
+LMP
+Okay. I'll verify the MAIN BUS TIES are OFF -
+00 00 45 59
+CDR
+GDC's alined. 46 now. How we doing on the
+time line, Fred?
+00 00 46 06
+LMP
+Let's see, we're not we're coming up 6 min-
+utes - What we got to do is get the cameras -
+get the TV camera out next. We're about fixed.
+00 00 46 18
+CDR
+Okay
+00 00 46 19
+LMP
+01:05 is when I got to start playing with the TV.
+00 00 46 22
+CDR
+Okay.
+00 00 46 23
+LMP
+After we get our HSK LOS.
+00 00 46 26
+CMP
+...
+CONFIDE
+
+--- PAGE 32 ---
+29
+Day 1
+00 00 46 28
+CDR
+If you have time, I would suggest that you
+adjust your straps and strap it in again for
+TLI - just to make sure you got them okay.
+00 00 46 40
+LMP
+Okay. Still pressing on in here, and Jack's
+got to do that
+;
+I'll circle it.
+00 00 46 47
+CMP
+Okay, what do you have to do?
+00 00 46 48
+LMP
+The RADs and REAC breakers, six of them, out
+...
+00 00 46 55
+CMP
+RAD, REAC, REAC, REAC Okay, I can verify three
+RADs and three REACs out.
+00 00 47 03
+LMP
+Okay, good show.
+00 00 47 17
+LMP
+MAIN A 1 - - MAIN A 2 -
+00 00 47 34
+LMP
+Okay. Bus voltage
+...
+00 00 47 43
+CDR
+And, Jack, you want to put tool E down there
+on the handhold - toward the handhold?
+00 00 47 47
+LMP
+Yes. I haven't got
+...
+00 00 47 50
+CMP
+Yes. I think I can get closer than that and
+...
+00 00 47 53
+CDR
+Yes, that's right
+...
+00 00 47 56
+LMP
+Okay.
+00 00 47 59
+CDR
+Okay, I've got the horizon out there and I've
+got the airglow layer.
+...
+00 00 48 12
+LMP
+Okay, and we got the relay bus selected ...
+-
+I got to get this TSB
+...
+Okay, item 15's
+done. And that makes one outstanding item, and
+I've got a couple from a few pages back.
+00 00 48 31
+CDR
+Okay.
+00 00 48 32
+LMP
+Right there. Unstow and mount TSBs - they're
+in A-1.
+...
+down below. Hey, where do these -
+these guys go? They go right in the pocket of
+this L-shaped bag, don't they?
+00 00 48 47
+CMP
+...
+water wings.
+
+--- PAGE 33 ---
+CONFIDEN
+L
+Day 1
+30
+00 00 48 51
+CDR
+I thought they went right behind you.
+00 00 48 53
+LMP
+Right there - Yes.
+00 00 48 54
+CDR
+Oh, yes.
+...
+pockets.
+00 00 48 59
+LMP
+Okay. I'm up the
+...
+monitor -
+...
+look good -
+H₂ flow
+-
+00 00 49 26
+CDR
+Okay, I ought to be getting down there -
+...
+How you doing, Jack?
+00 00 49 34
+CMP
+Good. Hey, how about that - Do you need - that
+SECONDARY RAD valve?
+00 00 49 40
+CDR
+I got it.
+00 00 49 42
+CMP
+You got it already; okay.
+00 00 49 43
+CDR
+We got the secondary - we made the secondary
+check; the filters finally came out a little
+bit - -
+00 00 49 46
+LMP
+You did the
+...
+00 00 49 48
+CDR
+- - and the ORDEAL's already out; the COAS is - -
+00 00 49 50
+CMP
+You got it running?
+00 00 49 51
+CDR
+-
+-
+...
+little COAS
+00 00 49 55
+CMP
+Hey, Fred-o?
+...
+that TSB.
+Okay?
+00 00 49 58
+LMP
+...
+We're going to need it.
+00 00 50 00
+CMP
+Jim, do you need a TSB?
+00 00 50 02
+CDR
+...
+a big one. Let's see; where did we stow
+TSBs? We want to
+...
+00 00 50 11
+LMP
+Here it is.
+00 00 50 17
+CDR
+Jack, whenever you get time, if you - want to
+slow down a little bit, well, just come back
+and we'll take these - lifevests off and get
+this stowed out of the way.
+CONFIDE
+AL
+
+--- PAGE 34 ---
+Day 1
+31
+00 00 50 26
+CMP
+Okay. I'll be ready to do it whenever you -
+00 00 50 46
+CDR
+Once you get one of them in -
+00 00 50 53
+LMP
+How you doing, Jack?
+all right down there?
+00 00 50 56
+CMP
+Oh, yes. No problems yet.
+kind of worried
+...
+12.1 down
+00 00 51 07
+CDR
+Well, I wouldn't worry about it now.
+go
+down yet. You're not getting those breakers;
+that's what you're forgetting.
+00 00 51 16
+LMP
+The - Okay, now where - those - you want those
+where?
+00
+00
+51
+20
+CMP
+In front of the L-shaped bag, isn't it?
+00 00 51 21
+CDR
+In front of the L-shaped bag is - Why don't you
+go down there and help him?
+00 00 51 25
+LMP
+Wait a minute, Jack; you don't go - I don't
+think you go that way to get through.
+00 00 51 28
+CDR
+I think you come right down here, Jack, but -
+Yes, there is - there's a
+-
+-
+00 00 51 31
+CMP
+Yes, but that's a long, long way to go.
+00
+00
+51
+32
+CDR
+- - there's a
+00 00 51 34
+LMP
+Okay, you do that - and I'm going to get the
+Hasselblad out for - this.
+00 00 51 38
+CDR
+Okay, now, if my - my hand controller is locked
+and yours is locked - I'll tell you what, if
+you can help me scootch over here a second - -
+00 00 51 45
+LMP
+Yes.
+00
+00
+51
+47
+CDR
+- - I'll try and -
+00 00 51 49
+LMP
+Okay, I'll put my
+Jim.
+,
+00 00 51 51
+CDR
+Okay. Okay.
+00 00 51 54
+CMP
+Okay, I want to go back and see what - I've got
+
+--- PAGE 35 ---
+ONFIDENTIA
+32
+Day 1
+to get the TV camera and the Hasselblad out,
+and - -
+00 00 52 00
+LMP
+I think we ought to be having AOS, gang; we've
+got - -
+00 00 52 02
+CDR
+56 seconds.
+00 00 52 04
+LMP
+Okay. I - - Let me call them.
+00 00 52 11
+LMP
+Look at me, Jack; I show gain.
+00 00 52 13
+CMP
+You show gain?
+00 00 52 14
+LMP
+Yes.
+00 00 54 35
+LMP
+How you doing?
+00 00 54 36
+CDR
+I got
+...
+You got to get it when you're going
+by.
+00 00 54 39
+LMP
+Okay.
+00 00 54 40
+CMP
+Yes, I've got - got it in my helmet bag right
+now.
+00 00 54 43
+CDR
+Oh, okay, good.
+00 00 54 49
+CMP
+Boy, I'll tell you, that really bothers me
+...
+00 00 54 54
+CDR
+Does it
+?
+Did you put it over far enough?
+00 00 54 57
+CMP
+Yes, that's where it went - when
+...
+It's
+looking good
+and I don't think they
+jettison until
+...
+00 00 55 05
+CDR
+Oh.
+00 00 55 08
+CMP
+Okay. Now I've got to get the TV camera
+...,
+Fred-o - -
+00 00 55 11
+CDR
+Okay.
+00 00 55 12
+CMP
+: I 1
+00 00 55 13
+CDR
+You want to hand me that book, and I'll take a
+look in it.
+CONFIDE
+
+--- PAGE 36 ---
+33
+Day 1
+00 00 55 15
+CMP
+Yes. And also see if I've - all the things that
+I've done, because I haven't checked them
+off a couple of places.
+00 00 55 29
+CMP
+Hey, Fred, what do you want first, TV camera?
+00 00 55 32
+LMP
+Yes. Just one more - Let me get through one
+more system.
+00 00 55 39
+CMP
+That's off. That
+...
+right down
+...
+on the
+bulkhead.
+00 00 55 43
+LMP
+You get done, you're hooking up the cable. You
+got to do that part, though. We can't ... right
+there.
+00 00 55 48
+CMP
+All right. And I'll verify the CB power is
+off -
+00 00 55 50
+LMP
+... off.
+00 00 55 53
+CDR
+I'm going to go back into the -
+...,
+Jack; and
+look at
+...
+00 00 55 59
+CMP
+Okay.
+00 00 56 00
+CDR
+...
+00 00 56 02
+CMP
+Fred-o, you - How about a bracket?
+00 00 56 04
+LMP
+Well.
+00 00 56 11
+CMP
+Okay, that's
+...
+TIME SKIP
+00 01 04 58
+LMP
+Okay, Joe, I just wanted to - put on the TV
+switch at Honeysuckle to tune her up there.
+00 01 05 18
+CDR
+Fred, I'll read the pads, or you read the pads,
+or somebody read the pads.
+00 01 05 22
+CMP
+Hey, can I get a - a TV
+?
+00 01 05 29
+LMP
+Oh, yes, Jack. LOS Carnarvon.
+00 01 05 35
+CDR
+Okay. 1:45, 75 ... LOS at - ...
+
+--- PAGE 37 ---
+34
+CONFIDENTIAL
+Day 1
+00 01 05 51
+CDR
+Okay, coming up.
+...
+00 01 06 07
+CDR
+Fred, I'll get them when we get all relaxed.
+I'll do that
+...
+00 01 06 14
+CMP
+...
+00 01 06 20
+CDR
+Hey, Jack, ...
+00 01 06 25
+LMP
+...
+00 01 06 33
+CMP
+Yes, I can yes, I can do it, Fred-o.
+...
+TIME SKIP
+00 02 34 28
+CMP
+... now?
+00 02 34 30
+LMP
+...
+00 02 34 32
+CMP
+... 59 - ...
+00 02 34 49
+CDR
+What was this ?
+00 02 34 52
+LMP
+...
+00 02 34 58
+CMP
+... and what are your FDAI angles ...?
+00 02 35 01
+CDR
+...
+00 02 35 03
+CMP
+Okay, 59 - ...?
+00 02 35 05
+CDR
+...
+00 02 35 11
+CMP
+Okay, I've got 59 and 30. How's that? Okay?
+00 02 35 27
+CMP
+... the burn, ...
+00 02 35 29
+CDR
+...
+00 02 35 34
+CMP
+Okay. ... burning, Jim.
+00 02 35 37
+CDR
+Okay. Here, I'll get out the
+...
+00 02 35 40
+CMP
+...
+00 02 35 45
+LMP
+...
+CONFIDENT
+L
+
+--- PAGE 38 ---
+Day 1
+35
+00 02 35 46
+CMP
+Burning!
+00 02 35 48
+CDR
+Okay. Watch that -
+00 02 35 50
+CDR
+IGNITION, Houston.
+00 02 35 54
+CC
+Copy that, Jim. Good deal.
+00 02 35 56
+CMP
+Okay.
+pitching her down a little bit, right
+here.
+00 02 36 00
+CDR
+There you go.
+00 02 36 04
+CMP
+Is that all right?
+00 02 36 05
+CDR
+Okay, you watch the - trajectory thrust?
+00 02 36 09
+CMP
+Yes.
+00 02 36 25
+CMP
+burned 14-second velocity VI and
+00 02 36 46
+CDR
+?
+00 02 36 47
+CMP
+It's right on VI; we're right on VI"
+00 02 36 55
+CDR
+Got both up?
+00 02 36 58
+LMP
+We got to leave these open.
+00 02 37 06
+CMP
+Okay, 01:30.
+Three minutes and - -
+00 02 37 07
+LMP
+0.75.
+00 02 37 09
+CMP
+...
+00 02 37 17
+CMP
+Right on - right on;
+...
+little bit higher
+...
+00 02 37 30
+CDR
+...
+00 02 37 35
+CMP
+...
+00 02 37 37
+CDR
+Watch the
+...
+00 02 37 44
+LMP
+Okay, Jim, it's 2 minutes
+...
+00 02 37 51
+CDR
+Houston, everything looks okay so far.
+
+--- PAGE 39 ---
+36
+ONFIDENT
+Day 1
+00 02 37 55
+CC
+Houston; Roger.
+00 02 38 06
+CMP
+Okay; we got 02:30 coming ..., Jim?
+00 02 38 17
+CMP
+Right on ... Right on H-dot; we're right on 8.
+00 02 38 31
+CMP
+Three minutes -
+00 02 38 47
+CMP
+...
+00 02 38 48
+CDR
+All right.
+00 02 39 02
+CMP
+3:30, Jim. 3.4.
+00 02 39 06
+CDR
+3.4. Okay.
+00 02 39 17
+CMP
+Okay. We're right on.
+00 02 39 19
+CDR
+Okay. ...
+00 02 39 27
+CMP
+Okay, at 4 minutes. ...
+00 02 39 36
+LMP
+...?
+00 02 39 38
+CDR
+Okay.
+00 02 39 42
+CDR
+Okay, we'll hold this down; we've got a little
+vibration.
+00 02 39 45
+LMP
+...
+00 02 39 47
+CDR
+Yes.
+00 02 39 57
+CDR
+No, ... thousand, 200 ...
+00 02 40 06
+MS
+...
+00 02 40 07
+CMP
+We're looking at 4 point ... -
+00 02 40 09
+CDR
+4 point ..., okay.
+00 02 40 16
+CMP
+Right on at 30. A little bit high.
+00 02 40 24
+LMP
+And, Houston, we're noticing a little vibration
+during this burn.
+CONFIDENTIAL
+
+--- PAGE 40 ---
+Day 1
+37
+00 02 40 37
+LMP
+Five minutes ... 4.6.
+00 02 40 41
+CDR
+Okay.
+00 02 40 46
+CMP
+a hundred
+...
+...
+00 02 40 50
+CDR
+Okay.
+00 02 40 51
+CMP
+H-dot is a little high
+...
+00 02 40 54
+CDR
+Okay.
+00 02 40 59
+LMP
+5:30 - 5 point - - ... the same countdown, Jack,
+and then start counting up.
+00 02 41 06
+CMP
+Okay.
+00 02 41 07
+LMP
+...
+00 02 41 08
+CMP
+... VI ...
+00 02 41 11
+CDR
+...
+00 02 41 15
+LMP
+Five seconds.
+00 02 41 16
+CMP
+Five ..., okay.
+00 02 41 19
+CDF
+Better get
+...
+00 02 41 22
+CMP
+5.0. ...
+00 02 41 28
+CDR/CMP/ 5 - -
+LMP
+00 02 41 29
+LMP
+4, 3, 2, 1 - 1, 2, 3, 4 -
+00 02 41 34
+LMP
+Okay.
+00 02 41 38
+CDR
+ENGINE OFF.
+...
+00 02 41 39
+LMP
+...
+is three-quarter overburn.
+00 02 41 42
+CC
+Copy. Engine off.
+00 02 41 44
+LMP
+Freeze the DSKY.
+00 02 41 45
+CMP
+I did.
+
+--- PAGE 41 ---
+38
+CONFIDENTIAL
+Day 1
+00 02 41 46
+LMP
+Okay, and now we'll - -
+00 02 41 49
+LMP
+Okay, Jim, it's SCS TVC SERVO POWER 1, OFF.
+00 02 41 52
+CDR
+l's OFF.
+00 02 41 53
+LMP
+PCM BIT RATE, I got LOW. EMS MODE - Wait, let
+Jack get it. Minus 3.0.
+00 02 41 57
+CMP
+Boy, beautiful.
+00 02 41 58
+LMP
+You got that, Jack?
+00 02 41 59
+CMP
+Yes.
+00 02 42 00
+LMP
+EMS MODE to STANDBY?
+00 02 42 01
+CMP
+...
+00 02 42 03
+CDR
+EMS MODE to STANDBY.
+00 02 42 04
+LMP
+STANDBY. FUNCTION, OFF.
+00 02 42 06
+CDR
+FUNCTION, OFF.
+00 02 42 07
+LMP
+SEQUENCE PYRO ARM, two, SAFE.
+00 02 42 08
+CDR
+SEQUENCE PYRO ARM, two, SAFE.
+00 02 42 09
+CMP
+That's a , too.
+00 02 42 12
+CDR
+Okay.
+00 02 42 13
+LMP
+Okay. SEQUENCE - FDAI 1, INERTIAL.
+00 02 42 18
+CDR
+FDAI 1 going INERTIAL.
+00 02 42 20
+LMP
+And lock your hand controller.
+00 02 42 22
+CDR
+Hand controller is locked.
+00 02 42 24
+LMP
+Okay, Jack, you clean up the DSKY and eventually
+get the POO.
+00 02 42 27
+CC
+...
+we'll have you through Hawaii in 3 minutes.
+00 02 42 30
+CDR
+Roger. Through Hawaii in 3 minutes.
+CONFIDENTIA
+
+--- PAGE 42 ---
+CONFIDENTIM
+39
+Day 1
+00 02 42 33
+LMP
+Okay.
+00 02 42 34
+CMP
+Okay -
+00 02 42 35
+LMP
+So we're standing by until Jack gets through
+that - jazz -
+00 02 42 38
+CDR
+How does that look, Jack?
+00 02 42 40
+CMP
+Looks good.
+00 02 42 45
+LMP
+Okay, it's a VERB 66 ENTER, Jack, after you
+get - after you get the POO. Wait until you
+get that.
+00 02 42 52
+CMP
+...
+00 02 42 57
+LMP
+Okay, now you all switch - En route, Jack, you
+got to do a couple of things.
+00 02 43 07
+CDR
+In Hawaii, we'll get their ... - -
+00 02 43 12
+CMP
+Okay. You - let me put this - put this up
+under here - -
+00 02 43 17
+LMP
+Okay.
+00 02 43 18
+CDR
+And we'll have to switch COMM carriers SO I
+can take this suit stuff off.
+00 02 43 20
+LMP
+Yes. We'll have to take the suit power off.
+00 02 43 23
+CDR
+Yes. And we'll - -
+00 02 43 24
+LMP
+And what would be nice for you to do, Jack, if
+you can - -
+00 02 43 27
+CMP
+Okay. What do you want me to do?
+00 02 43 28
+LMP
+- - is, first of all, WASTE STOWAGE VENT valve,
+CLOSED.
+00 02 43 30
+CMP
+Okay. I'll do that right now.
+00 02 43 38
+LMP
+I've got the HIGH GAIN POWER, OFF, and I'm
+getting . I've got those two breakers in on 225.
+WASTE STOWAGE VENT valve is CLOSED.
+
+--- PAGE 43 ---
+40
+CONFID
+Day 1
+00 02 43 44
+CMP
+CLOSED.
+00 02 43 45
+LMP
+Now, get the TV camera out from under there, will
+you?
+00 02 43 47
+CMP
+Okay.
+00 02 43 48
+LMP
+And I'll be dickering with that -
+00 02 43 51
+CMP
+... -
+00 02 43 52
+LMP
+...
+00 02 43 54
+CMP
+TV camera's - -
+00 02 43 57
+LMP
+Thank you. May as well get me the monitor and
+all that jazz.
+00 02 44 00
+CMP
+I'll go do that now.
+00 02 44 02
+LMP
+And the bracket. I'll be fiddling and getting
+this baby ready.
+00 02 44 06
+CMP
+One bracket.
+00 02 44 08
+LMP
+Thank you.
+00 02 44 27
+CMP
+Okay, Fred-o, now here's the monitor.
+00 02 44 37
+LMP
+Okay. Got a - - Thank you. Okay.
+...
+00 02 44 53
+LMP
+Okay. Okay. The ... are off - done.
+00 02 45 14
+CDR
+Stand by.
+...
+00 02 45 21
+CMP
+It's funny.
+00 02 45 25
+CDR
+Okay, my SUIT POWER's going OFF - -
+00 02 45 28
+CC
+... - -
+00 02 45 29
+CDR
+-
+-
+... you got COMM - -
+00 02 45 30
+CC
+- - through Hawaii. Over.
+00 02 45 32
+CDR
+Roger, Houston; 13 through Hawaii. How do you
+read?
+CONFIDENTIAL
+
+--- PAGE 44 ---
+Day 1
+CONFIDENTIAL
+41
+00 02 45 37
+CC
+13, Houston. You're weak but clear; it'll
+probably get better in a second. We're
+standing by for the burn report.
+00 02 45 43
+CDR
+Roger. Jack, we need the burn report just
+briefly.
+00 02 45 45
+CMP
+Okay.
+00 02 45 46
+LMP
+Here, I'll get it.
+END OF TRANSCRIPTION
+NASA — MSC - Coml., Houston, Texas
