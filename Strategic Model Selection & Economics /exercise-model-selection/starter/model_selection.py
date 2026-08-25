@@ -1,3 +1,4 @@
+#بسم الله الرحمن الرحيم
 # Model Selection Exercise - Starter Template
 # TODO: Complete this script to compare different LLM configurations for specific tasks
 
