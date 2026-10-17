@@ -1,0 +1,47 @@
+{
+  "answer_note": "Expected answers are model-written examples grounded in the supplied mission documents. They are not outputs from a live OpenAI run.",
+  "questions": [
+    {
+      "category": "overview",
+      "mission": "apollo_11",
+      "question": "What were the main objectives of Apollo 11?",
+      "expected_answer": "Apollo 11's primary objective was to land astronauts on the Moon and return them safely to Earth. Armstrong and Aldrin explored the surface, deployed experiments, and collected lunar samples while Collins remained in lunar orbit. The mission report records that the objective was accomplished.",
+      "source_basis": "NASA_NTRS_Archive_19710015566_textract_full_text.txt"
+    },
+    {
+      "category": "emergency",
+      "mission": "apollo_13",
+      "question": "What happened during the Apollo 13 oxygen tank emergency, and how did the crew respond?",
+      "expected_answer": "After a loud bang, the crew reported a Main B bus undervolt and changing oxygen readings. The crew and Mission Control worked through power and fuel-cell procedures, abandoned the lunar landing, and considered the Lunar Module as a lifeboat. Apollo 13 returned to Earth and splashed down in the Pacific on April 17.",
+      "source_basis": "AS13_TEC_textract_full_text.txt; AS13_PAO_textract_full_text.txt"
+    },
+    {
+      "category": "disaster analysis",
+      "mission": "challenger",
+      "question": "What do the Challenger mission records say happened during the final launch sequence?",
+      "expected_answer": "The transcript records main-engine start and Challenger's liftoff at 11:38 a.m. Eastern. Controllers initially described the ascent as normal; about 73 seconds after launch, they reported a major malfunction, loss of downlink, and then reports that the vehicle had exploded and impacted the water. The transcript does not establish the cause.",
+      "source_basis": "108-AAG_STS-51L_Mission_Audio_transcript.txt"
+    },
+    {
+      "category": "crew",
+      "mission": "apollo_11",
+      "question": "Who made up the Apollo 11 crew, and what roles did they have?",
+      "expected_answer": "The crew was Neil Armstrong, mission commander; Michael Collins, command module pilot; and Edwin (Buzz) Aldrin, lunar module pilot. Armstrong and Aldrin landed on and explored the Moon, while Collins remained with the Command Module in lunar orbit.",
+      "source_basis": "NASA_NTRS_Archive_19710015566_textract_full_text.txt; 19900066485_textract_full_text.txt"
+    },
+    {
+      "category": "technical",
+      "mission": "apollo_11",
+      "question": "What technical checks or procedures are described before Apollo 11's lunar descent?",
+      "expected_answer": "The mission report says the Lunar Module systems checkout was satisfactory. Armstrong and Aldrin entered the Lunar Module to prepare for descent, undocked from the Command and Service Module at about 100 hours ground elapsed time, and performed descent-orbit insertion at about 101.5 hours. Powered descent began roughly an hour later; guidance and descent propulsion were reported nominal, with Armstrong manually adjusting the final approach before landing.",
+      "source_basis": "NASA_NTRS_Archive_19710015566_textract_full_text.txt; Apollo_11_Flight_Plan_HSK_textract_full_text.txt"
+    },
+    {
+      "category": "timeline",
+      "mission": "apollo_13",
+      "question": "Give a brief timeline of the major Apollo 13 events from the oxygen tank failure through the safe return.",
+      "expected_answer": "Apollo 13 launched on April 11, 1970. On April 13, the crew reported a bang and a Main B bus undervolt, followed by oxygen and fuel-cell problems. The landing attempt was abandoned and the Lunar Module was used as a lifeboat during the return trajectory. The Command Module re-entered and the crew splashed down safely in the Pacific on April 17.",
+      "source_basis": "AS13_TEC_textract_full_text.txt; AS13_PAO_textract_full_text.txt"
+    }
+  ]
+}

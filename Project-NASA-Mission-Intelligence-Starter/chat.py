@@ -43,7 +43,7 @@ def initialize_rag_system(chroma_dir: str, collection_name: str):
     """Initialize the RAG system with specified backend (cached for performance)"""
 
     try:
-       return rag_client.initialize_rag_system(chroma_dir, collection_name)
+       return rag_client.initialize_rag_system(chroma_dir, collection_name), True, None
     except Exception as e:
         return None, False, str(e)
 
@@ -125,6 +125,8 @@ def main():
         with st.spinner("Discovering ChromaDB backends..."):
             available_backends = discover_chroma_backends()
         
+        available_backends = {key: value for key, value in available_backends.items()
+                              if value.get("collection_name")}
         if not available_backends:
             st.error("No ChromaDB backends found!")
             st.info("Please run the embedding pipeline first:\n`python run_text_embedding.py`")
@@ -156,6 +158,7 @@ def main():
             st.warning("Please enter your OpenAI API key")
             st.stop()
         else:
+            os.environ["OPENAI_API_KEY"] = openai_key
             os.environ["CHROMA_OPENAI_API_KEY"] = openai_key
         
         # Model selection
@@ -168,6 +171,11 @@ def main():
         # Retrieval settings
         st.subheader("🔍 Retrieval Settings")
         n_docs = st.slider("Documents to retrieve", 1, 10, 3)
+        mission_filter = st.selectbox(
+            "Mission filter",
+            options=["all", "apollo_11", "apollo_13", "challenger"],
+            format_func=lambda value: "All missions" if value == "all" else value.replace("_", " ").title(),
+        )
         
         # Evaluation settings
         st.subheader("📊 Evaluation Settings")
@@ -214,7 +222,8 @@ def main():
                 docs_result = retrieve_documents(
                     collection, 
                     prompt, 
-                    n_docs
+                    n_docs,
+                    mission_filter
                 )
                 
                 # Format context
