@@ -16,13 +16,13 @@ class CustomerServiceBot:
     A chatbot that handles common customer inquiries for an e-commerce platform.
     """
 
-    def __init__(self, api_key: str, model: str = "gpt-3.5-turbo"):
+    def __init__(self, api_key: str, model: str = "gpt-4.1-mini"):
         """
         Initialize the customer service bot.
 
         Args:
             api_key: OpenAI API key (or Vocareum key)
-            model: The model to use for responses (default: gpt-3.5-turbo)
+            model: The model to use for responses (default: gpt-4.1-mini)
         """
         # Initialize the OpenAI client with Vocareum base URL
         self.client = OpenAI(

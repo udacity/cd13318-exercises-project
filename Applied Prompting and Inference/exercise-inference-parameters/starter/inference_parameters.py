@@ -26,7 +26,7 @@ class InferenceExplorer:
     A tool for exploring different LLM inference parameters and their effects.
     """
 
-    def __init__(self, api_key: str, model: str = "gpt-3.5-turbo"):
+    def __init__(self, api_key: str, model: str = "gpt-4.1-mini"):
         """
         Initialize the inference explorer.
 

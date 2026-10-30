@@ -16,7 +16,7 @@ class PromptEngineer:
     A tool for exploring and comparing different prompt engineering techniques.
     """
 
-    def __init__(self, api_key: str, model: str = "gpt-3.5-turbo"):
+    def __init__(self, api_key: str, model: str = "gpt-4.1-mini"):
         """Initialize the prompt engineer."""
         self.client = OpenAI(
             base_url="https://openai.vocareum.com/v1",
