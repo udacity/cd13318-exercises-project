@@ -117,6 +117,8 @@ class RAGSystemEvaluator:
             openai_api_key (str): OpenAI API key for LLM-based evaluations
         """
         # TODO: Initialize OpenAI client
+        # For Vocareum keys (they start with "voc"), add: base_url="https://openai.vocareum.com/v1"
+        # (pass the same base_url to ChatOpenAI and OpenAIEmbeddings for the RAGAS evaluator)
         self.openai_client = None
         
         # TODO: Initialize storage for evaluation results and datasets

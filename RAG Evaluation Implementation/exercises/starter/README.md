@@ -142,6 +142,8 @@ Fill in the `EVALUATION_DATASETS` with realistic test cases:
 
 **`__init__()` Method:**
 ```python
+# For Vocareum keys (they start with "voc"), add: base_url="https://openai.vocareum.com/v1"
+# (pass the same base_url to ChatOpenAI and OpenAIEmbeddings for the RAGAS evaluator)
 self.openai_client = OpenAI(api_key=openai_api_key)
 self.evaluation_results = {}
 self.test_datasets = {}

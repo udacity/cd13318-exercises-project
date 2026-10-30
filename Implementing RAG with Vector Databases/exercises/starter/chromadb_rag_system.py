@@ -160,6 +160,7 @@ class ChromaDBRAGSystem:
         
         # TODO: Initialize OpenAI client for embeddings and generation
         # SECURITY NOTE: Use environment variables for API keys in production
+        # For Vocareum keys (they start with "voc"), add: base_url="https://openai.vocareum.com/v1"
         self.openai_client = None
         
         # TODO: Initialize collections dictionary

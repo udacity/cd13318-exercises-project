@@ -58,7 +58,7 @@ MODEL_PRICING = {
         # TODO: Add output token price
         "output": 0
     },
-    "gpt-4-turbo": {
+    "gpt-4.1": {
         # TODO: Add input token price
         "input": 0,
         # TODO: Add output token price
@@ -159,6 +159,7 @@ def call_openai_api(prompt: str, config: Dict) -> Dict:
     try:
         # TODO: Initialize OpenAI client with your API key
         # SECURITY NOTE: Use environment variables for API keys in production
+        # For Vocareum keys (they start with "voc"), add: base_url="https://openai.vocareum.com/v1"
         client = OpenAI(api_key="YOUR_API_KEY_HERE")
         
         # TODO: Make the API call

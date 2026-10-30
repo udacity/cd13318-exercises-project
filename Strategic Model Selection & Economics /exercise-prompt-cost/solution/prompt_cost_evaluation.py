@@ -137,7 +137,12 @@ def call_openai_api(prompt: str, config: Dict) -> Dict:
     try:
         # Initialize OpenAI client with API key
         # Note: In production, use environment variables for API keys
-        client = OpenAI(api_key="your-key-here")
+        api_key = "your-key-here"
+        # Vocareum keys (they start with "voc") are routed through the Vocareum endpoint
+        client = OpenAI(
+            api_key=api_key,
+            base_url="https://openai.vocareum.com/v1" if api_key.startswith("voc") else None
+        )
         
         # Make the API call with specified configuration
         response = client.chat.completions.create(

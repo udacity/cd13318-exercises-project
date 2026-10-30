@@ -33,7 +33,7 @@ def demonstrate_stateless_conversation():
     print(f"Messages sent to API: {len(conversation_history)} messages")
 
     response_1 = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4.1-mini",
         messages=conversation_history
     )
 
@@ -51,7 +51,7 @@ def demonstrate_stateless_conversation():
     print(f"  (includes: system message, previous user message, previous assistant response)")
 
     response_2 = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4.1-mini",
         messages=conversation_history
     )
 
@@ -69,7 +69,7 @@ def demonstrate_stateless_conversation():
     print(f"  (The model needs ALL previous messages to understand what 'it' refers to)")
 
     response_3 = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4.1-mini",
         messages=conversation_history
     )
 

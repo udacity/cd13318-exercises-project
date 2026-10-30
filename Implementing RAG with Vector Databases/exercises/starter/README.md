@@ -121,6 +121,7 @@ self.client = chromadb.PersistentClient(
 )
 
 # Initialize OpenAI client
+# For Vocareum keys (they start with "voc"), add: base_url="https://openai.vocareum.com/v1"
 self.openai_client = OpenAI(api_key="YOUR_API_KEY_HERE")
 
 # Initialize collections dictionary
