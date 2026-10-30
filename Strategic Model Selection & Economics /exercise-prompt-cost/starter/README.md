@@ -85,7 +85,7 @@ Complete the `MODEL_PRICING` dictionary with current OpenAI pricing:
 2. Find current rates for:
    - gpt-4o-mini (input and output tokens)
    - gpt-4o (input and output tokens)
-   - gpt-4-turbo (input and output tokens)
+   - gpt-4.1 (input and output tokens)
 3. Convert prices to per-1K-token rates in USD
 
 **Example format:**

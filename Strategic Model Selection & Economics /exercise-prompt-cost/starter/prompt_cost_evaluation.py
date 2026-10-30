@@ -58,7 +58,7 @@ MODEL_PRICING = {
         # TODO: Add output token price
         "output": 0
     },
-    "gpt-4-turbo": {
+    "gpt-4.1": {
         # TODO: Add input token price
         "input": 0,
         # TODO: Add output token price
