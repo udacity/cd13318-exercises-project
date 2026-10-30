@@ -156,8 +156,11 @@ class ChromaDBRAGSystem:
         )
         
         # Initialize OpenAI client for embeddings and generation
+        api_key = "your-key-here"
+        # Vocareum keys (they start with "voc") are routed through the Vocareum endpoint
         self.openai_client = OpenAI(
-            api_key="your-key-here"
+            api_key=api_key,
+            base_url="https://openai.vocareum.com/v1" if api_key.startswith("voc") else None
         )
         
         # Store active collections for management

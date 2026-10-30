@@ -35,6 +35,7 @@ class InferenceExplorer:
             model: The model to use for experiments
         """
         # TODO: Initialize the OpenAI client
+        # For Vocareum keys (they start with "voc"), add: base_url="https://openai.vocareum.com/v1"
         self.client = None
 
         # TODO: Store the model name

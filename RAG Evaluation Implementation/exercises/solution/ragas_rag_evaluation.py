@@ -159,9 +159,11 @@ class RAGSystemEvaluator:
         Args:
             openai_api_key (str): OpenAI API key for LLM-based evaluations
         """
-        self.openai_client = OpenAI(api_key=openai_api_key)
-        self.evaluator_llm = LangchainLLMWrapper(ChatOpenAI(model="gpt-4o", api_key=openai_api_key))
-        langchain_openai_embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
+        # Vocareum keys (they start with "voc") are routed through the Vocareum endpoint
+        base_url = "https://openai.vocareum.com/v1" if openai_api_key.startswith("voc") else None
+        self.openai_client = OpenAI(api_key=openai_api_key, base_url=base_url)
+        self.evaluator_llm = LangchainLLMWrapper(ChatOpenAI(model="gpt-4o", api_key=openai_api_key, base_url=base_url))
+        langchain_openai_embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key, base_url=base_url)
         self.evaluator_embeddings = LangchainEmbeddingsWrapper(langchain_openai_embeddings)
         self.evaluation_results = {}
         self.test_datasets = {}
