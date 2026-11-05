@@ -18,8 +18,8 @@ def evaluate_response_quality(question: str, answer: str, contexts: List[str]) -
     if not RAGAS_AVAILABLE:
         return {"error": "RAGAS not available"}
     
-    # TODO: Create evaluator LLM with model gpt-3.5-turbo
-    # TODO: Create evaluator_embeddings with model test-embedding-3-small
+    # TODO: Create evaluator LLM with model gpt-4.1-mini
+    # TODO: Create evaluator_embeddings with model text-embedding-3-small
     # TODO: Define an instance for each metric to evaluate
     # TODO: Evaluate the response using the metrics
     # TODO: Return the evaluation results
