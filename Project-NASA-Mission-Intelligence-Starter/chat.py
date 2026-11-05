@@ -62,7 +62,7 @@ def format_context(documents: List[str], metadatas: List[Dict]) -> str:
     return rag_client.format_context(documents, metadatas)
 
 def generate_response(openai_key, user_message: str, context: str, 
-                     conversation_history: List[Dict], model: str = "gpt-3.5-turbo") -> str:
+                     conversation_history: List[Dict], model: str = "gpt-4.1-mini") -> str:
     """Generate response using OpenAI with context"""
     try:
         return llm_client.generate_response(openai_key, user_message, context, conversation_history, model)
@@ -161,7 +161,7 @@ def main():
         # Model selection
         model_choice = st.selectbox(
             "OpenAI Model",
-            options=["gpt-3.5-turbo", "gpt-4", "gpt-4-turbo-preview"],
+            options=["gpt-4.1-mini", "gpt-4.1", "gpt-4o"],
             help="Choose the OpenAI model for responses"
         )
         
