@@ -14,20 +14,20 @@ from openai import OpenAI
 # 2. "generation_optimized" - for creative, varied responses
 MODEL_CONFIGS = {
     "reasoning_optimized": {
-        # TODO: Choose appropriate model for reasoning (hint: o-series models excel at reasoning)
+        # TODO: Choose appropriate model for reasoning (hint: a reasoning model such as gpt-5-mini)
         "model": "",  
-        # TODO: Set temperature for consistent outputs (hint: lower values = more consistent)
+        # TODO: Set temperature (hint: gpt-5-mini accepts only the default, 1)
         "temperature": 0,
-        # TODO: Set max_tokens for response length
+        # TODO: Set max_tokens for response length (hint: hidden reasoning counts toward it, so allow about 2000)
         "max_tokens": 0,
-        "description": "Uses o-series model for best logical, step-by-step reasoning"
+        "description": "Uses a reasoning model for logical, step-by-step reasoning"
     },
     "generation_optimized": {
         # TODO: Choose appropriate model for generation (hint: gpt-4o is excellent for creativity)
         "model": "",
         # TODO: Set temperature for creative variation (hint: higher values = more creative)
         "temperature": 0,
-        # TODO: Set max_tokens for response length
+        # TODO: Set max_tokens for response length (hint: the same as the reasoning model, for a fair comparison)
         "max_tokens": 0,
         # TODO: Add top_p parameter for nucleus sampling
         "top_p": 0,

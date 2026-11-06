@@ -53,8 +53,6 @@ import pandas as pd
 import time
 import json
 from typing import Dict, List, Tuple
-import matplotlib.pyplot as plt
-import seaborn as sns
 from datetime import datetime
 import numpy as np
 ```
@@ -63,14 +61,14 @@ import numpy as np
 Fill in the `MODEL_CONFIGS` dictionary with appropriate values:
 
 **For reasoning_optimized:**
-- Model: Choose an o-series model (e.g., "o1-mini" or "o1-preview")
-- Temperature: Use a lower value (0.1-0.3) for consistent outputs
-- Max tokens: Set to 500-1000 for detailed reasoning
+- Model: Choose a reasoning model (e.g., "gpt-5-mini")
+- Temperature: 1 (gpt-5-mini accepts only the default)
+- Max tokens: 2000 (its hidden reasoning counts toward this limit, so a lower limit can leave no room for the answer)
 
 **For generation_optimized:**
-- Model: Choose a creative model (e.g., "gpt-4o" or "gpt-4-turbo")
+- Model: Choose a creative model (e.g., "gpt-4o" or "gpt-4.1")
 - Temperature: Use a higher value (0.7-1.0) for creative variation
-- Max tokens: Set to 500-1000 for longer creative responses
+- Max tokens: 2000 (the same as the reasoning model, for a fair comparison)
 - Top_p: Add nucleus sampling (0.9-0.95)
 
 ### Step 3: Design Test Prompts
@@ -152,9 +150,9 @@ Expected Answer: 6 apples
 ============================================================
 
 🤖 Testing reasoning_optimized:
-   Model: o1-mini | Temp: 0.2
-  🔄 Calling o1-mini (temp: 0.2)...
-  ✅ Success! Latency: 1250.5ms, Tokens: 45
+   Model: gpt-5-mini | Temp: 1.0
+  🔄 Calling gpt-5-mini (temp: 1.0)...
+  ✅ Success! Latency: 2583.47ms, Tokens: 158
 
 📝 RESPONSE:
 ----------------------------------------
@@ -162,8 +160,8 @@ Sarah starts with 5 apples, gives 2 to Tom (5-2=3),
 then buys 3 more (3+3=6). Sarah has 6 apples.
 ----------------------------------------
 ✅ Accuracy Score: 5/5
-⏱️  Latency: 1250.5ms
-🔢 Tokens: 45
+⏱️  Latency: 2583.47ms
+🔢 Tokens: 158
 ```
 
 ## Troubleshooting
@@ -181,7 +179,7 @@ then buys 3 more (3+3=6). Sarah has 6 apples.
 
 3. **Model Not Available**:
    - Some models may not be available in all regions
-   - Try alternative models (gpt-4o, gpt-4-turbo, etc.)
+   - Try alternative models (gpt-4o, gpt-4.1, etc.)
 
 4. **Rate Limiting**:
    - Add delays between API calls if needed

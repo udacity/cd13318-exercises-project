@@ -16,16 +16,16 @@ import numpy as np
 MODEL_CONFIGS = {
     # Configuration optimized for logical reasoning and step-by-step problem solving
     "reasoning_optimized": {
-        "model": "o4-mini",  # O-series models excel at reasoning tasks
+        "model": "gpt-5-mini",  # A reasoning model for logical, step-by-step tasks
         "temperature": 1.0,    # Only 1 accepted for this model
-        "max_tokens": 500,   # Sufficient tokens for detailed reasoning
-        "description": "Uses o-series model for best logical, step-by-step reasoning"
+        "max_tokens": 2000,  # Its hidden reasoning counts toward this limit, so leave room for the answer
+        "description": "Uses a reasoning model for logical, step-by-step reasoning"
     },
     # Configuration optimized for creative content generation
     "generation_optimized": {
         "model": "gpt-4o",   # GPT-4o provides excellent creative capabilities
         "temperature": 1.0,  # Higher temperature encourages creative variation
-        "max_tokens": 500,   # Allow for longer creative responses
+        "max_tokens": 2000,  # Same budget as the reasoning model, for a fair comparison
         "top_p": 0.95,      # Nucleus sampling for diverse but coherent outputs
         "description": "High temperature for creative, varied responses"
     }
