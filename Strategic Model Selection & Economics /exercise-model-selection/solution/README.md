@@ -29,8 +29,8 @@ By studying this solution, students will understand:
 
 The solution defines two distinct configurations:
 
-- **Reasoning Optimized**: Uses o4-mini with lower temperature for consistent, logical outputs
-- **Generation Optimized**: Uses gpt-4o with higher temperature for creative, varied responses
+- **Reasoning Optimized**: Uses gpt-5-mini at temperature 1.0 (the only value it accepts) for logical, step-by-step outputs
+- **Generation Optimized**: Uses gpt-4o at temperature 1.0 for creative, varied responses
 
 ### 2. Test Prompts
 
@@ -108,11 +108,10 @@ The solution provides detailed output including:
 ## Key Insights from the Solution
 
 ### 1. Temperature Impact
-- **Lower temperature (1.0)**: More consistent, focused responses ideal for reasoning
-- **Higher temperature (1.0)**: More creative variation suitable for generation tasks
+- **Both configurations use 1.0**: gpt-5-mini accepts only the default, and 1.0 keeps gpt-4o's creative responses varied
 
 ### 2. Model Selection
-- **O-series models**: Excel at step-by-step reasoning and logical tasks
+- **Reasoning models (gpt-5-mini)**: Excel at step-by-step reasoning and logical tasks
 - **GPT-4o**: Provides excellent creative capabilities and varied outputs
 
 ### 3. Evaluation Challenges
