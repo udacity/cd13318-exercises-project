@@ -67,10 +67,11 @@ ImportError: cannot import name 'ChatVertexAI'
 
 #### Fix
 
-Update the imports in:
+Update the imports in RAGAS's `llms/base.py`. In the terminal you will use for the next steps, store its path (on the Udacity workspace it is under `/opt/venv/lib/python3.x/site-packages/ragas/`, and the Python version differs between workspaces):
 
-```text
-/opt/venv/lib/python3.10/site-packages/ragas/llms/base.py
+```bash
+RAGAS_BASE=$(python -c "import importlib.util, os; print(os.path.join(os.path.dirname(importlib.util.find_spec('ragas').origin), 'llms', 'base.py'))")
+echo "$RAGAS_BASE"
 ```
 
 Replace:
@@ -90,9 +91,9 @@ from langchain_google_vertexai import VertexAI
 Using `sed`:
 
 ```bash
-sed -i 's/from langchain_community.chat_models.vertexai import ChatVertexAI/from langchain_google_vertexai import ChatVertexAI/' /opt/venv/lib/python3.10/site-packages/ragas/llms/base.py
+sed -i 's/from langchain_community.chat_models.vertexai import ChatVertexAI/from langchain_google_vertexai import ChatVertexAI/' "$RAGAS_BASE"
 
-sed -i 's/from langchain_community.llms import VertexAI/from langchain_google_vertexai import VertexAI/' /opt/venv/lib/python3.10/site-packages/ragas/llms/base.py
+sed -i 's/from langchain_community.llms import VertexAI/from langchain_google_vertexai import VertexAI/' "$RAGAS_BASE"
 ```
 
 #### Verification
@@ -100,7 +101,7 @@ sed -i 's/from langchain_community.llms import VertexAI/from langchain_google_ve
 Verify that the imports were updated:
 
 ```bash
-grep -n "VertexAI" /opt/venv/lib/python3.10/site-packages/ragas/llms/base.py
+grep -n "VertexAI" "$RAGAS_BASE"
 ```
 
 Expected:
